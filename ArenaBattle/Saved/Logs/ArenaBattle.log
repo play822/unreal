@@ -956,3 +956,91 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.02.07-05.38.57:478][678]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
 [2023.02.07-05.38.57:979][678]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
 [2023.02.07-05.38.58:480][678]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2023.02.07-05.38.58:980][678]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2023.02.07-05.38.59:480][678]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2023.02.07-05.38.59:981][678]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2023.02.07-05.39.00:481][678]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2023.02.07-05.39.00:982][678]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2023.02.07-05.39.01:483][678]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2023.02.07-05.39.01:983][678]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2023.02.07-05.39.02:483][678]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2023.02.07-05.39.02:984][678]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2023.02.07-05.39.03:485][678]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2023.02.07-05.39.03:986][678]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2023.02.07-05.39.04:486][678]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2023.02.07-05.39.04:986][678]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2023.02.07-05.39.05:486][678]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2023.02.07-05.39.05:986][678]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2023.02.07-05.39.06:487][678]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2023.02.07-05.39.06:988][678]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2023.02.07-05.39.07:489][678]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2023.02.07-05.39.07:989][678]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2023.02.07-05.39.08:490][678]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2023.02.07-05.39.08:990][678]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2023.02.07-05.39.09:491][678]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2023.02.07-05.39.09:991][678]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2023.02.07-05.39.10:491][678]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2023.02.07-05.39.10:992][678]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2023.02.07-05.39.11:492][678]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2023.02.07-05.39.11:993][678]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2023.02.07-05.39.12:494][678]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2023.02.07-05.39.12:994][678]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2023.02.07-05.39.13:495][678]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2023.02.07-05.39.13:995][678]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2023.02.07-05.39.14:496][678]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2023.02.07-05.39.14:996][678]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2023.02.07-05.39.15:496][678]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2023.02.07-05.39.15:996][678]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2023.02.07-05.39.16:497][678]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2023.02.07-05.39.16:997][678]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2023.02.07-05.39.17:498][678]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2023.02.07-05.39.17:999][678]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2023.02.07-05.39.18:499][678]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2023.02.07-05.39.18:999][678]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2023.02.07-05.39.19:500][678]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2023.02.07-05.39.20:001][678]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2023.02.07-05.39.20:502][678]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2023.02.07-05.39.21:003][678]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2023.02.07-05.39.21:503][678]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2023.02.07-05.39.22:003][678]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2023.02.07-05.39.22:503][678]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2023.02.07-05.39.23:004][678]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2023.02.07-05.39.23:505][678]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2023.02.07-05.39.24:005][678]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2023.02.07-05.39.24:505][678]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2023.02.07-05.39.25:006][678]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2023.02.07-05.39.25:506][678]LogHttp: Warning: 000002378E14B380: request failed, libcurl error: 35 (SSL connect error)
+[2023.02.07-05.39.25:506][678]LogHttp: Warning: 000002378E14B380: libcurl info message cache 0 (  Trying 34.234.135.69...)
+[2023.02.07-05.39.25:506][678]LogHttp: Warning: 000002378E14B380: libcurl info message cache 1 (TCP_NODELAY set)
+[2023.02.07-05.39.25:506][678]LogHttp: Warning: 000002378E14B380: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.234.135.69) port 443 (#0))
+[2023.02.07-05.39.25:506][678]LogHttp: Warning: 000002378E14B380: libcurl info message cache 3 (ALPN, offering http/1.1)
+[2023.02.07-05.39.25:506][678]LogHttp: Warning: 000002378E14B380: libcurl info message cache 4 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2023.02.07-05.39.25:506][678]LogHttp: Warning: 000002378E14B380: libcurl info message cache 5 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2023.02.07-05.39.25:506][678]LogHttp: Warning: 000002378E14B380: libcurl info message cache 6 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2023.02.07-05.39.25:506][678]LogHttp: Warning: 000002378E14B380: libcurl info message cache 7 (Closing connection 0)
+[2023.02.07-05.39.25:515][678]LogModuleManager: Shutting down and abandoning module SSL (50)
+[2023.02.07-05.39.25:516][678]LogModuleManager: Shutting down and abandoning module WmfMedia (46)
+[2023.02.07-05.39.25:517][678]LogModuleManager: Shutting down and abandoning module Media (45)
+[2023.02.07-05.39.25:523][678]LogModuleManager: Shutting down and abandoning module MagicLeap (42)
+[2023.02.07-05.39.25:524][678]LogModuleManager: Shutting down and abandoning module DatasmithContent (40)
+[2023.02.07-05.39.25:524][678]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2023.02.07-05.39.25:524][678]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2023.02.07-05.39.25:524][678]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2023.02.07-05.39.25:524][678]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2023.02.07-05.39.25:524][678]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2023.02.07-05.39.25:524][678]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2023.02.07-05.39.25:524][678]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2023.02.07-05.39.25:525][678]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2023.02.07-05.39.25:525][678]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2023.02.07-05.39.25:525][678]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2023.02.07-05.39.25:525][678]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2023.02.07-05.39.25:525][678]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2023.02.07-05.39.25:525][678]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2023.02.07-05.39.25:525][678]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2023.02.07-05.39.25:525][678]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2023.02.07-05.39.25:525][678]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2023.02.07-05.39.25:525][678]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2023.02.07-05.39.25:525][678]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2023.02.07-05.39.25:525][678]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2023.02.07-05.39.25:534][678]LogExit: Exiting.
+[2023.02.07-05.39.25:543][678]Log file closed, 02/07/23 14:39:25
