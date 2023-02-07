@@ -1,6 +1,6 @@
-E:\Study\unreal\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\Definitions.ArenaBattle.h
-e:\study\unreal\arenabattle\source\arenabattle\ABGameMode.h
-e:\study\unreal\arenabattle\source\arenabattle\ArenaBattle.h
+E:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\Definitions.ArenaBattle.h
+e:\git\arenabattle\arenabattle\source\arenabattle\ABGameMode.h
+e:\git\arenabattle\arenabattle\source\arenabattle\ArenaBattle.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Public\EngineMinimal.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Core\Public\Misc/MonolithicHeaderBoilerplate.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\CoreUObject.h
@@ -193,10 +193,10 @@ C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\In
 c:\program files\epic games\ue_4.22\engine\source\runtime\engine\classes\kismet\GameplayStaticsTypes.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStaticsTypes.generated.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStatics.generated.h
-E:\Study\unreal\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Inc\ArenaBattle\ABGameMode.generated.h
-e:\study\unreal\arenabattle\source\arenabattle\ABPawn.h
+E:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Inc\ArenaBattle\ABGameMode.generated.h
+e:\git\arenabattle\arenabattle\source\arenabattle\ABPawn.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/FloatingPawnMovement.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\FloatingPawnMovement.generated.h
-E:\Study\unreal\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Inc\ArenaBattle\ABPawn.generated.h
-e:\study\unreal\arenabattle\source\arenabattle\ABPlayerController.h
-E:\Study\unreal\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Inc\ArenaBattle\ABPlayerController.generated.h
+E:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Inc\ArenaBattle\ABPawn.generated.h
+e:\git\arenabattle\arenabattle\source\arenabattle\ABPlayerController.h
+E:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Inc\ArenaBattle\ABPlayerController.generated.h
