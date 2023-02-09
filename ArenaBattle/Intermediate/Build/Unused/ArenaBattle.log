@@ -1,18 +1,15 @@
-﻿  Using 'git status' to determine working set for adaptive non-unity build (E:\git\ArenaBattle).
+﻿  Using 'git status' to determine working set for adaptive non-unity build (D:\git\ArenaBattle).
   Creating makefile for ArenaBattleEditor (ini files are newer than makefile)
   Parsing headers for ArenaBattleEditor
-    Running UnrealHeaderTool "E:\git\ArenaBattle\ArenaBattle\ArenaBattle.uproject" "E:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\ArenaBattleEditor\Development\ArenaBattleEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
-  Reflection code generated for ArenaBattleEditor in 4.0617034 seconds
+    Running UnrealHeaderTool "D:\git\ArenaBattle\ArenaBattle\ArenaBattle.uproject" "D:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\ArenaBattleEditor\Development\ArenaBattleEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+  Reflection code generated for ArenaBattleEditor in 13.9669748 seconds
   Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
-  Building 7 actions with 12 processes...
-    [1/7] ArenaBattle.init.gen.cpp
-    [2/7] ABAnimInstance.cpp
-    [3/7] ABCharacter.cpp
-    [4/7] ABAnimInstance.gen.cpp
-    [5/7] UE4Editor-ArenaBattle-0002.lib
-       E:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\UE4Editor-ArenaBattle-0002.lib 라이브러리 및 E:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\UE4Editor-ArenaBattle-0002.exp 개체를 생성하고 있습니다.
-    [6/7] UE4Editor-ArenaBattle-0002.dll
-       E:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\UE4Editor-ArenaBattle-0002.suppressed.lib 라이브러리 및 E:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\UE4Editor-ArenaBattle-0002.suppressed.exp 개체를 생성하고 있습니다.
-    [7/7] ArenaBattleEditor.target
-  Total time in Parallel executor: 3.38 seconds
-  Total execution time: 8.72 seconds
+  Building 4 actions with 6 processes...
+    [1/4] ABCharacter.cpp
+    [2/4] UE4Editor-ArenaBattle.lib
+       D:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\UE4Editor-ArenaBattle.lib 라이브러리 및 D:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\UE4Editor-ArenaBattle.exp 개체를 생성하고 있습니다.
+    [3/4] UE4Editor-ArenaBattle.dll
+       D:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\UE4Editor-ArenaBattle.suppressed.lib 라이브러리 및 D:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\UE4Editor-ArenaBattle.suppressed.exp 개체를 생성하고 있습니다.
+    [4/4] ArenaBattleEditor.target
+  Total time in Parallel executor: 160.80 seconds
+  Total execution time: 177.82 seconds
