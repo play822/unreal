@@ -2,7 +2,7 @@
   Creating makefile for ArenaBattleEditor (ini files are newer than makefile)
   Parsing headers for ArenaBattleEditor
     Running UnrealHeaderTool "D:\git\ArenaBattle\ArenaBattle\ArenaBattle.uproject" "D:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\ArenaBattleEditor\Development\ArenaBattleEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
-  Reflection code generated for ArenaBattleEditor in 13.9669748 seconds
+  Reflection code generated for ArenaBattleEditor in 4.8663742 seconds
   Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
   Building 4 actions with 6 processes...
     [1/4] ABCharacter.cpp
@@ -11,5 +11,5 @@
     [3/4] UE4Editor-ArenaBattle.dll
        D:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\UE4Editor-ArenaBattle.suppressed.lib 라이브러리 및 D:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\UE4Editor-ArenaBattle.suppressed.exp 개체를 생성하고 있습니다.
     [4/4] ArenaBattleEditor.target
-  Total time in Parallel executor: 160.80 seconds
-  Total execution time: 177.82 seconds
+  Total time in Parallel executor: 3.94 seconds
+  Total execution time: 10.43 seconds
