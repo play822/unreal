@@ -72,4 +72,20 @@
       <Filter>Source\ArenaBattle</Filter>
     </ClInclude>
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Source\ArenaBattle\ABWeapon.h">
+      <Filter>Source\ArenaBattle</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\ArenaBattle\ABItemBox.h">
+      <Filter>Source\ArenaBattle</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Source\ArenaBattle\ABWeapon.cpp">
+      <Filter>Source\ArenaBattle</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ArenaBattle\ABItemBox.cpp">
+      <Filter>Source\ArenaBattle</Filter>
+    </ClCompile>
+  </ItemGroup>
 </Project>
