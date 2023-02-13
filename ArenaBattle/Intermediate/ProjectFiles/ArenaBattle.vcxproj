@@ -376,7 +376,13 @@
     <ClInclude Include="..\..\Source\ArenaBattle\ABAnimInstance.h" />
     <ClCompile Include="..\..\Source\ArenaBattle\ABCharacter.cpp" />
     <ClInclude Include="..\..\Source\ArenaBattle\ABCharacter.h" />
+    <ClCompile Include="..\..\Source\ArenaBattle\ABCharacterStatComponent.cpp" />
+    <ClCompile Include="..\..\Source\ArenaBattle\ABCharacterWidget.cpp" />
+    <ClCompile Include="..\..\Source\ArenaBattle\ABGameInstance.cpp" />
     <ClCompile Include="..\..\Source\ArenaBattle\ABGameMode.cpp" />
+    <ClInclude Include="..\..\Source\ArenaBattle\ABCharacterStatComponent.h" />
+    <ClInclude Include="..\..\Source\ArenaBattle\ABCharacterWidget.h" />
+    <ClInclude Include="..\..\Source\ArenaBattle\ABGameInstance.h" />
     <ClInclude Include="..\..\Source\ArenaBattle\ABGameMode.h" />
     <ClCompile Include="..\..\Source\ArenaBattle\ABItemBox.cpp" />
     <ClCompile Include="..\..\Source\ArenaBattle\ABPawn.cpp" />
