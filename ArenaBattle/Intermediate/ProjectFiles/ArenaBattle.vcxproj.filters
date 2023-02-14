@@ -102,4 +102,20 @@
       <Filter>Source\ArenaBattle</Filter>
     </ClInclude>
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Source\ArenaBattle\ABAIController.h">
+      <Filter>Source\ArenaBattle</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\ArenaBattle\BTTask_FindPatrolPos.h">
+      <Filter>Source\ArenaBattle</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Source\ArenaBattle\ABAIController.cpp">
+      <Filter>Source\ArenaBattle</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ArenaBattle\BTTask_FindPatrolPos.cpp">
+      <Filter>Source\ArenaBattle</Filter>
+    </ClCompile>
+  </ItemGroup>
 </Project>

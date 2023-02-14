@@ -2,7 +2,7 @@
 
 #pragma once
 
-#include "CoreMinimal.h"
+#include "ArenaBattle.h"
 #include "Components/ActorComponent.h"
 #include "ABCharacterStatComponent.generated.h"
 

@@ -2,37 +2,23 @@
   Creating makefile for ArenaBattleEditor (ini files are newer than makefile)
   Parsing headers for ArenaBattleEditor
     Running UnrealHeaderTool "D:\git\ArenaBattle\ArenaBattle\ArenaBattle.uproject" "D:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\ArenaBattleEditor\Development\ArenaBattleEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
-  Reflection code generated for ArenaBattleEditor in 4.8313847 seconds
+  Reflection code generated for ArenaBattleEditor in 5.0571994 seconds
+  Deleted hot-reload file: D:\git\ArenaBattle\ArenaBattle\Binaries\Win64\UE4Editor-ArenaBattle-0001.dll
+  Deleted hot-reload file: D:\git\ArenaBattle\ArenaBattle\Binaries\Win64\UE4Editor-ArenaBattle-0002.dll
+  Deleted hot-reload file: D:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\UE4Editor-ArenaBattle-0001.lib
+  Deleted hot-reload file: D:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\UE4Editor-ArenaBattle-0002.lib
   Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
-  Building 27 actions with 6 processes...
-    [1/27] Default.rc2
-    [2/27] SharedPCH.Engine.cpp
-    [3/27] ABGameInstance.cpp
-    [4/27] ABCharacterStatComponent.cpp
-    [5/27] ABGameMode.cpp
-    [6/27] ABAnimInstance.cpp
-    [7/27] ABWeapon.cpp
-    [8/27] ABPawn.cpp
-    [9/27] ABPlayerController.cpp
-    [10/27] ABItemBox.cpp
-    [11/27] ABCharacterWidget.cpp
-    [12/27] ABCharacter.cpp
-    [13/27] ABCharacterStatComponent.gen.cpp
-    [14/27] ABAnimInstance.gen.cpp
-    [15/27] ABGameMode.gen.cpp
-    [16/27] ABItemBox.gen.cpp
-    [17/27] ABGameInstance.gen.cpp
-    [18/27] ABPawn.gen.cpp
-    [19/27] ArenaBattle.init.gen.cpp
-    [20/27] ABCharacterWidget.gen.cpp
-    [21/27] ABWeapon.gen.cpp
-    [22/27] ABPlayerController.gen.cpp
-    [23/27] ABCharacter.gen.cpp
-    [24/27] ArenaBattle.cpp
-    [25/27] UE4Editor-ArenaBattle.lib
+  Building 9 actions with 6 processes...
+    [1/9] BTTask_FindPatrolPos.gen.cpp
+    [2/9] ABCharacterStatComponent.gen.cpp
+    [3/9] ABCharacterStatComponent.cpp
+    [4/9] BTTask_FindPatrolPos.cpp
+    [5/9] ABCharacterWidget.cpp
+    [6/9] ABCharacter.cpp
+    [7/9] UE4Editor-ArenaBattle.lib
        D:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\UE4Editor-ArenaBattle.lib 라이브러리 및 D:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\UE4Editor-ArenaBattle.exp 개체를 생성하고 있습니다.
-    [26/27] UE4Editor-ArenaBattle.dll
+    [8/9] UE4Editor-ArenaBattle.dll
        D:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\UE4Editor-ArenaBattle.suppressed.lib 라이브러리 및 D:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\UE4Editor-ArenaBattle.suppressed.exp 개체를 생성하고 있습니다.
-    [27/27] ArenaBattleEditor.target
-  Total time in Parallel executor: 29.97 seconds
-  Total execution time: 36.56 seconds
+    [9/9] ArenaBattleEditor.target
+  Total time in Parallel executor: 8.56 seconds
+  Total execution time: 15.40 seconds
