@@ -1,8 +1,8 @@
 // Fill out your copyright notice in the Description page of Project Settings.
 
-
 #include "ABCharacterStatComponent.h"
 #include "ABGameInstance.h"
+
 
 // Sets default values for this component's properties
 UABCharacterStatComponent::UABCharacterStatComponent()
@@ -13,17 +13,12 @@ UABCharacterStatComponent::UABCharacterStatComponent()
 	bWantsInitializeComponent = true;
 
 	Level = 1;
-	// ...
 }
-
 
 // Called when the game starts
 void UABCharacterStatComponent::BeginPlay()
 {
 	Super::BeginPlay();
-
-	// ...
-	
 }
 
 void UABCharacterStatComponent::InitializeComponent()
@@ -41,50 +36,40 @@ void UABCharacterStatComponent::SetNewLevel(int32 NewLevel)
 	if (nullptr != CurrentStatData)
 	{
 		Level = NewLevel;
-		SetHp(CurrentStatData->MaxHP);
-		CurrentHP = CurrentStatData->MaxHP;
+		SetHP(CurrentStatData->MaxHP);
 	}
 	else
 	{
-		ABLOG(Error, TEXT("LEvel (%d) data doesn't exist"), NewLevel);
+		ABLOG(Error, TEXT("Level (%d) data doesn't exist"), NewLevel);
 	}
 }
 
 void UABCharacterStatComponent::SetDamage(float NewDamage)
 {
 	ABCHECK(nullptr != CurrentStatData);
-	SetHp(FMath::Clamp<float>(CurrentHP - NewDamage, 0.f, CurrentStatData->MaxHP));
+	SetHP(FMath::Clamp<float>(CurrentHP - NewDamage, 0.0f, CurrentStatData->MaxHP));
 }
 
-void UABCharacterStatComponent::SetHp(float NewHp)
+void UABCharacterStatComponent::SetHP(float NewHP)
 {
-	CurrentHP = NewHp;
+	CurrentHP = NewHP;
 	OnHPChanged.Broadcast();
 	if (CurrentHP < KINDA_SMALL_NUMBER)
 	{
-		CurrentHP = 0.f;
+		CurrentHP = 0.0f;
 		OnHPIsZero.Broadcast();
 	}
 }
 
 float UABCharacterStatComponent::GetAttack()
 {
-	ABCHECK(nullptr != CurrentStatData, 0.f);
+	ABCHECK(nullptr != CurrentStatData, 0.0f);
 	return CurrentStatData->Attack;
 }
 
 float UABCharacterStatComponent::GetHPRatio()
 {
-	ABCHECK(nullptr != CurrentStatData, 0.f);
-	return (CurrentStatData->MaxHP < KINDA_SMALL_NUMBER) ? 0.f : (CurrentHP / CurrentStatData->MaxHP);
+	ABCHECK(nullptr != CurrentStatData, 0.0f);
+
+	return (CurrentStatData->MaxHP < KINDA_SMALL_NUMBER) ? 0.0f : (CurrentHP / CurrentStatData->MaxHP);
 }
-
-
-// Called every frame
-void UABCharacterStatComponent::TickComponent(float DeltaTime, ELevelTick TickType, FActorComponentTickFunction* ThisTickFunction)
-{
-	Super::TickComponent(DeltaTime, TickType, ThisTickFunction);
-
-	// ...
-}
-

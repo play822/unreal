@@ -8,30 +8,28 @@
 #include "ABGameInstance.generated.h"
 
 USTRUCT(BlueprintType)
-struct FABCharacterDate : public FTableRowBase
+struct FABCharacterData : public FTableRowBase
 {
 	GENERATED_BODY()
 
 public:
-	FABCharacterDate() : Level(1), MaxHP(100.f), Attack(10.f), DropExp(10), NextExp(30) {}
+	FABCharacterData() : Level(1), MaxHP(100.0f), Attack(10.0f), DropExp(10), NextExp(30) {}
 
-	UPROPERTY(EditAnyWhere, BlueprintReadWrite, Category = "Data")
-		int32 Level;
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Data")
+	int32 Level;
 
-	UPROPERTY(EditAnyWhere, BlueprintReadWrite, Category = "Data")
-		float MaxHP;
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Data")
+	float MaxHP;
 
-	UPROPERTY(EditAnyWhere, BlueprintReadWrite, Category = "Data")
-		float Attack;
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Data")
+	float Attack;
 
-	UPROPERTY(EditAnyWhere, BlueprintReadWrite, Category = "Data")
-		int32 DropExp;
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Data")
+	int32 DropExp;
 
-	UPROPERTY(EditAnyWhere, BlueprintReadWrite, Category = "Data")
-		int32 NextExp;
-
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Data")
+	int32 NextExp;
 };
-
 
 /**
  * 
@@ -45,9 +43,9 @@ public:
 	UABGameInstance();
 
 	virtual void Init() override;
-	FABCharacterDate* GetABCharacterData(int32 Level);
+	FABCharacterData* GetABCharacterData(int32 Level);
 
 private:
 	UPROPERTY()
-		class UDataTable* ABCharacterTable;
+	class UDataTable* ABCharacterTable;
 };

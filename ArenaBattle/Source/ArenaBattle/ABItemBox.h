@@ -20,27 +20,23 @@ protected:
 	virtual void BeginPlay() override;
 	virtual void PostInitializeComponents() override;
 
-public:
+public:	
 	UPROPERTY(VisibleAnywhere, Category = Box)
-		UBoxComponent* Trigger;
+	UBoxComponent* Trigger;
 
 	UPROPERTY(VisibleAnywhere, Category = Box)
-		UStaticMeshComponent* Box;
-
+	UStaticMeshComponent* Box;
+	
 	UPROPERTY(VisibleAnywhere, Category = Effect)
-		UParticleSystemComponent* Effect;
+	UParticleSystemComponent* Effect;
 
 	UPROPERTY(EditInstanceOnly, Category = Box)
-		TSubclassOf<class AABWeapon> WeaponItemClass;
+	TSubclassOf<class AABWeapon> WeaponItemClass;
 
 private:
 	UFUNCTION()
-		void OnCharacterOverlap(UPrimitiveComponent* OverLappedComp, AActor* OtherActor, UPrimitiveComponent* OtherComp, int32 OtherBodyIndex, bool bFromSweep, const FHitResult& SweepResult);
+	void OnCharacterOverlap(UPrimitiveComponent* OverlappedComp, AActor* OtherActor, UPrimitiveComponent* OtherComp, int32 OtherBodyIndex, bool bFromSweep, const FHitResult& SweepResult);
 
 	UFUNCTION()
-		void OnEffectFinished(class UParticleSystemComponent* PSystem);
-public:	
-	// Called every frame
-	virtual void Tick(float DeltaTime) override;
-
+	void OnEffectFinished(class UParticleSystemComponent* PSystem);
 };

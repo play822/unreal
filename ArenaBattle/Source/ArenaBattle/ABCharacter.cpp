@@ -1,6 +1,5 @@
 // Fill out your copyright notice in the Description page of Project Settings.
 
-
 #include "ABCharacter.h"
 #include "ABAnimInstance.h"
 #include "ABWeapon.h"
@@ -48,13 +47,15 @@ AABCharacter::AABCharacter()
 
 	ArmLengthSpeed = 3.0f;
 	ArmRotationSpeed = 10.0f;
-	GetCharacterMovement()->JumpZVelocity = 800.f;
+	GetCharacterMovement()->JumpZVelocity = 800.0f;
+
 	IsAttacking = false;
 	MaxCombo = 4;
-	AttackEndCombState();
+	AttackEndComboState();
+
 	GetCapsuleComponent()->SetCollisionProfileName(TEXT("ABCharacter"));
-	AttackRange = 200.f;
-	AttackRadius = 50.f;
+	AttackRange = 200.0f;
+	AttackRadius = 50.0f;
 
 	HPBarWidget->SetRelativeLocation(FVector(0.0f, 0.0f, 180.0f));
 	HPBarWidget->SetWidgetSpace(EWidgetSpace::Screen);
@@ -70,6 +71,12 @@ AABCharacter::AABCharacter()
 void AABCharacter::BeginPlay()
 {
 	Super::BeginPlay();
+
+	auto CharacterWidget = Cast<UABCharacterWidget>(HPBarWidget->GetUserWidgetObject());
+	if (nullptr != CharacterWidget)
+	{
+		CharacterWidget->BindCharacterStat(CharacterStat);
+	}
 }
 
 void AABCharacter::SetControlMode(EControlMode NewControlMode)
@@ -144,7 +151,7 @@ void AABCharacter::PostInitializeComponents()
 
 	ABAnim->OnMontageEnded.AddDynamic(this, &AABCharacter::OnAttackMontageEnded);
 
-	ABAnim->OnNextAttackCheck.AddLambda([this]() -> void {
+	ABAnim->OnNextAttackCheck.AddLambda([this]() -> void{
 
 		ABLOG(Warning, TEXT("OnNextAttackCheck"));
 		CanNextCombo = false;
@@ -158,17 +165,11 @@ void AABCharacter::PostInitializeComponents()
 
 	ABAnim->OnAttackHitCheck.AddUObject(this, &AABCharacter::AttackCheck);
 
-	CharacterStat->OnHPIsZero.AddLambda([this]()->void {
+	CharacterStat->OnHPIsZero.AddLambda([this]() -> void {
 		ABLOG(Warning, TEXT("OnHPIsZero"));
 		ABAnim->SetDeadAnim();
 		SetActorEnableCollision(false);
 	});
-
-	auto CharacterWidget = Cast<UABCharacterWidget>(HPBarWidget->GetUserWidgetObject());
-	if (nullptr != CharacterWidget)
-	{
-		CharacterWidget->BindCharacterStat(CharacterStat);
-	}
 
 }
 
@@ -180,7 +181,6 @@ float AABCharacter::TakeDamage(float DamageAmount, FDamageEvent const & DamageEv
 	CharacterStat->SetDamage(FinalDamage);
 	return FinalDamage;
 }
-
 
 // Called to bind functionality to input
 void AABCharacter::SetupPlayerInputComponent(UInputComponent* PlayerInputComponent)
@@ -199,7 +199,7 @@ void AABCharacter::SetupPlayerInputComponent(UInputComponent* PlayerInputCompone
 
 bool AABCharacter::CanSetWeapon()
 {
-	return(nullptr == CurrentWeapon);
+	return (nullptr == CurrentWeapon);
 }
 
 void AABCharacter::SetWeapon(AABWeapon * NewWeapon)
@@ -240,22 +240,22 @@ void AABCharacter::LeftRight(float NewAxisValue)
 	}
 }
 
-void AABCharacter::LookUp(float NewAxisValue)
-{
-	switch (CurrentControlMode)
-	{
-	case EControlMode::GTA:
-		AddControllerPitchInput(NewAxisValue);
-		break;
-	}
-}
-
 void AABCharacter::Turn(float NewAxisValue)
 {
 	switch (CurrentControlMode)
 	{
 	case EControlMode::GTA:
 		AddControllerYawInput(NewAxisValue);
+		break;
+	}
+}
+
+void AABCharacter::LookUp(float NewAxisValue)
+{
+	switch (CurrentControlMode)
+	{
+	case EControlMode::GTA:
+		AddControllerPitchInput(NewAxisValue);
 		break;
 	}
 }
@@ -281,7 +281,9 @@ void AABCharacter::Attack()
 	{
 		ABCHECK(FMath::IsWithinInclusive<int32>(CurrentCombo, 1, MaxCombo));
 		if (CanNextCombo)
+		{
 			IsComboInputOn = true;
+		}
 	}
 	else
 	{
@@ -296,20 +298,20 @@ void AABCharacter::Attack()
 void AABCharacter::OnAttackMontageEnded(UAnimMontage * Montage, bool bInterrupted)
 {
 	ABCHECK(IsAttacking);
-	ABCHECK(CurrentCombo>0);
+	ABCHECK(CurrentCombo > 0);
 	IsAttacking = false;
-	AttackEndCombState();
+	AttackEndComboState();
 }
 
 void AABCharacter::AttackStartComboState()
 {
 	CanNextCombo = true;
 	IsComboInputOn = false;
-	ABCHECK(FMath::IsWithinInclusive<int32>(CurrentCombo, 0, MaxCombo -1));
+	ABCHECK(FMath::IsWithinInclusive<int32>(CurrentCombo, 0, MaxCombo - 1));
 	CurrentCombo = FMath::Clamp<int32>(CurrentCombo + 1, 1, MaxCombo);
 }
 
-void AABCharacter::AttackEndCombState()
+void AABCharacter::AttackEndComboState()
 {
 	IsComboInputOn = false;
 	CanNextCombo = false;
@@ -357,8 +359,6 @@ void AABCharacter::AttackCheck()
 
 			FDamageEvent DamageEvent;
 			HitResult.Actor->TakeDamage(CharacterStat->GetAttack(), DamageEvent, GetController(), this);
-
 		}
 	}
-
 }

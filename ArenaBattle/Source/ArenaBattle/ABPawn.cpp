@@ -1,7 +1,7 @@
 // Fill out your copyright notice in the Description page of Project Settings.
 
-
 #include "ABPawn.h"
+
 
 // Sets default values
 AABPawn::AABPawn()
@@ -41,13 +41,13 @@ AABPawn::AABPawn()
 	{
 		Mesh->SetAnimInstanceClass(WARRIOR_ANIM.Class);
 	}
-
 }
 
 // Called when the game starts or when spawned
 void AABPawn::BeginPlay()
 {
 	Super::BeginPlay();
+	
 }
 
 // Called every frame
@@ -63,12 +63,11 @@ void AABPawn::PostInitializeComponents()
 	ABLOG_S(Warning);
 }
 
-void AABPawn::PossessedBy(AController * NewController)
+void AABPawn::PossessedBy(AController* NewController)
 {
 	ABLOG_S(Warning);
 	Super::PossessedBy(NewController);
 }
-
 
 // Called to bind functionality to input
 void AABPawn::SetupPlayerInputComponent(UInputComponent* PlayerInputComponent)

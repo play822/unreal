@@ -13,7 +13,7 @@
 PRAGMA_DISABLE_DEPRECATION_WARNINGS
 void EmptyLinkFunctionForGeneratedCodeABGameInstance() {}
 // Cross Module References
-	ARENABATTLE_API UScriptStruct* Z_Construct_UScriptStruct_FABCharacterDate();
+	ARENABATTLE_API UScriptStruct* Z_Construct_UScriptStruct_FABCharacterData();
 	UPackage* Z_Construct_UPackage__Script_ArenaBattle();
 	ENGINE_API UScriptStruct* Z_Construct_UScriptStruct_FTableRowBase();
 	ARENABATTLE_API UClass* Z_Construct_UClass_UABGameInstance_NoRegister();
@@ -21,29 +21,29 @@ void EmptyLinkFunctionForGeneratedCodeABGameInstance() {}
 	ENGINE_API UClass* Z_Construct_UClass_UGameInstance();
 	ENGINE_API UClass* Z_Construct_UClass_UDataTable_NoRegister();
 // End Cross Module References
-class UScriptStruct* FABCharacterDate::StaticStruct()
+class UScriptStruct* FABCharacterData::StaticStruct()
 {
 	static class UScriptStruct* Singleton = NULL;
 	if (!Singleton)
 	{
-		extern ARENABATTLE_API uint32 Get_Z_Construct_UScriptStruct_FABCharacterDate_Hash();
-		Singleton = GetStaticStruct(Z_Construct_UScriptStruct_FABCharacterDate, Z_Construct_UPackage__Script_ArenaBattle(), TEXT("ABCharacterDate"), sizeof(FABCharacterDate), Get_Z_Construct_UScriptStruct_FABCharacterDate_Hash());
+		extern ARENABATTLE_API uint32 Get_Z_Construct_UScriptStruct_FABCharacterData_Hash();
+		Singleton = GetStaticStruct(Z_Construct_UScriptStruct_FABCharacterData, Z_Construct_UPackage__Script_ArenaBattle(), TEXT("ABCharacterData"), sizeof(FABCharacterData), Get_Z_Construct_UScriptStruct_FABCharacterData_Hash());
 	}
 	return Singleton;
 }
-template<> ARENABATTLE_API UScriptStruct* StaticStruct<FABCharacterDate>()
+template<> ARENABATTLE_API UScriptStruct* StaticStruct<FABCharacterData>()
 {
-	return FABCharacterDate::StaticStruct();
+	return FABCharacterData::StaticStruct();
 }
-static FCompiledInDeferStruct Z_CompiledInDeferStruct_UScriptStruct_FABCharacterDate(FABCharacterDate::StaticStruct, TEXT("/Script/ArenaBattle"), TEXT("ABCharacterDate"), false, nullptr, nullptr);
-static struct FScriptStruct_ArenaBattle_StaticRegisterNativesFABCharacterDate
+static FCompiledInDeferStruct Z_CompiledInDeferStruct_UScriptStruct_FABCharacterData(FABCharacterData::StaticStruct, TEXT("/Script/ArenaBattle"), TEXT("ABCharacterData"), false, nullptr, nullptr);
+static struct FScriptStruct_ArenaBattle_StaticRegisterNativesFABCharacterData
 {
-	FScriptStruct_ArenaBattle_StaticRegisterNativesFABCharacterDate()
+	FScriptStruct_ArenaBattle_StaticRegisterNativesFABCharacterData()
 	{
-		UScriptStruct::DeferCppStructOps(FName(TEXT("ABCharacterDate")),new UScriptStruct::TCppStructOps<FABCharacterDate>);
+		UScriptStruct::DeferCppStructOps(FName(TEXT("ABCharacterData")),new UScriptStruct::TCppStructOps<FABCharacterData>);
 	}
-} ScriptStruct_ArenaBattle_StaticRegisterNativesFABCharacterDate;
-	struct Z_Construct_UScriptStruct_FABCharacterDate_Statics
+} ScriptStruct_ArenaBattle_StaticRegisterNativesFABCharacterData;
+	struct Z_Construct_UScriptStruct_FABCharacterData_Statics
 	{
 #if WITH_METADATA
 		static const UE4CodeGen_Private::FMetaDataPairParam Struct_MetaDataParams[];
@@ -73,86 +73,86 @@ static struct FScriptStruct_ArenaBattle_StaticRegisterNativesFABCharacterDate
 		static const UE4CodeGen_Private::FStructParams ReturnStructParams;
 	};
 #if WITH_METADATA
-	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UScriptStruct_FABCharacterDate_Statics::Struct_MetaDataParams[] = {
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UScriptStruct_FABCharacterData_Statics::Struct_MetaDataParams[] = {
 		{ "BlueprintType", "true" },
 		{ "ModuleRelativePath", "ABGameInstance.h" },
 	};
 #endif
-	void* Z_Construct_UScriptStruct_FABCharacterDate_Statics::NewStructOps()
+	void* Z_Construct_UScriptStruct_FABCharacterData_Statics::NewStructOps()
 	{
-		return (UScriptStruct::ICppStructOps*)new UScriptStruct::TCppStructOps<FABCharacterDate>();
+		return (UScriptStruct::ICppStructOps*)new UScriptStruct::TCppStructOps<FABCharacterData>();
 	}
 #if WITH_METADATA
-	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UScriptStruct_FABCharacterDate_Statics::NewProp_NextExp_MetaData[] = {
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UScriptStruct_FABCharacterData_Statics::NewProp_NextExp_MetaData[] = {
 		{ "Category", "Data" },
 		{ "ModuleRelativePath", "ABGameInstance.h" },
 	};
 #endif
-	const UE4CodeGen_Private::FIntPropertyParams Z_Construct_UScriptStruct_FABCharacterDate_Statics::NewProp_NextExp = { "NextExp", nullptr, (EPropertyFlags)0x0010000000000005, UE4CodeGen_Private::EPropertyGenFlags::Int, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(FABCharacterDate, NextExp), METADATA_PARAMS(Z_Construct_UScriptStruct_FABCharacterDate_Statics::NewProp_NextExp_MetaData, ARRAY_COUNT(Z_Construct_UScriptStruct_FABCharacterDate_Statics::NewProp_NextExp_MetaData)) };
+	const UE4CodeGen_Private::FIntPropertyParams Z_Construct_UScriptStruct_FABCharacterData_Statics::NewProp_NextExp = { "NextExp", nullptr, (EPropertyFlags)0x0010000000000005, UE4CodeGen_Private::EPropertyGenFlags::Int, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(FABCharacterData, NextExp), METADATA_PARAMS(Z_Construct_UScriptStruct_FABCharacterData_Statics::NewProp_NextExp_MetaData, ARRAY_COUNT(Z_Construct_UScriptStruct_FABCharacterData_Statics::NewProp_NextExp_MetaData)) };
 #if WITH_METADATA
-	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UScriptStruct_FABCharacterDate_Statics::NewProp_DropExp_MetaData[] = {
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UScriptStruct_FABCharacterData_Statics::NewProp_DropExp_MetaData[] = {
 		{ "Category", "Data" },
 		{ "ModuleRelativePath", "ABGameInstance.h" },
 	};
 #endif
-	const UE4CodeGen_Private::FIntPropertyParams Z_Construct_UScriptStruct_FABCharacterDate_Statics::NewProp_DropExp = { "DropExp", nullptr, (EPropertyFlags)0x0010000000000005, UE4CodeGen_Private::EPropertyGenFlags::Int, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(FABCharacterDate, DropExp), METADATA_PARAMS(Z_Construct_UScriptStruct_FABCharacterDate_Statics::NewProp_DropExp_MetaData, ARRAY_COUNT(Z_Construct_UScriptStruct_FABCharacterDate_Statics::NewProp_DropExp_MetaData)) };
+	const UE4CodeGen_Private::FIntPropertyParams Z_Construct_UScriptStruct_FABCharacterData_Statics::NewProp_DropExp = { "DropExp", nullptr, (EPropertyFlags)0x0010000000000005, UE4CodeGen_Private::EPropertyGenFlags::Int, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(FABCharacterData, DropExp), METADATA_PARAMS(Z_Construct_UScriptStruct_FABCharacterData_Statics::NewProp_DropExp_MetaData, ARRAY_COUNT(Z_Construct_UScriptStruct_FABCharacterData_Statics::NewProp_DropExp_MetaData)) };
 #if WITH_METADATA
-	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UScriptStruct_FABCharacterDate_Statics::NewProp_Attack_MetaData[] = {
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UScriptStruct_FABCharacterData_Statics::NewProp_Attack_MetaData[] = {
 		{ "Category", "Data" },
 		{ "ModuleRelativePath", "ABGameInstance.h" },
 	};
 #endif
-	const UE4CodeGen_Private::FFloatPropertyParams Z_Construct_UScriptStruct_FABCharacterDate_Statics::NewProp_Attack = { "Attack", nullptr, (EPropertyFlags)0x0010000000000005, UE4CodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(FABCharacterDate, Attack), METADATA_PARAMS(Z_Construct_UScriptStruct_FABCharacterDate_Statics::NewProp_Attack_MetaData, ARRAY_COUNT(Z_Construct_UScriptStruct_FABCharacterDate_Statics::NewProp_Attack_MetaData)) };
+	const UE4CodeGen_Private::FFloatPropertyParams Z_Construct_UScriptStruct_FABCharacterData_Statics::NewProp_Attack = { "Attack", nullptr, (EPropertyFlags)0x0010000000000005, UE4CodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(FABCharacterData, Attack), METADATA_PARAMS(Z_Construct_UScriptStruct_FABCharacterData_Statics::NewProp_Attack_MetaData, ARRAY_COUNT(Z_Construct_UScriptStruct_FABCharacterData_Statics::NewProp_Attack_MetaData)) };
 #if WITH_METADATA
-	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UScriptStruct_FABCharacterDate_Statics::NewProp_MaxHP_MetaData[] = {
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UScriptStruct_FABCharacterData_Statics::NewProp_MaxHP_MetaData[] = {
 		{ "Category", "Data" },
 		{ "ModuleRelativePath", "ABGameInstance.h" },
 	};
 #endif
-	const UE4CodeGen_Private::FFloatPropertyParams Z_Construct_UScriptStruct_FABCharacterDate_Statics::NewProp_MaxHP = { "MaxHP", nullptr, (EPropertyFlags)0x0010000000000005, UE4CodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(FABCharacterDate, MaxHP), METADATA_PARAMS(Z_Construct_UScriptStruct_FABCharacterDate_Statics::NewProp_MaxHP_MetaData, ARRAY_COUNT(Z_Construct_UScriptStruct_FABCharacterDate_Statics::NewProp_MaxHP_MetaData)) };
+	const UE4CodeGen_Private::FFloatPropertyParams Z_Construct_UScriptStruct_FABCharacterData_Statics::NewProp_MaxHP = { "MaxHP", nullptr, (EPropertyFlags)0x0010000000000005, UE4CodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(FABCharacterData, MaxHP), METADATA_PARAMS(Z_Construct_UScriptStruct_FABCharacterData_Statics::NewProp_MaxHP_MetaData, ARRAY_COUNT(Z_Construct_UScriptStruct_FABCharacterData_Statics::NewProp_MaxHP_MetaData)) };
 #if WITH_METADATA
-	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UScriptStruct_FABCharacterDate_Statics::NewProp_Level_MetaData[] = {
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UScriptStruct_FABCharacterData_Statics::NewProp_Level_MetaData[] = {
 		{ "Category", "Data" },
 		{ "ModuleRelativePath", "ABGameInstance.h" },
 	};
 #endif
-	const UE4CodeGen_Private::FIntPropertyParams Z_Construct_UScriptStruct_FABCharacterDate_Statics::NewProp_Level = { "Level", nullptr, (EPropertyFlags)0x0010000000000005, UE4CodeGen_Private::EPropertyGenFlags::Int, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(FABCharacterDate, Level), METADATA_PARAMS(Z_Construct_UScriptStruct_FABCharacterDate_Statics::NewProp_Level_MetaData, ARRAY_COUNT(Z_Construct_UScriptStruct_FABCharacterDate_Statics::NewProp_Level_MetaData)) };
-	const UE4CodeGen_Private::FPropertyParamsBase* const Z_Construct_UScriptStruct_FABCharacterDate_Statics::PropPointers[] = {
-		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UScriptStruct_FABCharacterDate_Statics::NewProp_NextExp,
-		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UScriptStruct_FABCharacterDate_Statics::NewProp_DropExp,
-		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UScriptStruct_FABCharacterDate_Statics::NewProp_Attack,
-		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UScriptStruct_FABCharacterDate_Statics::NewProp_MaxHP,
-		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UScriptStruct_FABCharacterDate_Statics::NewProp_Level,
+	const UE4CodeGen_Private::FIntPropertyParams Z_Construct_UScriptStruct_FABCharacterData_Statics::NewProp_Level = { "Level", nullptr, (EPropertyFlags)0x0010000000000005, UE4CodeGen_Private::EPropertyGenFlags::Int, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(FABCharacterData, Level), METADATA_PARAMS(Z_Construct_UScriptStruct_FABCharacterData_Statics::NewProp_Level_MetaData, ARRAY_COUNT(Z_Construct_UScriptStruct_FABCharacterData_Statics::NewProp_Level_MetaData)) };
+	const UE4CodeGen_Private::FPropertyParamsBase* const Z_Construct_UScriptStruct_FABCharacterData_Statics::PropPointers[] = {
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UScriptStruct_FABCharacterData_Statics::NewProp_NextExp,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UScriptStruct_FABCharacterData_Statics::NewProp_DropExp,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UScriptStruct_FABCharacterData_Statics::NewProp_Attack,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UScriptStruct_FABCharacterData_Statics::NewProp_MaxHP,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UScriptStruct_FABCharacterData_Statics::NewProp_Level,
 	};
-	const UE4CodeGen_Private::FStructParams Z_Construct_UScriptStruct_FABCharacterDate_Statics::ReturnStructParams = {
+	const UE4CodeGen_Private::FStructParams Z_Construct_UScriptStruct_FABCharacterData_Statics::ReturnStructParams = {
 		(UObject* (*)())Z_Construct_UPackage__Script_ArenaBattle,
 		Z_Construct_UScriptStruct_FTableRowBase,
 		&NewStructOps,
-		"ABCharacterDate",
-		sizeof(FABCharacterDate),
-		alignof(FABCharacterDate),
-		Z_Construct_UScriptStruct_FABCharacterDate_Statics::PropPointers,
-		ARRAY_COUNT(Z_Construct_UScriptStruct_FABCharacterDate_Statics::PropPointers),
+		"ABCharacterData",
+		sizeof(FABCharacterData),
+		alignof(FABCharacterData),
+		Z_Construct_UScriptStruct_FABCharacterData_Statics::PropPointers,
+		ARRAY_COUNT(Z_Construct_UScriptStruct_FABCharacterData_Statics::PropPointers),
 		RF_Public|RF_Transient|RF_MarkAsNative,
 		EStructFlags(0x00000001),
-		METADATA_PARAMS(Z_Construct_UScriptStruct_FABCharacterDate_Statics::Struct_MetaDataParams, ARRAY_COUNT(Z_Construct_UScriptStruct_FABCharacterDate_Statics::Struct_MetaDataParams))
+		METADATA_PARAMS(Z_Construct_UScriptStruct_FABCharacterData_Statics::Struct_MetaDataParams, ARRAY_COUNT(Z_Construct_UScriptStruct_FABCharacterData_Statics::Struct_MetaDataParams))
 	};
-	UScriptStruct* Z_Construct_UScriptStruct_FABCharacterDate()
+	UScriptStruct* Z_Construct_UScriptStruct_FABCharacterData()
 	{
 #if WITH_HOT_RELOAD
-		extern uint32 Get_Z_Construct_UScriptStruct_FABCharacterDate_Hash();
+		extern uint32 Get_Z_Construct_UScriptStruct_FABCharacterData_Hash();
 		UPackage* Outer = Z_Construct_UPackage__Script_ArenaBattle();
-		static UScriptStruct* ReturnStruct = FindExistingStructIfHotReloadOrDynamic(Outer, TEXT("ABCharacterDate"), sizeof(FABCharacterDate), Get_Z_Construct_UScriptStruct_FABCharacterDate_Hash(), false);
+		static UScriptStruct* ReturnStruct = FindExistingStructIfHotReloadOrDynamic(Outer, TEXT("ABCharacterData"), sizeof(FABCharacterData), Get_Z_Construct_UScriptStruct_FABCharacterData_Hash(), false);
 #else
 		static UScriptStruct* ReturnStruct = nullptr;
 #endif
 		if (!ReturnStruct)
 		{
-			UE4CodeGen_Private::ConstructUScriptStruct(ReturnStruct, Z_Construct_UScriptStruct_FABCharacterDate_Statics::ReturnStructParams);
+			UE4CodeGen_Private::ConstructUScriptStruct(ReturnStruct, Z_Construct_UScriptStruct_FABCharacterData_Statics::ReturnStructParams);
 		}
 		return ReturnStruct;
 	}
-	uint32 Get_Z_Construct_UScriptStruct_FABCharacterDate_Hash() { return 1546019851U; }
+	uint32 Get_Z_Construct_UScriptStruct_FABCharacterData_Hash() { return 2225718653U; }
 	void UABGameInstance::StaticRegisterNativesUABGameInstance()
 	{
 	}

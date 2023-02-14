@@ -2,12 +2,12 @@
 
 #pragma once
 
-#include "ArenaBattle.h"
+#include "CoreMinimal.h"
 #include "Components/ActorComponent.h"
 #include "ABCharacterStatComponent.generated.h"
 
 DECLARE_MULTICAST_DELEGATE(FOnHPIsZeroDelegate);
-DECLARE_MULTICAST_DELEGATE(FOnHpChangedDelegate)
+DECLARE_MULTICAST_DELEGATE(FOnHPChangedDelegate);
 
 UCLASS( ClassGroup=(Custom), meta=(BlueprintSpawnableComponent) )
 class ARENABATTLE_API UABCharacterStatComponent : public UActorComponent
@@ -22,29 +22,24 @@ protected:
 	// Called when the game starts
 	virtual void BeginPlay() override;
 	virtual void InitializeComponent() override;
-	
+
 public:
 	void SetNewLevel(int32 NewLevel);
 	void SetDamage(float NewDamage);
-	void SetHp(float NewHp);
+	void SetHP(float NewHP);
 	float GetAttack();
 	float GetHPRatio();
 
 	FOnHPIsZeroDelegate OnHPIsZero;
-	FOnHpChangedDelegate OnHPChanged;
+	FOnHPChangedDelegate OnHPChanged;
 
 private:
-	struct FABCharacterDate* CurrentStatData = nullptr;
+	struct FABCharacterData* CurrentStatData = nullptr;
 
 	UPROPERTY(EditInstanceOnly, Category = Stat, Meta = (AllowPrivateAccess = true))
-		int Level;
+	int Level;
 
 	UPROPERTY(Transient, VisibleInstanceOnly, Category = Stat, Meta = (AllowPirvateAccess = true))
-		float CurrentHP;
+	float CurrentHP;
 
-public:	
-	// Called every frame
-	virtual void TickComponent(float DeltaTime, ELevelTick TickType, FActorComponentTickFunction* ThisTickFunction) override;
-
-		
 };

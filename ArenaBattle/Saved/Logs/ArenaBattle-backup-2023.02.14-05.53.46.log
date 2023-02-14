@@ -1,0 +1,811 @@
+﻿Log file open, 02/14/23 14:53:14
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: ArenaBattle
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 20 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.294790
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Ryzen 5 3500X 6-Core Processor             , GPU: NVIDIA GeForce GTX 1660 SUPER
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line:  -skipcompile
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2023.02.14-05.53.14:877][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2023.02.14-05.53.14:877][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2023.02.14-05.53.14:877][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/seo/Downloads/unreal-c-example-4.22v/Projects/Chapter11/Saved/Config/Windows/Engine.ini]
+[2023.02.14-05.53.14:877][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2023.02.14-05.53.14:877][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/seo/Downloads/unreal-c-example-4.22v/Projects/Chapter11/Saved/Config/Windows/Engine.ini]
+[2023.02.14-05.53.14:877][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/seo/Downloads/unreal-c-example-4.22v/Projects/Chapter11/Saved/Config/Windows/Engine.ini]
+[2023.02.14-05.53.14:877][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2023.02.14-05.53.14:878][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2023.02.14-05.53.14:878][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2023.02.14-05.53.14:878][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2023.02.14-05.53.14:878][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2023.02.14-05.53.14:878][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2023.02.14-05.53.14:878][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2023.02.14-05.53.14:878][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2023.02.14-05.53.14:878][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2023.02.14-05.53.14:878][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2023.02.14-05.53.14:878][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2023.02.14-05.53.14:878][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2023.02.14-05.53.14:878][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2023.02.14-05.53.14:878][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/seo/Downloads/unreal-c-example-4.22v/Projects/Chapter11/Saved/Config/Windows/Engine.ini]
+[2023.02.14-05.53.14:878][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2023.02.14-05.53.14:878][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2023.02.14-05.53.14:878][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2023.02.14-05.53.14:878][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2023.02.14-05.53.14:878][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2023.02.14-05.53.14:878][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2023.02.14-05.53.14:878][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2023.02.14-05.53.14:878][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2023.02.14-05.53.14:878][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2023.02.14-05.53.14:878][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2023.02.14-05.53.14:878][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2023.02.14-05.53.14:878][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2023.02.14-05.53.14:878][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2023.02.14-05.53.14:878][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/seo/Downloads/unreal-c-example-4.22v/Projects/Chapter11/Saved/Config/Windows/Engine.ini]
+[2023.02.14-05.53.14:878][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/seo/Downloads/unreal-c-example-4.22v/Projects/Chapter11/Saved/Config/Windows/Engine.ini]
+[2023.02.14-05.53.14:882][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/seo/Downloads/unreal-c-example-4.22v/Projects/Chapter11/Saved/Config/Windows/Scalability.ini]
+[2023.02.14-05.53.14:882][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.02.14-05.53.14:882][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.02.14-05.53.14:882][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/seo/Downloads/unreal-c-example-4.22v/Projects/Chapter11/Saved/Config/Windows/Scalability.ini]
+[2023.02.14-05.53.14:882][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.02.14-05.53.14:882][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/seo/Downloads/unreal-c-example-4.22v/Projects/Chapter11/Saved/Config/Windows/Scalability.ini]
+[2023.02.14-05.53.14:882][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.02.14-05.53.14:882][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.02.14-05.53.14:882][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.02.14-05.53.14:882][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.02.14-05.53.14:882][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.02.14-05.53.14:882][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.02.14-05.53.14:882][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.02.14-05.53.14:882][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.02.14-05.53.14:882][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.02.14-05.53.14:882][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.02.14-05.53.14:882][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.02.14-05.53.14:882][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.02.14-05.53.14:882][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.02.14-05.53.14:883][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.02.14-05.53.14:883][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.02.14-05.53.14:883][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.02.14-05.53.14:883][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.02.14-05.53.14:883][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.02.14-05.53.14:883][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/seo/Downloads/unreal-c-example-4.22v/Projects/Chapter11/Saved/Config/Windows/Scalability.ini]
+[2023.02.14-05.53.14:883][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.02.14-05.53.14:883][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.02.14-05.53.14:883][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.02.14-05.53.14:883][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.02.14-05.53.14:883][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.02.14-05.53.14:883][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.02.14-05.53.14:883][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.02.14-05.53.14:883][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.02.14-05.53.14:883][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.02.14-05.53.14:883][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.02.14-05.53.14:883][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.02.14-05.53.14:883][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.02.14-05.53.14:883][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.02.14-05.53.14:883][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.02.14-05.53.14:883][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.02.14-05.53.14:883][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.02.14-05.53.14:883][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.02.14-05.53.14:883][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.02.14-05.53.14:883][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.02.14-05.53.14:883][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.02.14-05.53.14:883][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.02.14-05.53.14:883][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.02.14-05.53.14:883][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.02.14-05.53.14:883][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.02.14-05.53.14:883][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.02.14-05.53.14:883][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.02.14-05.53.14:883][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.02.14-05.53.14:883][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.02.14-05.53.14:883][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.02.14-05.53.14:883][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.02.14-05.53.14:883][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/seo/Downloads/unreal-c-example-4.22v/Projects/Chapter11/Saved/Config/Windows/Scalability.ini]
+[2023.02.14-05.53.14:883][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.02.14-05.53.14:883][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.02.14-05.53.14:883][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.02.14-05.53.14:883][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.02.14-05.53.14:883][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.02.14-05.53.14:883][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.02.14-05.53.14:883][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.02.14-05.53.14:883][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.02.14-05.53.14:883][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/seo/Downloads/unreal-c-example-4.22v/Projects/Chapter11/Saved/Config/Windows/Scalability.ini]
+[2023.02.14-05.53.14:883][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.02.14-05.53.14:883][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.02.14-05.53.14:883][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.02.14-05.53.14:883][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.02.14-05.53.14:883][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.02.14-05.53.14:883][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.02.14-05.53.14:883][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.02.14-05.53.14:883][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.02.14-05.53.14:883][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.02.14-05.53.14:883][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.02.14-05.53.14:883][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2023.02.14-05.53.14:883][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.02.14-05.53.14:883][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.02.14-05.53.14:883][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/seo/Downloads/unreal-c-example-4.22v/Projects/Chapter11/Saved/Config/Windows/Scalability.ini]
+[2023.02.14-05.53.14:883][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.02.14-05.53.14:883][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.02.14-05.53.14:883][  0]LogInit: Selected Device Profile: [Windows]
+[2023.02.14-05.53.14:883][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2023.02.14-05.53.14:890][  0]LogHAL: Display: Platform has ~ 16 GB [17126916096 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.02.14-05.53.14:891][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2023.02.14-05.53.14:891][  0]LogInit: Going up to parent DeviceProfile []
+[2023.02.14-05.53.14:891][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/seo/Downloads/unreal-c-example-4.22v/Projects/Chapter11/Saved/Config/Windows/Scalability.ini]
+[2023.02.14-05.53.14:891][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.02.14-05.53.14:891][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.02.14-05.53.14:891][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/seo/Downloads/unreal-c-example-4.22v/Projects/Chapter11/Saved/Config/Windows/Scalability.ini]
+[2023.02.14-05.53.14:891][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.02.14-05.53.14:891][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/seo/Downloads/unreal-c-example-4.22v/Projects/Chapter11/Saved/Config/Windows/Scalability.ini]
+[2023.02.14-05.53.14:891][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.02.14-05.53.14:891][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.02.14-05.53.14:891][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.02.14-05.53.14:891][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.02.14-05.53.14:891][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.02.14-05.53.14:891][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.02.14-05.53.14:891][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.02.14-05.53.14:891][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.02.14-05.53.14:891][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.02.14-05.53.14:891][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.02.14-05.53.14:891][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.02.14-05.53.14:891][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.02.14-05.53.14:891][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.02.14-05.53.14:891][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.02.14-05.53.14:891][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.02.14-05.53.14:891][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.02.14-05.53.14:891][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.02.14-05.53.14:891][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.02.14-05.53.14:891][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/seo/Downloads/unreal-c-example-4.22v/Projects/Chapter11/Saved/Config/Windows/Scalability.ini]
+[2023.02.14-05.53.14:891][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.02.14-05.53.14:891][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.02.14-05.53.14:891][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.02.14-05.53.14:891][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.02.14-05.53.14:891][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.02.14-05.53.14:891][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.02.14-05.53.14:891][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.02.14-05.53.14:891][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.02.14-05.53.14:891][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.02.14-05.53.14:891][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.02.14-05.53.14:891][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.02.14-05.53.14:891][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.02.14-05.53.14:891][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.02.14-05.53.14:891][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.02.14-05.53.14:891][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.02.14-05.53.14:891][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.02.14-05.53.14:891][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.02.14-05.53.14:891][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.02.14-05.53.14:891][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.02.14-05.53.14:891][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.02.14-05.53.14:891][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.02.14-05.53.14:891][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.02.14-05.53.14:891][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.02.14-05.53.14:891][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.02.14-05.53.14:891][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.02.14-05.53.14:891][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.02.14-05.53.14:891][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.02.14-05.53.14:891][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.02.14-05.53.14:891][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.02.14-05.53.14:891][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.02.14-05.53.14:891][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/seo/Downloads/unreal-c-example-4.22v/Projects/Chapter11/Saved/Config/Windows/Scalability.ini]
+[2023.02.14-05.53.14:891][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.02.14-05.53.14:891][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.02.14-05.53.14:891][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.02.14-05.53.14:891][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.02.14-05.53.14:891][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.02.14-05.53.14:891][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.02.14-05.53.14:891][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.02.14-05.53.14:891][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.02.14-05.53.14:891][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/seo/Downloads/unreal-c-example-4.22v/Projects/Chapter11/Saved/Config/Windows/Scalability.ini]
+[2023.02.14-05.53.14:891][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.02.14-05.53.14:891][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.02.14-05.53.14:891][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.02.14-05.53.14:891][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.02.14-05.53.14:891][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.02.14-05.53.14:891][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.02.14-05.53.14:891][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.02.14-05.53.14:891][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.02.14-05.53.14:891][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.02.14-05.53.14:891][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.02.14-05.53.14:891][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2023.02.14-05.53.14:891][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.02.14-05.53.14:891][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.02.14-05.53.14:891][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/seo/Downloads/unreal-c-example-4.22v/Projects/Chapter11/Saved/Config/Windows/Scalability.ini]
+[2023.02.14-05.53.14:891][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.02.14-05.53.14:891][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.02.14-05.53.14:891][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.02.14-05.53.14:892][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2023.02.14-05.53.14:892][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2023.02.14-05.53.14:892][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/seo/Downloads/unreal-c-example-4.22v/Projects/Chapter11/Saved/Config/Windows/Engine.ini]
+[2023.02.14-05.53.14:892][  0]LogInit: Computer: DESKTOP-MTCB6DM
+[2023.02.14-05.53.14:892][  0]LogInit: User: seo
+[2023.02.14-05.53.14:892][  0]LogInit: CPU Page size=4096, Cores=6
+[2023.02.14-05.53.14:892][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.02.14-05.53.14:892][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2023.02.14-05.53.14:892][  0]LogMemory: Platform Memory Stats for Windows
+[2023.02.14-05.53.14:892][  0]LogMemory: Process Physical Memory: 97.48 MB used, 97.49 MB peak
+[2023.02.14-05.53.14:892][  0]LogMemory: Process Virtual Memory: 84.46 MB used, 84.46 MB peak
+[2023.02.14-05.53.14:892][  0]LogMemory: Physical Memory: 9505.64 MB used,  6827.86 MB free, 16333.50 MB total
+[2023.02.14-05.53.14:892][  0]LogMemory: Virtual Memory: 4634.20 MB used,  134213096.00 MB free, 134217728.00 MB total
+[2023.02.14-05.53.14:983][  0]LogInit: Using OS detected language (ko-KR).
+[2023.02.14-05.53.14:983][  0]LogInit: Using OS detected locale (ko-KR).
+[2023.02.14-05.53.14:983][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
+[2023.02.14-05.53.15:045][  0]LogInit: Setting process to per monitor DPI aware
+[2023.02.14-05.53.15:102][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.02.14-05.53.15:102][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.02.14-05.53.15:284][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2023.02.14-05.53.15:284][  0]LogD3D11RHI: D3D11 adapters:
+[2023.02.14-05.53.15:450][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1660 SUPER' (Feature Level 11_0)
+[2023.02.14-05.53.15:450][  0]LogD3D11RHI:       5991/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2023.02.14-05.53.15:453][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2023.02.14-05.53.15:453][  0]LogD3D11RHI:       0/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2023.02.14-05.53.15:453][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2023.02.14-05.53.15:460][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2023.02.14-05.53.15:460][  0]LogD3D11RHI:     GPU DeviceId: 0x21c4 (for the marketing name, search the web for "GPU Device Id")
+[2023.02.14-05.53.15:460][  0]LogWindows: EnumDisplayDevices:
+[2023.02.14-05.53.15:461][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1660 SUPER' (P:1 D:1)
+[2023.02.14-05.53.15:461][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1660 SUPER' (P:0 D:1)
+[2023.02.14-05.53.15:462][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1660 SUPER' (P:0 D:0)
+[2023.02.14-05.53.15:463][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1660 SUPER' (P:0 D:0)
+[2023.02.14-05.53.15:463][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2023.02.14-05.53.15:463][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1660 SUPER
+[2023.02.14-05.53.15:463][  0]LogD3D11RHI:   Driver Version: 516.94 (internal:31.0.15.1694, unified:516.94)
+[2023.02.14-05.53.15:463][  0]LogD3D11RHI:      Driver Date: 7-21-2022
+[2023.02.14-05.53.15:463][  0]LogRHI: Texture pool is 4193 MB (70% of 5991 MB)
+[2023.02.14-05.53.15:528][  0]LogD3D11RHI: Async texture creation enabled
+[2023.02.14-05.53.15:538][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2023.02.14-05.53.15:539][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2023.02.14-05.53.15:539][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2023.02.14-05.53.15:546][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2023.02.14-05.53.15:882][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2023.02.14-05.53.15:896][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2023.02.14-05.53.15:910][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2023.02.14-05.53.15:925][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2023.02.14-05.53.15:940][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2023.02.14-05.53.15:953][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2023.02.14-05.53.15:967][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2023.02.14-05.53.15:981][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2023.02.14-05.53.15:988][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2023.02.14-05.53.16:075][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2023.02.14-05.53.16:075][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2023.02.14-05.53.16:075][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2023.02.14-05.53.16:075][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2023.02.14-05.53.16:075][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2023.02.14-05.53.16:075][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2023.02.14-05.53.16:075][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2023.02.14-05.53.16:075][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2023.02.14-05.53.16:075][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2023.02.14-05.53.16:075][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2023.02.14-05.53.16:075][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2023.02.14-05.53.16:075][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2023.02.14-05.53.16:075][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2023.02.14-05.53.16:076][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2023.02.14-05.53.16:076][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2023.02.14-05.53.16:076][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2023.02.14-05.53.16:076][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2023.02.14-05.53.16:076][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2023.02.14-05.53.16:078][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2023.02.14-05.53.16:130][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2023.02.14-05.53.16:130][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2023.02.14-05.53.16:155][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2023.02.14-05.53.16:155][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2023.02.14-05.53.16:168][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2023.02.14-05.53.16:182][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2023.02.14-05.53.16:196][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2023.02.14-05.53.16:211][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2023.02.14-05.53.16:261][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2023.02.14-05.53.16:261][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2023.02.14-05.53.16:261][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2023.02.14-05.53.16:269][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.02.14-05.53.16:315][  0]LogShaderCompilers: Guid format shader working directory is -36 characters bigger than the processId version (../../../../../../Users/seo/Downloads/unreal-c-example-4.22v/Projects/Chapter11/Intermediate/Shaders/WorkingDirectory/25204/).
+[2023.02.14-05.53.16:315][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/seo/AppData/Local/Temp/UnrealShaderWorkingDir/182E13434CCBC21634620F9175DC3F09/'.
+[2023.02.14-05.53.16:317][  0]LogXGEController: Cleaning working directory: C:/Users/seo/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2023.02.14-05.53.16:317][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.02.14-05.53.16:317][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2023.02.14-05.53.16:317][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2023.02.14-05.53.16:730][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2023.02.14-05.53.16:768][  0]LogDerivedDataCache: Loaded boot cache 0.04s 72MB C:/Users/seo/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2023.02.14-05.53.16:768][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/seo/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2023.02.14-05.53.16:768][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/seo/Downloads/unreal-c-example-4.22v/Projects/Chapter11/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.02.14-05.53.16:768][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2023.02.14-05.53.16:768][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/seo/Downloads/unreal-c-example-4.22v/Projects/Chapter11/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.02.14-05.53.16:768][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2023.02.14-05.53.16:779][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2023.02.14-05.53.16:780][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.02.14-05.53.16:780][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2023.02.14-05.53.16:792][  0]LogDerivedDataCache: Using Local data cache path C:/Users/seo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.02.14-05.53.16:792][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.02.14-05.53.16:792][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2023.02.14-05.53.16:810][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2023.02.14-05.53.16:811][  0]LogSlate: Using FreeType 2.6.0
+[2023.02.14-05.53.16:811][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.02.14-05.53.16:892][  0]LogAssetRegistry: FAssetRegistry took 0.0351 seconds to start up
+[2023.02.14-05.53.17:209][  0]LogInit: Selected Device Profile: [Windows]
+[2023.02.14-05.53.17:318][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.02.14-05.53.17:318][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.02.14-05.53.17:318][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.02.14-05.53.17:318][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.02.14-05.53.17:318][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.02.14-05.53.17:331][  0]LogNetVersion: ArenaBattle 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 815535894)
+[2023.02.14-05.53.17:678][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.036081 seconds
+[2023.02.14-05.53.17:687][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2023.02.14-05.53.17:687][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2023.02.14-05.53.17:687][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.02.14-05.53.18:433][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.02.14-05.53.18:455][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.02.14-05.53.18:564][  0]LogLinker: Warning: '/Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton' 파일을 찾을 수 없습니다.
+[2023.02.14-05.53.18:564][  0]LogLinker: Warning: NULL 로드중 '/Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton' 애셋에 대한 파일을 찾을 수 없습니다.
+[2023.02.14-05.53.18:564][  0]LogLinker: Warning: '/Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton' 파일을 찾을 수 없습니다.
+[2023.02.14-05.53.18:564][  0]LogLinker: Warning: NULL 로드중 '/Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton' 애셋에 대한 파일을 찾을 수 없습니다.
+[2023.02.14-05.53.18:570][  0]LogLinker: Warning: '/Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton' 파일을 찾을 수 없습니다.
+[2023.02.14-05.53.18:570][  0]LogLinker: Warning: NULL 로드중 '/Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton' 애셋에 대한 파일을 찾을 수 없습니다.
+[2023.02.14-05.53.18:570][  0]LogLinker: Warning: '/Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton' 파일을 찾을 수 없습니다.
+[2023.02.14-05.53.18:570][  0]LogLinker: Warning: NULL 로드중 '/Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton' 애셋에 대한 파일을 찾을 수 없습니다.
+[2023.02.14-05.53.18:575][  0]LogLinker: Warning: '/Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton' 파일을 찾을 수 없습니다.
+[2023.02.14-05.53.18:576][  0]LogLinker: Warning: NULL 로드중 '/Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton' 애셋에 대한 파일을 찾을 수 없습니다.
+[2023.02.14-05.53.18:576][  0]LogLinker: Warning: '/Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton' 파일을 찾을 수 없습니다.
+[2023.02.14-05.53.18:576][  0]LogLinker: Warning: NULL 로드중 '/Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton' 애셋에 대한 파일을 찾을 수 없습니다.
+[2023.02.14-05.53.18:581][  0]LogLinker: Warning: '/Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton' 파일을 찾을 수 없습니다.
+[2023.02.14-05.53.18:581][  0]LogLinker: Warning: NULL 로드중 '/Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton' 애셋에 대한 파일을 찾을 수 없습니다.
+[2023.02.14-05.53.18:582][  0]LogLinker: Warning: '/Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton' 파일을 찾을 수 없습니다.
+[2023.02.14-05.53.18:582][  0]LogLinker: Warning: NULL 로드중 '/Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton' 애셋에 대한 파일을 찾을 수 없습니다.
+[2023.02.14-05.53.18:583][  0]LogLinker: Warning: '/Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton' 파일을 찾을 수 없습니다.
+[2023.02.14-05.53.18:583][  0]LogLinker: Warning: NULL 로드중 '/Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton' 애셋에 대한 파일을 찾을 수 없습니다.
+[2023.02.14-05.53.18:583][  0]LogLinker: Warning: '/Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton' 파일을 찾을 수 없습니다.
+[2023.02.14-05.53.18:583][  0]LogLinker: Warning: NULL 로드중 '/Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton' 애셋에 대한 파일을 찾을 수 없습니다.
+[2023.02.14-05.53.18:584][  0]LogLinker: Warning: '/Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton' 파일을 찾을 수 없습니다.
+[2023.02.14-05.53.18:584][  0]LoadErrors: 로드에 실패했습니다. /Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton.SK_Mannequin_Skeleton 참조한 것: SK_Mannequin_Skeleton_Montage
+[2023.02.14-05.53.18:584][  0]LogLinker: Warning: NULL 로드중 '/Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton' 애셋에 대한 파일을 찾을 수 없습니다.
+[2023.02.14-05.53.18:585][  0]LogLinker: Warning: '/Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton' 파일을 찾을 수 없습니다.
+[2023.02.14-05.53.18:585][  0]LoadErrors: 로드에 실패했습니다. /Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton.SK_Mannequin_Skeleton 참조한 것: WarriorAttack1
+[2023.02.14-05.53.18:585][  0]LogLinker: Warning: NULL 로드중 '/Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton' 애셋에 대한 파일을 찾을 수 없습니다.
+[2023.02.14-05.53.18:586][  0]LogLinker: Warning: '/Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton' 파일을 찾을 수 없습니다.
+[2023.02.14-05.53.18:586][  0]LoadErrors: 로드에 실패했습니다. /Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton.SK_Mannequin_Skeleton 참조한 것: WarriorAttack2
+[2023.02.14-05.53.18:586][  0]LogLinker: Warning: NULL 로드중 '/Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton' 애셋에 대한 파일을 찾을 수 없습니다.
+[2023.02.14-05.53.18:587][  0]LogLinker: Warning: '/Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton' 파일을 찾을 수 없습니다.
+[2023.02.14-05.53.18:587][  0]LoadErrors: 로드에 실패했습니다. /Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton.SK_Mannequin_Skeleton 참조한 것: WarriorAttack3
+[2023.02.14-05.53.18:587][  0]LogLinker: Warning: NULL 로드중 '/Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton' 애셋에 대한 파일을 찾을 수 없습니다.
+[2023.02.14-05.53.18:588][  0]LogLinker: Warning: '/Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton' 파일을 찾을 수 없습니다.
+[2023.02.14-05.53.18:588][  0]LoadErrors: 로드에 실패했습니다. /Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton.SK_Mannequin_Skeleton 참조한 것: WarriorAttack4
+[2023.02.14-05.53.18:588][  0]LogLinker: Warning: NULL 로드중 '/Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton' 애셋에 대한 파일을 찾을 수 없습니다.
+[2023.02.14-05.53.18:589][  0]LogLinker: Warning: '/Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_CharM_Cardboard' 파일을 찾을 수 없습니다.
+[2023.02.14-05.53.18:589][  0]LogLinker: Warning: '/Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_CharM_Cardboard' 파일을 찾을 수 없습니다.
+[2023.02.14-05.53.18:589][  0]LogUObjectGlobals: Warning: 'SkeletalMesh /Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_CharM_Cardboard.SK_CharM_Cardboard' 오브젝트를 찾는 데 실패했습니다.
+[2023.02.14-05.53.18:589][  0]Error: CDO Constructor (ABCharacter): Failed to find /Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_CharM_Cardboard.SK_CharM_Cardboard
+
+[2023.02.14-05.53.18:599][  0]LogLinker: Warning: '/Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton' 파일을 찾을 수 없습니다.
+[2023.02.14-05.53.18:599][  0]LogLinker: Warning: NULL 로드중 '/Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton' 애셋에 대한 파일을 찾을 수 없습니다.
+[2023.02.14-05.53.18:599][  0]LogLinker: Warning: '/Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton' 파일을 찾을 수 없습니다.
+[2023.02.14-05.53.18:599][  0]LogLinker: Warning: NULL 로드중 '/Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton' 애셋에 대한 파일을 찾을 수 없습니다.
+[2023.02.14-05.53.18:605][  0]LogLinker: Warning: '/Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton' 파일을 찾을 수 없습니다.
+[2023.02.14-05.53.18:605][  0]LogLinker: Warning: NULL 로드중 '/Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton' 애셋에 대한 파일을 찾을 수 없습니다.
+[2023.02.14-05.53.18:605][  0]LogLinker: Warning: '/Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton' 파일을 찾을 수 없습니다.
+[2023.02.14-05.53.18:605][  0]LogLinker: Warning: NULL 로드중 '/Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton' 애셋에 대한 파일을 찾을 수 없습니다.
+[2023.02.14-05.53.18:611][  0]LogLinker: Warning: '/Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton' 파일을 찾을 수 없습니다.
+[2023.02.14-05.53.18:611][  0]LogLinker: Warning: NULL 로드중 '/Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton' 애셋에 대한 파일을 찾을 수 없습니다.
+[2023.02.14-05.53.18:611][  0]LogLinker: Warning: '/Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton' 파일을 찾을 수 없습니다.
+[2023.02.14-05.53.18:611][  0]LogLinker: Warning: NULL 로드중 '/Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton' 애셋에 대한 파일을 찾을 수 없습니다.
+[2023.02.14-05.53.18:619][  0]LogLinker: Warning: '/Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton' 파일을 찾을 수 없습니다.
+[2023.02.14-05.53.18:619][  0]LogLinker: Warning: NULL 로드중 '/Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton' 애셋에 대한 파일을 찾을 수 없습니다.
+[2023.02.14-05.53.18:620][  0]LogLinker: Warning: '/Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton' 파일을 찾을 수 없습니다.
+[2023.02.14-05.53.18:620][  0]LogLinker: Warning: NULL 로드중 '/Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton' 애셋에 대한 파일을 찾을 수 없습니다.
+[2023.02.14-05.53.18:626][  0]LogLinker: Warning: '/Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton' 파일을 찾을 수 없습니다.
+[2023.02.14-05.53.18:626][  0]LogLinker: Warning: NULL 로드중 '/Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton' 애셋에 대한 파일을 찾을 수 없습니다.
+[2023.02.14-05.53.18:626][  0]LogLinker: Warning: '/Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton' 파일을 찾을 수 없습니다.
+[2023.02.14-05.53.18:627][  0]LogLinker: Warning: NULL 로드중 '/Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton' 애셋에 대한 파일을 찾을 수 없습니다.
+[2023.02.14-05.53.18:635][  0]LogLinker: Warning: '/Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton' 파일을 찾을 수 없습니다.
+[2023.02.14-05.53.18:636][  0]LogLinker: Warning: NULL 로드중 '/Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton' 애셋에 대한 파일을 찾을 수 없습니다.
+[2023.02.14-05.53.18:636][  0]LogLinker: Warning: '/Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton' 파일을 찾을 수 없습니다.
+[2023.02.14-05.53.18:636][  0]LogLinker: Warning: NULL 로드중 '/Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton' 애셋에 대한 파일을 찾을 수 없습니다.
+[2023.02.14-05.53.18:637][  0]LogLinker: Warning: '/Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton' 파일을 찾을 수 없습니다.
+[2023.02.14-05.53.18:638][  0]LogLinker: Warning: NULL 로드중 '/Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton' 애셋에 대한 파일을 찾을 수 없습니다.
+[2023.02.14-05.53.18:638][  0]LogLinker: Warning: '/Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton' 파일을 찾을 수 없습니다.
+[2023.02.14-05.53.18:638][  0]LogLinker: Warning: NULL 로드중 '/Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton' 애셋에 대한 파일을 찾을 수 없습니다.
+[2023.02.14-05.53.18:639][  0]LogLinker: Warning: '/Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton' 파일을 찾을 수 없습니다.
+[2023.02.14-05.53.18:639][  0]LoadErrors: 로드에 실패했습니다. /Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton.SK_Mannequin_Skeleton 참조한 것: WarriorAnimBlueprint_C
+[2023.02.14-05.53.18:639][  0]LogLinker: Warning: NULL 로드중 '/Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton' 애셋에 대한 파일을 찾을 수 없습니다.
+[2023.02.14-05.53.18:640][  0]LogLinker: Warning: '/Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton' 파일을 찾을 수 없습니다.
+[2023.02.14-05.53.18:640][  0]LogLinker: Warning: NULL 로드중 '/Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton' 애셋에 대한 파일을 찾을 수 없습니다.
+[2023.02.14-05.53.18:640][  0]LogLinker: Warning: '/Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton' 파일을 찾을 수 없습니다.
+[2023.02.14-05.53.18:640][  0]LogLinker: Warning: NULL 로드중 '/Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton' 애셋에 대한 파일을 찾을 수 없습니다.
+[2023.02.14-05.53.18:641][  0]LogLinker: Warning: '/Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton' 파일을 찾을 수 없습니다.
+[2023.02.14-05.53.18:641][  0]LoadErrors: 로드에 실패했습니다. /Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton.SK_Mannequin_Skeleton 참조한 것: WarriorAnimBlueprint
+[2023.02.14-05.53.18:641][  0]LogLinker: Warning: NULL 로드중 '/Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton' 애셋에 대한 파일을 찾을 수 없습니다.
+[2023.02.14-05.53.18:645][  0]LogLinker: Warning: '/Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton' 파일을 찾을 수 없습니다.
+[2023.02.14-05.53.18:645][  0]LoadErrors: 로드에 실패했습니다. /Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton.SK_Mannequin_Skeleton 참조한 것: WarriorDead
+[2023.02.14-05.53.18:645][  0]LogLinker: Warning: NULL 로드중 '/Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton' 애셋에 대한 파일을 찾을 수 없습니다.
+[2023.02.14-05.53.18:645][  0]LogLinker: Warning: '/Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton' 파일을 찾을 수 없습니다.
+[2023.02.14-05.53.18:645][  0]LoadErrors: 로드에 실패했습니다. /Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton.SK_Mannequin_Skeleton 참조한 것: WarriorRun
+[2023.02.14-05.53.18:645][  0]LogLinker: Warning: NULL 로드중 '/Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton' 애셋에 대한 파일을 찾을 수 없습니다.
+[2023.02.14-05.53.18:646][  0]LogLinker: Warning: '/Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton' 파일을 찾을 수 없습니다.
+[2023.02.14-05.53.18:646][  0]LoadErrors: 로드에 실패했습니다. /Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton.SK_Mannequin_Skeleton 참조한 것: WarriorIdle
+[2023.02.14-05.53.18:646][  0]LogLinker: Warning: NULL 로드중 '/Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton' 애셋에 대한 파일을 찾을 수 없습니다.
+[2023.02.14-05.53.18:647][  0]LogLinker: Warning: '/Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton' 파일을 찾을 수 없습니다.
+[2023.02.14-05.53.18:647][  0]LoadErrors: 로드에 실패했습니다. /Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton.SK_Mannequin_Skeleton 참조한 것: WarriorJump_Start
+[2023.02.14-05.53.18:647][  0]LogLinker: Warning: NULL 로드중 '/Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton' 애셋에 대한 파일을 찾을 수 없습니다.
+[2023.02.14-05.53.18:647][  0]LogLinker: Warning: '/Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton' 파일을 찾을 수 없습니다.
+[2023.02.14-05.53.18:647][  0]LoadErrors: 로드에 실패했습니다. /Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton.SK_Mannequin_Skeleton 참조한 것: WarriorJump_Loop
+[2023.02.14-05.53.18:648][  0]LogLinker: Warning: NULL 로드중 '/Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton' 애셋에 대한 파일을 찾을 수 없습니다.
+[2023.02.14-05.53.18:648][  0]LogLinker: Warning: '/Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton' 파일을 찾을 수 없습니다.
+[2023.02.14-05.53.18:648][  0]LoadErrors: 로드에 실패했습니다. /Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton.SK_Mannequin_Skeleton 참조한 것: WarriorJump_End
+[2023.02.14-05.53.18:648][  0]LogLinker: Warning: NULL 로드중 '/Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton' 애셋에 대한 파일을 찾을 수 없습니다.
+[2023.02.14-05.53.18:654][  0]LogBlueprint: Error: [Compiler WarriorAnimBlueprint] WarriorAnimBlueprint  - 이 애니메이션 블루프린트에 대한 스켈레톤 애셋이 없어, 컴파일할 수 없습니다!
+[2023.02.14-05.53.18:655][  0]LogBlueprint: Warning: [Compiler WarriorAnimBlueprint] [0005.44] WarriorAnimBlueprint 컴파일에 실패했습니다. 치명적 오류 1 회, 경고 0 회, [소요시간 6 ms] (/Game/Book/Animations/WarriorAnimBlueprint.WarriorAnimBlueprint)
+[2023.02.14-05.53.18:667][  0]LogLinker: Warning: '/Game/InfinityBladeGrassLands/Environments/Breakables/StaticMesh/Box/SM_Env_Breakables_Box1' 파일을 찾을 수 없습니다.
+[2023.02.14-05.53.18:667][  0]LogLinker: Warning: '/Game/InfinityBladeGrassLands/Environments/Breakables/StaticMesh/Box/SM_Env_Breakables_Box1' 파일을 찾을 수 없습니다.
+[2023.02.14-05.53.18:667][  0]LogUObjectGlobals: Warning: 'StaticMesh /Game/InfinityBladeGrassLands/Environments/Breakables/StaticMesh/Box/SM_Env_Breakables_Box1.SM_Env_Breakables_Box1' 오브젝트를 찾는 데 실패했습니다.
+[2023.02.14-05.53.18:667][  0]Error: CDO Constructor (ABItemBox): Failed to find /Game/InfinityBladeGrassLands/Environments/Breakables/StaticMesh/Box/SM_Env_Breakables_Box1.SM_Env_Breakables_Box1
+
+[2023.02.14-05.53.18:668][  0]LogLinker: Warning: '/Game/InfinityBladeGrassLands/Effects/FX_Treasure/Chest/P_TreasureChest_Open_Mesh' 파일을 찾을 수 없습니다.
+[2023.02.14-05.53.18:668][  0]LogLinker: Warning: '/Game/InfinityBladeGrassLands/Effects/FX_Treasure/Chest/P_TreasureChest_Open_Mesh' 파일을 찾을 수 없습니다.
+[2023.02.14-05.53.18:668][  0]LogUObjectGlobals: Warning: 'ParticleSystem /Game/InfinityBladeGrassLands/Effects/FX_Treasure/Chest/P_TreasureChest_Open_Mesh.P_TreasureChest_Open_Mesh' 오브젝트를 찾는 데 실패했습니다.
+[2023.02.14-05.53.18:668][  0]Error: CDO Constructor (ABItemBox): Failed to find /Game/InfinityBladeGrassLands/Effects/FX_Treasure/Chest/P_TreasureChest_Open_Mesh.P_TreasureChest_Open_Mesh
+
+[2023.02.14-05.53.18:668][  0]Error: CDO Constructor (ABPawn): Failed to find /Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_CharM_Cardboard.SK_CharM_Cardboard
+
+[2023.02.14-05.53.18:669][  0]LogLinker: Warning: '/Game/InfinityBladeWeapons/Weapons/Blade/Swords/Blade_BlackKnight/SK_Blade_BlackKnight' 파일을 찾을 수 없습니다.
+[2023.02.14-05.53.18:669][  0]LogLinker: Warning: '/Game/InfinityBladeWeapons/Weapons/Blade/Swords/Blade_BlackKnight/SK_Blade_BlackKnight' 파일을 찾을 수 없습니다.
+[2023.02.14-05.53.18:669][  0]LogUObjectGlobals: Warning: 'SkeletalMesh /Game/InfinityBladeWeapons/Weapons/Blade/Swords/Blade_BlackKnight/SK_Blade_BlackKnight.SK_Blade_BlackKnight' 오브젝트를 찾는 데 실패했습니다.
+[2023.02.14-05.53.18:669][  0]Error: CDO Constructor (ABWeapon): Failed to find /Game/InfinityBladeWeapons/Weapons/Blade/Swords/Blade_BlackKnight/SK_Blade_BlackKnight.SK_Blade_BlackKnight
+
+[2023.02.14-05.53.18:669][  0]LogUObjectBase: Warning: -------------- Default Property warnings and errors:
+[2023.02.14-05.53.18:669][  0]LogUObjectBase: Warning: Error: CDO Constructor (ABCharacter): Failed to find /Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_CharM_Cardboard.SK_CharM_Cardboard
+
+[2023.02.14-05.53.18:669][  0]LogUObjectBase: Warning: Error: CDO Constructor (ABItemBox): Failed to find /Game/InfinityBladeGrassLands/Environments/Breakables/StaticMesh/Box/SM_Env_Breakables_Box1.SM_Env_Breakables_Box1
+
+[2023.02.14-05.53.18:669][  0]LogUObjectBase: Warning: Error: CDO Constructor (ABItemBox): Failed to find /Game/InfinityBladeGrassLands/Effects/FX_Treasure/Chest/P_TreasureChest_Open_Mesh.P_TreasureChest_Open_Mesh
+
+[2023.02.14-05.53.18:669][  0]LogUObjectBase: Warning: Error: CDO Constructor (ABPawn): Failed to find /Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_CharM_Cardboard.SK_CharM_Cardboard
+
+[2023.02.14-05.53.18:669][  0]LogUObjectBase: Warning: Error: CDO Constructor (ABWeapon): Failed to find /Game/InfinityBladeWeapons/Weapons/Blade/Swords/Blade_BlackKnight/SK_Blade_BlackKnight.SK_Blade_BlackKnight
+
+[2023.02.14-05.53.25:407][  0]SourceControl: 소스 컨트롤이 꺼져 있습니다.
+[2023.02.14-05.53.25:407][  0]SourceControl: 소스 컨트롤이 꺼져 있습니다.
+[2023.02.14-05.53.25:408][  0]SourceControl: 소스 컨트롤이 꺼져 있습니다.
+[2023.02.14-05.53.25:410][  0]SourceControl: 소스 컨트롤이 꺼져 있습니다.
+[2023.02.14-05.53.25:499][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.02.14-05.53.25:620][  0]LogOcInput: OculusInput pre-init called
+[2023.02.14-05.53.26:237][  0]LogEngine: Initializing Engine...
+[2023.02.14-05.53.26:237][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2023.02.14-05.53.26:238][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2023.02.14-05.53.26:405][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.02.14-05.53.26:415][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.02.14-05.53.26:457][  0]LogInit: XAudio2 using 'Headphones(High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2023.02.14-05.53.26:483][  0]LogInit: FAudioDevice initialized.
+[2023.02.14-05.53.26:483][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.02.14-05.53.26:549][  0]LogDerivedDataCache: Saved boot cache 0.07s 72MB C:/Users/seo/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2023.02.14-05.53.26:553][  0]LogInit: Texture streaming: Enabled
+[2023.02.14-05.53.26:570][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.02.14-05.53.26:570][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={22456B62-4388-725C-D373-E6A8891E3197}
+[2023.02.14-05.53.26:587][  0]LogInit: Transaction tracking system initialized
+[2023.02.14-05.53.26:606][  0]BlueprintLog: New page: 에디터 로드
+[2023.02.14-05.53.26:673][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2023.02.14-05.53.26:950][  0]LogFileCache: Scanning file cache for directory 'C:/Users/seo/Downloads/unreal-c-example-4.22v/Projects/Chapter11/Content/' took 0.01s
+[2023.02.14-05.53.26:950][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2023.02.14-05.53.26:950][  0]LogCook: Display: Mobile HDR setting 1
+[2023.02.14-05.53.27:108][  0]SourceControl: 소스 컨트롤이 꺼져 있습니다.
+[2023.02.14-05.53.27:108][  0]Cmd: MAP LOAD FILE="../../../../../../Users/seo/Downloads/unreal-c-example-4.22v/Projects/Chapter11/Content/Book/Maps/Step2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.02.14-05.53.27:108][  0]LightingResults: New page: 라이팅 빌드
+[2023.02.14-05.53.27:110][  0]MapCheck: New page: 맵 체크
+[2023.02.14-05.53.27:110][  0]LightingResults: New page: 라이팅 빌드
+[2023.02.14-05.53.27:138][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2023.02.14-05.53.27:188][  0]LogLinker: Warning: '/Game/InfinityBladeWeapons/Weapons/Blade/Axes/Blade_GreatBlade/SK_Blade_GreatBlade' 파일을 찾을 수 없습니다.
+[2023.02.14-05.53.27:188][  0]LogLinker: Warning: NULL 로드중 '/Game/InfinityBladeWeapons/Weapons/Blade/Axes/Blade_GreatBlade/SK_Blade_GreatBlade' 애셋에 대한 파일을 찾을 수 없습니다.
+[2023.02.14-05.53.27:188][  0]LogLinker: Warning: '/Game/InfinityBladeWeapons/Weapons/Blade/Axes/Blade_GreatBlade/SK_Blade_GreatBlade' 파일을 찾을 수 없습니다.
+[2023.02.14-05.53.27:188][  0]LogLinker: Warning: NULL 로드중 '/Game/InfinityBladeWeapons/Weapons/Blade/Axes/Blade_GreatBlade/SK_Blade_GreatBlade' 애셋에 대한 파일을 찾을 수 없습니다.
+[2023.02.14-05.53.27:189][  0]LogLinker: Warning: '/Game/InfinityBladeWeapons/Weapons/Blade/Axes/Blade_GreatBlade/SK_Blade_GreatBlade' 파일을 찾을 수 없습니다.
+[2023.02.14-05.53.27:189][  0]LogLinker: Warning: NULL 로드중 '/Game/InfinityBladeWeapons/Weapons/Blade/Axes/Blade_GreatBlade/SK_Blade_GreatBlade' 애셋에 대한 파일을 찾을 수 없습니다.
+[2023.02.14-05.53.27:189][  0]LogLinker: Warning: '/Game/InfinityBladeWeapons/Weapons/Blade/Axes/Blade_GreatBlade/SK_Blade_GreatBlade' 파일을 찾을 수 없습니다.
+[2023.02.14-05.53.27:189][  0]LogLinker: Warning: NULL 로드중 '/Game/InfinityBladeWeapons/Weapons/Blade/Axes/Blade_GreatBlade/SK_Blade_GreatBlade' 애셋에 대한 파일을 찾을 수 없습니다.
+[2023.02.14-05.53.27:190][  0]LogLinker: Warning: '/Game/InfinityBladeWeapons/Weapons/Blade/Axes/Blade_GreatBlade/SK_Blade_GreatBlade' 파일을 찾을 수 없습니다.
+[2023.02.14-05.53.27:190][  0]LoadErrors: 로드에 실패했습니다. /Game/InfinityBladeWeapons/Weapons/Blade/Axes/Blade_GreatBlade/SK_Blade_GreatBlade.SK_Blade_GreatBlade 참조한 것: WEAPON
+[2023.02.14-05.53.27:190][  0]LogLinker: Warning: NULL 로드중 '/Game/InfinityBladeWeapons/Weapons/Blade/Axes/Blade_GreatBlade/SK_Blade_GreatBlade' 애셋에 대한 파일을 찾을 수 없습니다.
+[2023.02.14-05.53.27:194][  0]LogLinker: Warning: '/Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/Materials/M_Plains_Floors_Block' 파일을 찾을 수 없습니다.
+[2023.02.14-05.53.27:194][  0]LogLinker: Warning: NULL 로드중 '/Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/Materials/M_Plains_Floors_Block' 애셋에 대한 파일을 찾을 수 없습니다.
+[2023.02.14-05.53.27:194][  0]LogLinker: Warning: '/Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/Materials/M_Plains_Pillars' 파일을 찾을 수 없습니다.
+[2023.02.14-05.53.27:194][  0]LogLinker: Warning: NULL 로드중 '/Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/Materials/M_Plains_Pillars' 애셋에 대한 파일을 찾을 수 없습니다.
+[2023.02.14-05.53.27:195][  0]LogLinker: Warning: '/Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/Materials/M_Plains_StoneWall' 파일을 찾을 수 없습니다.
+[2023.02.14-05.53.27:195][  0]LogLinker: Warning: NULL 로드중 '/Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/Materials/M_Plains_StoneWall' 애셋에 대한 파일을 찾을 수 없습니다.
+[2023.02.14-05.53.27:195][  0]LogLinker: Warning: '/Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/Materials/M_Plains_Floors_Block' 파일을 찾을 수 없습니다.
+[2023.02.14-05.53.27:195][  0]LogLinker: Warning: NULL 로드중 '/Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/Materials/M_Plains_Floors_Block' 애셋에 대한 파일을 찾을 수 없습니다.
+[2023.02.14-05.53.27:196][  0]LogLinker: Warning: '/Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/Materials/M_Plains_Pillars' 파일을 찾을 수 없습니다.
+[2023.02.14-05.53.27:196][  0]LogLinker: Warning: NULL 로드중 '/Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/Materials/M_Plains_Pillars' 애셋에 대한 파일을 찾을 수 없습니다.
+[2023.02.14-05.53.27:196][  0]LogLinker: Warning: '/Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/Materials/M_Plains_StoneWall' 파일을 찾을 수 없습니다.
+[2023.02.14-05.53.27:196][  0]LogLinker: Warning: NULL 로드중 '/Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/Materials/M_Plains_StoneWall' 애셋에 대한 파일을 찾을 수 없습니다.
+[2023.02.14-05.53.27:210][  0]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_1 (AutoDXT, 256X256)
+[2023.02.14-05.53.27:210][  0]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_1 (DXT1, 256X256)
+[2023.02.14-05.53.27:210][  0]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2023.02.14-05.53.27:210][  0]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2023.02.14-05.53.27:210][  0]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_0 (G8, 128X128)
+[2023.02.14-05.53.27:210][  0]LogLinker: Warning: '/Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/Materials/M_Plains_Floors_Block' 파일을 찾을 수 없습니다.
+[2023.02.14-05.53.27:210][  0]LoadErrors: 로드에 실패했습니다. /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/Materials/M_Plains_Floors_Block.M_Plains_Floors_Block 참조한 것: SM_SQUARE
+[2023.02.14-05.53.27:210][  0]LogLinker: Warning: NULL 로드중 '/Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/Materials/M_Plains_Floors_Block' 애셋에 대한 파일을 찾을 수 없습니다.
+[2023.02.14-05.53.27:210][  0]LogLinker: Warning: '/Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/Materials/M_Plains_Pillars' 파일을 찾을 수 없습니다.
+[2023.02.14-05.53.27:210][  0]LoadErrors: 로드에 실패했습니다. /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/Materials/M_Plains_Pillars.M_Plains_Pillars 참조한 것: SM_SQUARE
+[2023.02.14-05.53.27:211][  0]LogLinker: Warning: NULL 로드중 '/Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/Materials/M_Plains_Pillars' 애셋에 대한 파일을 찾을 수 없습니다.
+[2023.02.14-05.53.27:211][  0]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_1 (G8, 32X32)
+[2023.02.14-05.53.27:211][  0]LogLinker: Warning: '/Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/Materials/M_Plains_StoneWall' 파일을 찾을 수 없습니다.
+[2023.02.14-05.53.27:211][  0]LoadErrors: 로드에 실패했습니다. /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/Materials/M_Plains_StoneWall.M_Plains_StoneWall 참조한 것: SM_SQUARE
+[2023.02.14-05.53.27:211][  0]LogLinker: Warning: NULL 로드중 '/Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/Materials/M_Plains_StoneWall' 애셋에 대한 파일을 찾을 수 없습니다.
+[2023.02.14-05.53.27:211][  0]LogLinker: Warning: '/Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/Materials/M_Plains_Floors_Block' 파일을 찾을 수 없습니다.
+[2023.02.14-05.53.27:211][  0]LoadErrors: 로드에 실패했습니다. /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/Materials/M_Plains_Floors_Block.M_Plains_Floors_Block 참조한 것: SM_SQUARE
+[2023.02.14-05.53.27:212][  0]LogLinker: Warning: NULL 로드중 '/Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/Materials/M_Plains_Floors_Block' 애셋에 대한 파일을 찾을 수 없습니다.
+[2023.02.14-05.53.27:212][  0]LogLinker: Warning: '/Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/Materials/M_Plains_Pillars' 파일을 찾을 수 없습니다.
+[2023.02.14-05.53.27:212][  0]LoadErrors: 로드에 실패했습니다. /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/Materials/M_Plains_Pillars.M_Plains_Pillars 참조한 것: SM_SQUARE
+[2023.02.14-05.53.27:212][  0]LogLinker: Warning: NULL 로드중 '/Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/Materials/M_Plains_Pillars' 애셋에 대한 파일을 찾을 수 없습니다.
+[2023.02.14-05.53.27:212][  0]LogLinker: Warning: '/Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/Materials/M_Plains_StoneWall' 파일을 찾을 수 없습니다.
+[2023.02.14-05.53.27:212][  0]LoadErrors: 로드에 실패했습니다. /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/Materials/M_Plains_StoneWall.M_Plains_StoneWall 참조한 것: SM_SQUARE
+[2023.02.14-05.53.27:212][  0]LogLinker: Warning: NULL 로드중 '/Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/Materials/M_Plains_StoneWall' 애셋에 대한 파일을 찾을 수 없습니다.
+[2023.02.14-05.53.27:238][  0]LogAIModule: Creating AISystem for world Step2
+[2023.02.14-05.53.27:243][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.02.14-05.53.27:269][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2023.02.14-05.53.27:269][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.02.14-05.53.27:269][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.214ms.
+[2023.02.14-05.53.27:269][  0]LogFileHelpers: Loading map 'Step2' took 0.162
+[2023.02.14-05.53.27:368][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.14-05.53.27:374][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.14-05.53.27:380][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.14-05.53.27:386][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.14-05.53.27:391][  0]LogCollectionManager: Loaded 0 collections in 0.000837 seconds
+[2023.02.14-05.53.27:429][  0]LogFileCache: Scanning file cache for directory 'C:/Users/seo/Downloads/unreal-c-example-4.22v/Projects/Chapter11/Saved/Collections/' took 0.01s
+[2023.02.14-05.53.27:429][  0]LogFileCache: Scanning file cache for directory 'C:/Users/seo/Downloads/unreal-c-example-4.22v/Projects/Chapter11/Content/Developers/seo/Collections/' took 0.01s
+[2023.02.14-05.53.27:429][  0]LogFileCache: Scanning file cache for directory 'C:/Users/seo/Downloads/unreal-c-example-4.22v/Projects/Chapter11/Content/Collections/' took 0.01s
+[2023.02.14-05.53.27:429][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2023.02.14-05.53.27:437][  0]LogContentBrowser: Native class hierarchy populated in 0.0083 seconds. Added 2742 classes and 661 folders.
+[2023.02.14-05.53.27:441][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2023.02.14-05.53.27:443][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2023.02.14-05.53.27:443][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2023.02.14-05.53.27:444][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2023.02.14-05.53.27:444][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2023.02.14-05.53.27:445][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2023.02.14-05.53.27:445][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2023.02.14-05.53.27:446][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2023.02.14-05.53.27:446][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2023.02.14-05.53.27:447][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2023.02.14-05.53.27:447][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2023.02.14-05.53.27:448][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2023.02.14-05.53.27:448][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2023.02.14-05.53.27:448][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2023.02.14-05.53.27:449][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2023.02.14-05.53.27:449][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2023.02.14-05.53.27:450][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2023.02.14-05.53.27:450][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2023.02.14-05.53.27:451][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2023.02.14-05.53.27:451][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2023.02.14-05.53.27:452][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2023.02.14-05.53.27:452][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2023.02.14-05.53.27:452][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2023.02.14-05.53.27:453][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2023.02.14-05.53.27:453][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2023.02.14-05.53.27:454][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2023.02.14-05.53.27:454][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2023.02.14-05.53.27:487][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2023.02.14-05.53.27:494][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2023.02.14-05.53.27:551][  0]LogSlate: Took 0.000169 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.02.14-05.53.27:553][  0]LogSlate: Took 0.001485 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2023.02.14-05.53.27:555][  0]LogSlate: Took 0.001463 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicBold.ttf' (4188K)
+[2023.02.14-05.53.27:556][  0]LogSlate: Took 0.000146 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.02.14-05.53.27:559][  0]LogSlate: Took 0.000135 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.02.14-05.53.27:607][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2023.02.14-05.53.27:708][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2023.02.14-05.53.27:708][  0]LogLoad: (Engine Initialization) Total time: 14.49 seconds
+[2023.02.14-05.53.27:708][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.02.14-05.53.27:745][  0]LogAssetRegistry: Asset discovery search completed in 10.8750 seconds
+[2023.02.14-05.53.27:747][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2023.02.14-05.53.27:747][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000041 seconds (updated 0 objects)
+[2023.02.14-05.53.27:750][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.02.14-05.53.27:760][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2023.02.14-05.53.27:881][  0]LogSlate: Took 0.000331 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.02.14-05.53.31:168][385]LogSlate: Window '메시지 로그' being destroyed
+[2023.02.14-05.53.31:175][385]LogSlate: Window '메시지 로그' being destroyed
+[2023.02.14-05.53.33:230][623]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.02.14-05.53.39:495][370]LogTemp: Repeating last play command: 선택된 뷰포트
+[2023.02.14-05.53.39:499][370]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Book/Maps/Step2.Step2:PersistentLevel' has LevelScriptBlueprint '/Game/Book/Maps/Step2.Step2:PersistentLevel.Step2' with GeneratedClass '/Game/Book/Maps/Step2.Step2_C' with ClassGeneratedBy '/Game/Book/Maps/Step2.Step2:PersistentLevel.Step2'
+[2023.02.14-05.53.39:499][370]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.14-05.53.43:305][370]LogSlate: Window '메시지' being destroyed
+[2023.02.14-05.53.43:313][370]PIE: New page: PIE 세션: Step2 (2023. 2. 14. 오후 11:53:43)
+[2023.02.14-05.53.43:326][370]LogPlayLevel: Creating play world package: /Game/Book/Maps/UEDPIE_0_Step2
+[2023.02.14-05.53.43:329][370]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002738s)
+[2023.02.14-05.53.43:330][370]LogAIModule: Creating AISystem for world Step2
+[2023.02.14-05.53.43:330][370]LogPlayLevel: PIE: World Init took: (0.001186s)
+[2023.02.14-05.53.43:330][370]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Book/Maps/Step2.Step2 to /Game/Book/Maps/UEDPIE_0_Step2.Step2 (0.004365s)
+[2023.02.14-05.53.43:351][370]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2023.02.14-05.53.43:381][370]LogInit: XAudio2 using 'Headphones(High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2023.02.14-05.53.43:398][370]LogInit: FAudioDevice initialized.
+[2023.02.14-05.53.43:434][370]LogLoad: Game class is 'ABGameMode'
+[2023.02.14-05.53.43:435][370]LogWorld: Bringing World /Game/Book/Maps/UEDPIE_0_Step2.Step2 up for play (max tick rate 0) at 2023.02.14-14.53.43
+[2023.02.14-05.53.43:436][370]ArenaBattle: Error: AABCharacter::PostInitializeComponents(144) ASSERTION : 'nullptr != ABAnim'
+[2023.02.14-05.53.43:436][370]LogWorld: Bringing up level for play took: 0.001153
+[2023.02.14-05.53.43:448][370]ArenaBattle: Warning: AABPlayerController::PostInitializeComponents(8)
+[2023.02.14-05.53.43:449][370]ArenaBattle: Warning: AABGameMode::PostLogin(15) PostLogin Begin
+[2023.02.14-05.53.43:452][370]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2023.02.14-05.53.43:452][370]ArenaBattle: Error: AABCharacter::PostInitializeComponents(144) ASSERTION : 'nullptr != ABAnim'
+[2023.02.14-05.53.43:452][370]ArenaBattle: Warning: AABPlayerController::OnPossess(13)
+[2023.02.14-05.53.43:452][370]ArenaBattle: Warning: AABGameMode::PostLogin(17) PostLogin End
+[2023.02.14-05.53.43:453][370]PIE: /Game/Book/Maps/UEDPIE_0_Step2 에 대한 에디터에서 플레이 시작 시간: 3.311
+[2023.02.14-05.53.43:453][370]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Book/Maps/Step2.Step2:PersistentLevel' has LevelScriptBlueprint '/Game/Book/Maps/Step2.Step2:PersistentLevel.Step2' with GeneratedClass '/Game/Book/Maps/Step2.Step2_C' with ClassGeneratedBy '/Game/Book/Maps/Step2.Step2:PersistentLevel.Step2'
+[2023.02.14-05.53.43:460][370]LogSlate: Warning: Legacy localized fallback font '../../../Engine/Content/Slate/Fonts/../../Editor/Slate/Fonts/NanumGothic.ttf' was requested. Font: '/Engine/EngineFonts/Faces/RobotoRegular.RobotoRegular', Character: '블 (U+be14)'
+Legacy localized fallback fonts were deprecated in 4.22 and will be removed in a future version!
+Please update your composite fonts to use localized sub-font families: https://docs.unrealengine.com/en-US/Engine/UMG/UserGuide/Fonts/Overview
+[2023.02.14-05.53.43:462][370]LogSlate: Took 0.001426 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/../../Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2023.02.14-05.53.46:401][555]LogWindows: Error: === Critical error: ===
+[2023.02.14-05.53.46:401][555]LogWindows: Error: 
+[2023.02.14-05.53.46:401][555]LogWindows: Error: Fatal error!
+[2023.02.14-05.53.46:401][555]LogWindows: Error: 
+[2023.02.14-05.53.46:401][555]LogWindows: Error: Unhandled Exception: EXCEPTION_ACCESS_VIOLATION reading address 0x000002e8
+[2023.02.14-05.53.46:402][555]LogWindows: Error: 
+[2023.02.14-05.53.46:402][555]LogWindows: Error: [Callstack] 0x00007ffa86894ffb UE4Editor-ArenaBattle.dll!UABAnimInstance::PlayAttackMontage() [c:\users\seo\downloads\unreal-c-example-4.22v\projects\chapter11\source\arenabattle\abaniminstance.cpp:38]
+[2023.02.14-05.53.46:402][555]LogWindows: Error: [Callstack] 0x00007ffa868992c5 UE4Editor-ArenaBattle.dll!AABCharacter::Attack() [c:\users\seo\downloads\unreal-c-example-4.22v\projects\chapter11\source\arenabattle\abcharacter.cpp:292]
+[2023.02.14-05.53.46:402][555]LogWindows: Error: [Callstack] 0x00007ffaa6686ac7 UE4Editor-Engine.dll!UnknownFunction []
+[2023.02.14-05.53.46:402][555]LogWindows: Error: [Callstack] 0x00007ffaa66b0ef1 UE4Editor-Engine.dll!UnknownFunction []
+[2023.02.14-05.53.46:402][555]LogWindows: Error: [Callstack] 0x00007ffaa6220dc4 UE4Editor-Engine.dll!UnknownFunction []
+[2023.02.14-05.53.46:402][555]LogWindows: Error: [Callstack] 0x00007ffaa6233c88 UE4Editor-Engine.dll!UnknownFunction []
+[2023.02.14-05.53.46:402][555]LogWindows: Error: [Callstack] 0x00007ffaa621f1cb UE4Editor-Engine.dll!UnknownFunction []
+[2023.02.14-05.53.46:402][555]LogWindows: Error: [Callstack] 0x00007ffaa6232697 UE4Editor-Engine.dll!UnknownFunction []
+[2023.02.14-05.53.46:402][555]LogWindows: Error: [Callstack] 0x00007ffaa561aeed UE4Editor-Engine.dll!UnknownFunction []
+[2023.02.14-05.53.46:402][555]LogWindows: Error: [Callstack] 0x00007ffaa65d72bc UE4Editor-Engine.dll!UnknownFunction []
+[2023.02.14-05.53.46:402][555]LogWindows: Error: [Callstack] 0x00007ffaa96722d8 UE4Editor-Core.dll!UnknownFunction []
+[2023.02.14-05.53.46:402][555]LogWindows: Error: [Callstack] 0x00007ffaa9672563 UE4Editor-Core.dll!UnknownFunction []
+[2023.02.14-05.53.46:402][555]LogWindows: Error: [Callstack] 0x00007ffaa9682309 UE4Editor-Core.dll!UnknownFunction []
+[2023.02.14-05.53.46:402][555]LogWindows: Error: [Callstack] 0x00007ffaa661f9e3 UE4Editor-Engine.dll!UnknownFunction []
+[2023.02.14-05.53.46:402][555]LogWindows: Error: [Callstack] 0x00007ffaa662bd12 UE4Editor-Engine.dll!UnknownFunction []
+[2023.02.14-05.53.46:402][555]LogWindows: Error: [Callstack] 0x00007ffaa5e4dc4f UE4Editor-Engine.dll!UnknownFunction []
+[2023.02.14-05.53.46:402][555]LogWindows: Error: [Callstack] 0x00007ffaa5e57e28 UE4Editor-Engine.dll!UnknownFunction []
+[2023.02.14-05.53.46:402][555]LogWindows: Error: [Callstack] 0x00007ffa967802f7 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2023.02.14-05.53.46:402][555]LogWindows: Error: [Callstack] 0x00007ffa96f9d396 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2023.02.14-05.53.46:402][555]LogWindows: Error: [Callstack] 0x00007ff7a0d16bb1 UE4Editor.exe!UnknownFunction []
+[2023.02.14-05.53.46:402][555]LogWindows: Error: [Callstack] 0x00007ff7a0d2554c UE4Editor.exe!UnknownFunction []
+[2023.02.14-05.53.46:402][555]LogWindows: Error: [Callstack] 0x00007ff7a0d255ca UE4Editor.exe!UnknownFunction []
+[2023.02.14-05.53.46:402][555]LogWindows: Error: [Callstack] 0x00007ff7a0d3316c UE4Editor.exe!UnknownFunction []
+[2023.02.14-05.53.46:402][555]LogWindows: Error: [Callstack] 0x00007ff7a0d35b8e UE4Editor.exe!UnknownFunction []
+[2023.02.14-05.53.46:402][555]LogWindows: Error: [Callstack] 0x00007ffb25d67614 KERNEL32.DLL!UnknownFunction []
+[2023.02.14-05.53.46:402][555]LogWindows: Error: [Callstack] 0x00007ffb265226a1 ntdll.dll!UnknownFunction []
+[2023.02.14-05.53.46:402][555]LogWindows: Error: 
+[2023.02.14-05.53.46:431][555]LogExit: Executing StaticShutdownAfterError
+[2023.02.14-05.53.46:434][555]LogWindows: FPlatformMisc::RequestExit(1)
+[2023.02.14-05.53.46:440][555]Log file closed, 02/14/23 14:53:46

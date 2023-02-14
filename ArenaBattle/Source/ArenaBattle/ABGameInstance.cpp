@@ -1,6 +1,5 @@
 // Fill out your copyright notice in the Description page of Project Settings.
 
-
 #include "ABGameInstance.h"
 
 UABGameInstance::UABGameInstance()
@@ -10,15 +9,15 @@ UABGameInstance::UABGameInstance()
 	static ConstructorHelpers::FObjectFinder<UDataTable> DT_ABCHARACTER(*CharacterDataPath);
 	ABCHECK(DT_ABCHARACTER.Succeeded());
 	ABCharacterTable = DT_ABCHARACTER.Object;
-	ABCHECK(ABCharacterTable->GetRowMap().Num()>0);
+	ABCHECK(ABCharacterTable->GetRowMap().Num() > 0);
 }
+
 void UABGameInstance::Init()
 {
 	Super::Init();
-	ABLOG(Warning, TEXT("DropExp of Level 20 ABCharacter : %d"), GetABCharacterData(20)->DropExp);
 }
 
-FABCharacterDate * UABGameInstance::GetABCharacterData(int32 Level)
+FABCharacterData* UABGameInstance::GetABCharacterData(int32 Level)
 {
-	return ABCharacterTable->FindRow<FABCharacterDate>(*FString::FromInt(Level), TEXT(""));
+	return ABCharacterTable->FindRow<FABCharacterData>(*FString::FromInt(Level), TEXT(""));
 }
