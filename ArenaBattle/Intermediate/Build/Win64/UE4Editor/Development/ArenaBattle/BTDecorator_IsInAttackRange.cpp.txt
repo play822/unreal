@@ -1,6 +1,6 @@
 D:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\Definitions.ArenaBattle.h
-d:\git\arenabattle\arenabattle\source\arenabattle\BTDecorator_IsInAttackRange.h
-d:\git\arenabattle\arenabattle\source\arenabattle\ArenaBattle.h
+D:\git\ArenaBattle\ArenaBattle\Source\ArenaBattle\Public\BTDecorator_IsInAttackRange.h
+d:\git\arenabattle\arenabattle\source\arenabattle\public\ArenaBattle.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Public\EngineMinimal.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Core\Public\Misc/MonolithicHeaderBoilerplate.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\CoreUObject.h
@@ -229,7 +229,7 @@ C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\In
 C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AIModule\BTAuxiliaryNode.generated.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AIModule\BTDecorator.generated.h
 D:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Inc\ArenaBattle\BTDecorator_IsInAttackRange.generated.h
-d:\git\arenabattle\arenabattle\source\arenabattle\ABAIController.h
+D:\git\ArenaBattle\ArenaBattle\Source\ArenaBattle\Public\ABAIController.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\AIModule\Classes\AIController.h
 c:\program files\epic games\ue_4.22\engine\source\runtime\aimodule\classes\Navigation/PathFollowingComponent.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\NavigationSystem\Public\NavigationData.h
@@ -245,7 +245,7 @@ C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Public\VisualLo
 C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\VisualLoggerDebugSnapshotInterface.generated.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AIModule\AIController.generated.h
 D:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Inc\ArenaBattle\ABAIController.generated.h
-d:\git\arenabattle\arenabattle\source\arenabattle\ABCharacter.h
+D:\git\ArenaBattle\ArenaBattle\Source\ArenaBattle\Public\ABCharacter.h
 D:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Inc\ArenaBattle\ABCharacter.generated.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\AIModule\Classes\BehaviorTree/BlackboardComponent.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\AIModule\Classes\BehaviorTree/Blackboard/BlackboardKeyType.h

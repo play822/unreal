@@ -1,0 +1,2 @@
+D:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattleSetting\Definitions.ArenaBattleSetting.h
+D:\git\ArenaBattle\ArenaBattle\Source\ArenaBattleSetting\Public\ArenaBattleSetting.h

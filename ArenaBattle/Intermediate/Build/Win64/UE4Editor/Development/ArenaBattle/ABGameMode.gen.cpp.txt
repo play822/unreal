@@ -1,8 +1,8 @@
 D:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\Definitions.ArenaBattle.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-D:\git\ArenaBattle\ArenaBattle\Source\ArenaBattle/ABGameMode.h
-d:\git\arenabattle\arenabattle\source\arenabattle\ArenaBattle.h
+D:\git\ArenaBattle\ArenaBattle\Source\ArenaBattle/Public/ABGameMode.h
+d:\git\arenabattle\arenabattle\source\arenabattle\public\ArenaBattle.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Public\EngineMinimal.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Core\Public\Misc/MonolithicHeaderBoilerplate.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\CoreUObject.h

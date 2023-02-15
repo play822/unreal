@@ -1,3 +1,4 @@
+D:\git\ArenaBattle\ArenaBattle\Source\ArenaBattleSetting\ArenaBattleSetting.Build.cs
 D:\git\ArenaBattle\ArenaBattle\Source\ArenaBattle\ArenaBattle.Build.cs
 D:\git\ArenaBattle\ArenaBattle\Source\ArenaBattle.Target.cs
 D:\git\ArenaBattle\ArenaBattle\Source\ArenaBattleEditor.Target.cs

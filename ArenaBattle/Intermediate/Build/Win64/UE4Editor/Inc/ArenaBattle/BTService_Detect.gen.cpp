@@ -5,7 +5,7 @@
 ===========================================================================*/
 
 #include "UObject/GeneratedCppIncludes.h"
-#include "ArenaBattle/BTService_Detect.h"
+#include "ArenaBattle/Public/BTService_Detect.h"
 #ifdef _MSC_VER
 #pragma warning (push)
 #pragma warning (disable : 4883)
@@ -41,7 +41,7 @@ void EmptyLinkFunctionForGeneratedCodeBTService_Detect() {}
 #if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_UBTService_Detect_Statics::Class_MetaDataParams[] = {
 		{ "IncludePath", "BTService_Detect.h" },
-		{ "ModuleRelativePath", "BTService_Detect.h" },
+		{ "ModuleRelativePath", "Public/BTService_Detect.h" },
 	};
 #endif
 	const FCppClassTypeInfoStatic Z_Construct_UClass_UBTService_Detect_Statics::StaticCppClassTypeInfo = {
@@ -71,7 +71,7 @@ void EmptyLinkFunctionForGeneratedCodeBTService_Detect() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(UBTService_Detect, 2337304058);
+	IMPLEMENT_CLASS(UBTService_Detect, 3966301354);
 	template<> ARENABATTLE_API UClass* StaticClass<UBTService_Detect>()
 	{
 		return UBTService_Detect::StaticClass();

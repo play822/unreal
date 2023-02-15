@@ -28,31 +28,12 @@
 /wd4838
 /we4668
 /I .
-/I ..\Intermediate\Build\Win64\UE4Editor\Inc\Engine
+/I D:\git\ArenaBattle\ArenaBattle\Source\ArenaBattle\Private
+/I D:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Inc\ArenaBattleSetting
+/I D:\git\ArenaBattle\ArenaBattle\Source
+/I D:\git\ArenaBattle\ArenaBattle\Source\ArenaBattleSetting\Public
+/I D:\git\ArenaBattle\ArenaBattle\Source\ArenaBattleSetting
 /I Runtime
-/I Runtime\Engine\Classes
-/I Runtime\Engine\Public
-/I Runtime\Engine
-/I Runtime\Engine\Public\AI
-/I Runtime\Engine\Public\AI\Navigation
-/I Runtime\Engine\Public\Analytics
-/I Runtime\Engine\Public\Animation
-/I Runtime\Engine\Public\Curves
-/I Runtime\Engine\Public\EdGraph
-/I Runtime\Engine\Public\Internationalization
-/I Runtime\Engine\Public\Net
-/I Runtime\Engine\Public\Net\Util
-/I Runtime\Engine\Public\PacketHandlers
-/I Runtime\Engine\Public\Performance
-/I Runtime\Engine\Public\Physics
-/I Runtime\Engine\Public\Physics\Experimental
-/I Runtime\Engine\Public\Physics\ImmediatePhysics
-/I Runtime\Engine\Public\ProfilingDebugging
-/I Runtime\Engine\Public\Rendering
-/I Runtime\Engine\Public\Slate
-/I Runtime\Engine\Public\Subsystems
-/I Runtime\Engine\Public\Tests
-/I Runtime\Engine\Public\VisualLogger
 /I Runtime\Core\Public
 /I Runtime\Core
 /I Runtime\Core\Public\Algo
@@ -92,6 +73,30 @@
 /I Runtime\CoreUObject\Public\Serialization\Formatters
 /I Runtime\CoreUObject\Public\Templates
 /I Runtime\CoreUObject\Public\UObject
+/I ..\Intermediate\Build\Win64\UE4Editor\Inc\Engine
+/I Runtime\Engine\Classes
+/I Runtime\Engine\Public
+/I Runtime\Engine
+/I Runtime\Engine\Public\AI
+/I Runtime\Engine\Public\AI\Navigation
+/I Runtime\Engine\Public\Analytics
+/I Runtime\Engine\Public\Animation
+/I Runtime\Engine\Public\Curves
+/I Runtime\Engine\Public\EdGraph
+/I Runtime\Engine\Public\Internationalization
+/I Runtime\Engine\Public\Net
+/I Runtime\Engine\Public\Net\Util
+/I Runtime\Engine\Public\PacketHandlers
+/I Runtime\Engine\Public\Performance
+/I Runtime\Engine\Public\Physics
+/I Runtime\Engine\Public\Physics\Experimental
+/I Runtime\Engine\Public\Physics\ImmediatePhysics
+/I Runtime\Engine\Public\ProfilingDebugging
+/I Runtime\Engine\Public\Rendering
+/I Runtime\Engine\Public\Slate
+/I Runtime\Engine\Public\Subsystems
+/I Runtime\Engine\Public\Tests
+/I Runtime\Engine\Public\VisualLogger
 /I Runtime\ApplicationCore\Public
 /I Runtime\ApplicationCore
 /I Runtime\ApplicationCore\Public\GenericPlatform
@@ -427,7 +432,7 @@
 /I ThirdParty\libSampleRate\Public
 /I ThirdParty\libSampleRate
 /I D:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Inc\ArenaBattle
-/I D:\git\ArenaBattle\ArenaBattle\Source
+/I D:\git\ArenaBattle\ArenaBattle\Source\ArenaBattle\Public
 /I D:\git\ArenaBattle\ArenaBattle\Source\ArenaBattle
 /I "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE"
 /I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\include\um"
@@ -438,7 +443,7 @@
 /FI"D:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\ArenaBattleEditor\Development\Engine\SharedPCH.Engine.h"
 /Yu"D:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\ArenaBattleEditor\Development\Engine\SharedPCH.Engine.h"
 /Fp"D:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\ArenaBattleEditor\Development\Engine\SharedPCH.Engine.h.pch"
-"D:\git\ArenaBattle\ArenaBattle\Source\ArenaBattle\ArenaBattle.cpp"
+"D:\git\ArenaBattle\ArenaBattle\Source\ArenaBattle\Private\ArenaBattle.cpp"
 /FI"D:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\Definitions.ArenaBattle.h"
 /Fo"D:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\ArenaBattle.cpp.obj"
 /TP

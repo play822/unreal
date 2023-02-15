@@ -1,6 +1,6 @@
 D:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\Definitions.ArenaBattle.h
-d:\git\arenabattle\arenabattle\source\arenabattle\ABCharacter.h
-d:\git\arenabattle\arenabattle\source\arenabattle\ArenaBattle.h
+D:\git\ArenaBattle\ArenaBattle\Source\ArenaBattle\Public\ABCharacter.h
+d:\git\arenabattle\arenabattle\source\arenabattle\public\ArenaBattle.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Public\EngineMinimal.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Core\Public\Misc/MonolithicHeaderBoilerplate.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\CoreUObject.h
@@ -194,11 +194,11 @@ c:\program files\epic games\ue_4.22\engine\source\runtime\engine\classes\kismet\
 C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStaticsTypes.generated.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStatics.generated.h
 D:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Inc\ArenaBattle\ABCharacter.generated.h
-d:\git\arenabattle\arenabattle\source\arenabattle\ABAnimInstance.h
+D:\git\ArenaBattle\ArenaBattle\Source\ArenaBattle\Public\ABAnimInstance.h
 D:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Inc\ArenaBattle\ABAnimInstance.generated.h
-d:\git\arenabattle\arenabattle\source\arenabattle\ABWeapon.h
+D:\git\ArenaBattle\ArenaBattle\Source\ArenaBattle\Public\ABWeapon.h
 D:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Inc\ArenaBattle\ABWeapon.generated.h
-d:\git\arenabattle\arenabattle\source\arenabattle\ABCharacterStatComponent.h
+D:\git\ArenaBattle\ArenaBattle\Source\ArenaBattle\Public\ABCharacterStatComponent.h
 D:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Inc\ArenaBattle\ABCharacterStatComponent.generated.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Public\DrawDebugHelpers.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\UMG\Public\Components/WidgetComponent.h
@@ -313,9 +313,9 @@ C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\In
 C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\WidgetBlueprintGeneratedClass.generated.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\UserWidget.generated.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\WidgetComponent.generated.h
-d:\git\arenabattle\arenabattle\source\arenabattle\ABCharacterWidget.h
+D:\git\ArenaBattle\ArenaBattle\Source\ArenaBattle\Public\ABCharacterWidget.h
 D:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Inc\ArenaBattle\ABCharacterWidget.generated.h
-d:\git\arenabattle\arenabattle\source\arenabattle\ABAIController.h
+D:\git\ArenaBattle\ArenaBattle\Source\ArenaBattle\Public\ABAIController.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\AIModule\Classes\AIController.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\NavigationSystem\Public\NavFilters/NavigationQueryFilter.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\NavigationSystem\Public\NavAreas/NavArea.h
@@ -350,3 +350,15 @@ C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Public\VisualLo
 C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\VisualLoggerDebugSnapshotInterface.generated.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AIModule\AIController.generated.h
 D:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Inc\ArenaBattle\ABAIController.generated.h
+D:\git\ArenaBattle\ArenaBattle\Source\ArenaBattleSetting\Public\ABCharacterSetting.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/NoExportTypes.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Core\Public\Math/UnitConversion.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Core\Public\Math/UnitConversion.inl
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Core\Public\Internationalization/PolyglotTextData.h
+D:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Inc\ArenaBattleSetting\ABCharacterSetting.generated.h
+D:\git\ArenaBattle\ArenaBattle\Source\ArenaBattle\Public\ABGameInstance.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Engine/DataTable.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Public\DataTableUtils.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DataTable.generated.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Engine/StreamableManager.h
+D:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Inc\ArenaBattle\ABGameInstance.generated.h
