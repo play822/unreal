@@ -21,6 +21,7 @@ void EmptyLinkFunctionForGeneratedCodeABSection() {}
 	ENGINE_API UScriptStruct* Z_Construct_UScriptStruct_FHitResult();
 	ENGINE_API UClass* Z_Construct_UClass_UPrimitiveComponent_NoRegister();
 	ENGINE_API UClass* Z_Construct_UClass_AActor_NoRegister();
+	ARENABATTLE_API UFunction* Z_Construct_UFunction_AABSection_OnKeyNPCDestroyed();
 	ARENABATTLE_API UFunction* Z_Construct_UFunction_AABSection_OnTriggerBeginOverlap();
 	ENGINE_API UClass* Z_Construct_UClass_UBoxComponent_NoRegister();
 	ENGINE_API UClass* Z_Construct_UClass_UStaticMeshComponent_NoRegister();
@@ -30,6 +31,7 @@ void EmptyLinkFunctionForGeneratedCodeABSection() {}
 		UClass* Class = AABSection::StaticClass();
 		static const FNameNativePtrPair Funcs[] = {
 			{ "OnGateTriggerBeginOverlap", &AABSection::execOnGateTriggerBeginOverlap },
+			{ "OnKeyNPCDestroyed", &AABSection::execOnKeyNPCDestroyed },
 			{ "OnTriggerBeginOverlap", &AABSection::execOnTriggerBeginOverlap },
 		};
 		FNativeFunctionRegistrar::RegisterFunctions(Class, Funcs, ARRAY_COUNT(Funcs));
@@ -112,6 +114,38 @@ void EmptyLinkFunctionForGeneratedCodeABSection() {}
 		if (!ReturnFunction)
 		{
 			UE4CodeGen_Private::ConstructUFunction(ReturnFunction, Z_Construct_UFunction_AABSection_OnGateTriggerBeginOverlap_Statics::FuncParams);
+		}
+		return ReturnFunction;
+	}
+	struct Z_Construct_UFunction_AABSection_OnKeyNPCDestroyed_Statics
+	{
+		struct ABSection_eventOnKeyNPCDestroyed_Parms
+		{
+			AActor* DestroyedActor;
+		};
+		static const UE4CodeGen_Private::FObjectPropertyParams NewProp_DestroyedActor;
+		static const UE4CodeGen_Private::FPropertyParamsBase* const PropPointers[];
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam Function_MetaDataParams[];
+#endif
+		static const UE4CodeGen_Private::FFunctionParams FuncParams;
+	};
+	const UE4CodeGen_Private::FObjectPropertyParams Z_Construct_UFunction_AABSection_OnKeyNPCDestroyed_Statics::NewProp_DestroyedActor = { "DestroyedActor", nullptr, (EPropertyFlags)0x0010000000000080, UE4CodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(ABSection_eventOnKeyNPCDestroyed_Parms, DestroyedActor), Z_Construct_UClass_AActor_NoRegister, METADATA_PARAMS(nullptr, 0) };
+	const UE4CodeGen_Private::FPropertyParamsBase* const Z_Construct_UFunction_AABSection_OnKeyNPCDestroyed_Statics::PropPointers[] = {
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UFunction_AABSection_OnKeyNPCDestroyed_Statics::NewProp_DestroyedActor,
+	};
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UFunction_AABSection_OnKeyNPCDestroyed_Statics::Function_MetaDataParams[] = {
+		{ "ModuleRelativePath", "Public/ABSection.h" },
+	};
+#endif
+	const UE4CodeGen_Private::FFunctionParams Z_Construct_UFunction_AABSection_OnKeyNPCDestroyed_Statics::FuncParams = { (UObject*(*)())Z_Construct_UClass_AABSection, nullptr, "OnKeyNPCDestroyed", sizeof(ABSection_eventOnKeyNPCDestroyed_Parms), Z_Construct_UFunction_AABSection_OnKeyNPCDestroyed_Statics::PropPointers, ARRAY_COUNT(Z_Construct_UFunction_AABSection_OnKeyNPCDestroyed_Statics::PropPointers), RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x00040401, 0, 0, METADATA_PARAMS(Z_Construct_UFunction_AABSection_OnKeyNPCDestroyed_Statics::Function_MetaDataParams, ARRAY_COUNT(Z_Construct_UFunction_AABSection_OnKeyNPCDestroyed_Statics::Function_MetaDataParams)) };
+	UFunction* Z_Construct_UFunction_AABSection_OnKeyNPCDestroyed()
+	{
+		static UFunction* ReturnFunction = nullptr;
+		if (!ReturnFunction)
+		{
+			UE4CodeGen_Private::ConstructUFunction(ReturnFunction, Z_Construct_UFunction_AABSection_OnKeyNPCDestroyed_Statics::FuncParams);
 		}
 		return ReturnFunction;
 	}
@@ -248,6 +282,7 @@ void EmptyLinkFunctionForGeneratedCodeABSection() {}
 	};
 	const FClassFunctionLinkInfo Z_Construct_UClass_AABSection_Statics::FuncInfo[] = {
 		{ &Z_Construct_UFunction_AABSection_OnGateTriggerBeginOverlap, "OnGateTriggerBeginOverlap" }, // 4164547874
+		{ &Z_Construct_UFunction_AABSection_OnKeyNPCDestroyed, "OnKeyNPCDestroyed" }, // 3556849085
 		{ &Z_Construct_UFunction_AABSection_OnTriggerBeginOverlap, "OnTriggerBeginOverlap" }, // 945150628
 	};
 #if WITH_METADATA
@@ -360,7 +395,7 @@ void EmptyLinkFunctionForGeneratedCodeABSection() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(AABSection, 1059960960);
+	IMPLEMENT_CLASS(AABSection, 3499591165);
 	template<> ARENABATTLE_API UClass* StaticClass<AABSection>()
 	{
 		return AABSection::StaticClass();
