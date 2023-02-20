@@ -28,7 +28,7 @@
 /wd4838
 /we4668
 /I .
-/I D:\git\ArenaBattle\ArenaBattle\Source\ArenaBattleSetting\Private
+/I E:\git\ArenaBattle\ArenaBattle\Source\ArenaBattleSetting\Private
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\CoreUObject
 /I Runtime
 /I Runtime\CoreUObject\Public
@@ -69,10 +69,10 @@
 /I Runtime\Core\Public\Traits
 /I Runtime\Core\Public\UObject
 /I Runtime\Core\Public\Windows
-/I D:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Inc\ArenaBattleSetting
-/I D:\git\ArenaBattle\ArenaBattle\Source
-/I D:\git\ArenaBattle\ArenaBattle\Source\ArenaBattleSetting\Public
-/I D:\git\ArenaBattle\ArenaBattle\Source\ArenaBattleSetting
+/I E:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Inc\ArenaBattleSetting
+/I E:\git\ArenaBattle\ArenaBattle\Source
+/I E:\git\ArenaBattle\ArenaBattle\Source\ArenaBattleSetting\Public
+/I E:\git\ArenaBattle\ArenaBattle\Source\ArenaBattleSetting
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\Engine
 /I Runtime\Engine\Classes
 /I Runtime\Engine\Public
@@ -437,12 +437,12 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\winrt"
-/FI"D:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\ArenaBattleEditor\Development\Engine\SharedPCH.Engine.h"
-/Yu"D:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\ArenaBattleEditor\Development\Engine\SharedPCH.Engine.h"
-/Fp"D:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\ArenaBattleEditor\Development\Engine\SharedPCH.Engine.h.pch"
-"D:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Inc\ArenaBattleSetting\ArenaBattleSetting.init.gen.cpp"
-/FI"D:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattleSetting\Definitions.ArenaBattleSetting.h"
-/Fo"D:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattleSetting\ArenaBattleSetting.init.gen.cpp.obj"
+/FI"E:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\ArenaBattleEditor\Development\Engine\SharedPCH.Engine.h"
+/Yu"E:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\ArenaBattleEditor\Development\Engine\SharedPCH.Engine.h"
+/Fp"E:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\ArenaBattleEditor\Development\Engine\SharedPCH.Engine.h.pch"
+"E:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Inc\ArenaBattleSetting\ArenaBattleSetting.init.gen.cpp"
+/FI"E:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattleSetting\Definitions.ArenaBattleSetting.h"
+/Fo"E:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattleSetting\ArenaBattleSetting.init.gen.cpp.obj"
 /TP
 /GR-
 /W4

@@ -28,11 +28,11 @@
 /wd4838
 /we4668
 /I .
-/I D:\git\ArenaBattle\ArenaBattle\Source\ArenaBattle\Private
-/I D:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Inc\ArenaBattleSetting
-/I D:\git\ArenaBattle\ArenaBattle\Source
-/I D:\git\ArenaBattle\ArenaBattle\Source\ArenaBattleSetting\Public
-/I D:\git\ArenaBattle\ArenaBattle\Source\ArenaBattleSetting
+/I E:\git\ArenaBattle\ArenaBattle\Source\ArenaBattle\Private
+/I E:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Inc\ArenaBattleSetting
+/I E:\git\ArenaBattle\ArenaBattle\Source
+/I E:\git\ArenaBattle\ArenaBattle\Source\ArenaBattleSetting\Public
+/I E:\git\ArenaBattle\ArenaBattle\Source\ArenaBattleSetting
 /I Runtime
 /I Runtime\Core\Public
 /I Runtime\Core
@@ -431,21 +431,21 @@
 /I ThirdParty
 /I ThirdParty\libSampleRate\Public
 /I ThirdParty\libSampleRate
-/I D:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Inc\ArenaBattle
-/I D:\git\ArenaBattle\ArenaBattle\Source\ArenaBattle\Public
-/I D:\git\ArenaBattle\ArenaBattle\Source\ArenaBattle
+/I E:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Inc\ArenaBattle
+/I E:\git\ArenaBattle\ArenaBattle\Source\ArenaBattle\Public
+/I E:\git\ArenaBattle\ArenaBattle\Source\ArenaBattle
 /I "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE"
 /I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\include\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\winrt"
-/FI"D:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\ArenaBattleEditor\Development\Engine\SharedPCH.Engine.h"
-/Yu"D:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\ArenaBattleEditor\Development\Engine\SharedPCH.Engine.h"
-/Fp"D:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\ArenaBattleEditor\Development\Engine\SharedPCH.Engine.h.pch"
-"D:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Inc\ArenaBattle\BTTask_Attack.gen.cpp"
-/FI"D:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\Definitions.ArenaBattle.h"
-/Fo"D:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\BTTask_Attack.gen.cpp.obj"
+/FI"E:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\ArenaBattleEditor\Development\Engine\SharedPCH.Engine.h"
+/Yu"E:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\ArenaBattleEditor\Development\Engine\SharedPCH.Engine.h"
+/Fp"E:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\ArenaBattleEditor\Development\Engine\SharedPCH.Engine.h.pch"
+"E:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Inc\ArenaBattle\BTTask_Attack.gen.cpp"
+/FI"E:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\Definitions.ArenaBattle.h"
+/Fo"E:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\BTTask_Attack.gen.cpp.obj"
 /TP
 /GR-
 /W4

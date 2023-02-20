@@ -387,6 +387,7 @@
     <ClCompile Include="..\..\Source\ArenaBattle\Private\ABPawn.cpp" />
     <ClCompile Include="..\..\Source\ArenaBattle\Private\ABPlayerController.cpp" />
     <ClCompile Include="..\..\Source\ArenaBattle\Private\ABPlayerState.cpp" />
+    <ClCompile Include="..\..\Source\ArenaBattle\Private\ABSaveGame.cpp" />
     <ClCompile Include="..\..\Source\ArenaBattle\Private\ABSection.cpp" />
     <ClCompile Include="..\..\Source\ArenaBattle\Private\ABWeapon.cpp" />
     <ClCompile Include="..\..\Source\ArenaBattle\Private\ArenaBattle.cpp" />
@@ -408,6 +409,7 @@
     <ClInclude Include="..\..\Source\ArenaBattle\Public\ABPawn.h" />
     <ClInclude Include="..\..\Source\ArenaBattle\Public\ABPlayerController.h" />
     <ClInclude Include="..\..\Source\ArenaBattle\Public\ABPlayerState.h" />
+    <ClInclude Include="..\..\Source\ArenaBattle\Public\ABSaveGame.h" />
     <ClInclude Include="..\..\Source\ArenaBattle\Public\ABSection.h" />
     <ClInclude Include="..\..\Source\ArenaBattle\Public\ABWeapon.h" />
     <ClInclude Include="..\..\Source\ArenaBattle\Public\ArenaBattle.h" />
