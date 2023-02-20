@@ -1,0 +1,1592 @@
+﻿Log file open, 02/20/23 20:40:41
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: ArenaBattle
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 20 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.576178
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Ryzen 5 3500X 6-Core Processor             , GPU: NVIDIA GeForce GTX 1660 SUPER
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2023.02.20-11.40.42:238][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2023.02.20-11.40.42:238][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2023.02.20-11.40.42:238][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/git/ArenaBattle/ArenaBattle/Saved/Config/Windows/Engine.ini]
+[2023.02.20-11.40.42:238][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2023.02.20-11.40.42:238][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/git/ArenaBattle/ArenaBattle/Saved/Config/Windows/Engine.ini]
+[2023.02.20-11.40.42:238][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/git/ArenaBattle/ArenaBattle/Saved/Config/Windows/Engine.ini]
+[2023.02.20-11.40.42:238][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2023.02.20-11.40.42:238][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2023.02.20-11.40.42:238][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2023.02.20-11.40.42:238][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2023.02.20-11.40.42:238][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2023.02.20-11.40.42:238][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2023.02.20-11.40.42:238][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2023.02.20-11.40.42:238][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2023.02.20-11.40.42:238][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2023.02.20-11.40.42:238][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2023.02.20-11.40.42:238][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2023.02.20-11.40.42:238][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2023.02.20-11.40.42:238][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2023.02.20-11.40.42:238][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/git/ArenaBattle/ArenaBattle/Saved/Config/Windows/Engine.ini]
+[2023.02.20-11.40.42:238][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2023.02.20-11.40.42:238][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2023.02.20-11.40.42:238][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2023.02.20-11.40.42:238][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2023.02.20-11.40.42:238][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2023.02.20-11.40.42:238][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2023.02.20-11.40.42:238][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2023.02.20-11.40.42:238][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2023.02.20-11.40.42:238][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2023.02.20-11.40.42:238][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2023.02.20-11.40.42:238][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2023.02.20-11.40.42:238][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2023.02.20-11.40.42:238][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2023.02.20-11.40.42:238][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/git/ArenaBattle/ArenaBattle/Saved/Config/Windows/Engine.ini]
+[2023.02.20-11.40.42:238][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/git/ArenaBattle/ArenaBattle/Saved/Config/Windows/Engine.ini]
+[2023.02.20-11.40.42:245][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/git/ArenaBattle/ArenaBattle/Saved/Config/Windows/Scalability.ini]
+[2023.02.20-11.40.42:245][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.02.20-11.40.42:245][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.02.20-11.40.42:245][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/git/ArenaBattle/ArenaBattle/Saved/Config/Windows/Scalability.ini]
+[2023.02.20-11.40.42:245][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.02.20-11.40.42:245][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/git/ArenaBattle/ArenaBattle/Saved/Config/Windows/Scalability.ini]
+[2023.02.20-11.40.42:245][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.02.20-11.40.42:245][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.02.20-11.40.42:245][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.02.20-11.40.42:245][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.02.20-11.40.42:245][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.02.20-11.40.42:245][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.02.20-11.40.42:245][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.02.20-11.40.42:245][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.02.20-11.40.42:245][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.02.20-11.40.42:245][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.02.20-11.40.42:245][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.02.20-11.40.42:245][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.02.20-11.40.42:245][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.02.20-11.40.42:245][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.02.20-11.40.42:245][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.02.20-11.40.42:245][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.02.20-11.40.42:245][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.02.20-11.40.42:245][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.02.20-11.40.42:245][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/git/ArenaBattle/ArenaBattle/Saved/Config/Windows/Scalability.ini]
+[2023.02.20-11.40.42:245][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.02.20-11.40.42:245][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.02.20-11.40.42:245][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.02.20-11.40.42:245][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.02.20-11.40.42:245][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.02.20-11.40.42:245][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.02.20-11.40.42:245][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.02.20-11.40.42:245][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.02.20-11.40.42:245][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.02.20-11.40.42:245][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.02.20-11.40.42:245][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.02.20-11.40.42:245][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.02.20-11.40.42:245][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.02.20-11.40.42:245][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.02.20-11.40.42:245][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.02.20-11.40.42:245][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.02.20-11.40.42:245][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.02.20-11.40.42:245][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.02.20-11.40.42:245][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.02.20-11.40.42:245][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.02.20-11.40.42:245][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.02.20-11.40.42:245][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.02.20-11.40.42:245][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.02.20-11.40.42:245][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.02.20-11.40.42:245][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.02.20-11.40.42:245][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.02.20-11.40.42:245][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.02.20-11.40.42:245][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.02.20-11.40.42:245][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.02.20-11.40.42:245][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.02.20-11.40.42:245][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/git/ArenaBattle/ArenaBattle/Saved/Config/Windows/Scalability.ini]
+[2023.02.20-11.40.42:245][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.02.20-11.40.42:245][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.02.20-11.40.42:245][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.02.20-11.40.42:245][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.02.20-11.40.42:245][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.02.20-11.40.42:245][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.02.20-11.40.42:245][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.02.20-11.40.42:245][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.02.20-11.40.42:245][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/git/ArenaBattle/ArenaBattle/Saved/Config/Windows/Scalability.ini]
+[2023.02.20-11.40.42:245][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.02.20-11.40.42:245][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.02.20-11.40.42:245][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.02.20-11.40.42:245][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.02.20-11.40.42:245][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.02.20-11.40.42:245][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.02.20-11.40.42:245][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.02.20-11.40.42:245][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.02.20-11.40.42:245][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.02.20-11.40.42:245][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.02.20-11.40.42:245][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2023.02.20-11.40.42:245][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.02.20-11.40.42:245][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.02.20-11.40.42:245][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/git/ArenaBattle/ArenaBattle/Saved/Config/Windows/Scalability.ini]
+[2023.02.20-11.40.42:245][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.02.20-11.40.42:245][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.02.20-11.40.42:246][  0]LogInit: Selected Device Profile: [Windows]
+[2023.02.20-11.40.42:246][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2023.02.20-11.40.42:253][  0]LogHAL: Display: Platform has ~ 16 GB [17126916096 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.02.20-11.40.42:254][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2023.02.20-11.40.42:254][  0]LogInit: Going up to parent DeviceProfile []
+[2023.02.20-11.40.42:255][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/git/ArenaBattle/ArenaBattle/Saved/Config/Windows/Scalability.ini]
+[2023.02.20-11.40.42:255][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.02.20-11.40.42:255][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.02.20-11.40.42:255][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/git/ArenaBattle/ArenaBattle/Saved/Config/Windows/Scalability.ini]
+[2023.02.20-11.40.42:255][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.02.20-11.40.42:255][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/git/ArenaBattle/ArenaBattle/Saved/Config/Windows/Scalability.ini]
+[2023.02.20-11.40.42:255][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.02.20-11.40.42:255][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.02.20-11.40.42:255][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.02.20-11.40.42:255][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.02.20-11.40.42:255][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.02.20-11.40.42:255][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.02.20-11.40.42:255][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.02.20-11.40.42:255][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.02.20-11.40.42:255][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.02.20-11.40.42:255][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.02.20-11.40.42:255][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.02.20-11.40.42:255][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.02.20-11.40.42:255][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.02.20-11.40.42:255][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.02.20-11.40.42:255][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.02.20-11.40.42:255][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.02.20-11.40.42:255][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.02.20-11.40.42:255][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.02.20-11.40.42:255][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/git/ArenaBattle/ArenaBattle/Saved/Config/Windows/Scalability.ini]
+[2023.02.20-11.40.42:255][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.02.20-11.40.42:255][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.02.20-11.40.42:255][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.02.20-11.40.42:255][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.02.20-11.40.42:255][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.02.20-11.40.42:255][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.02.20-11.40.42:255][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.02.20-11.40.42:255][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.02.20-11.40.42:255][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.02.20-11.40.42:255][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.02.20-11.40.42:255][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.02.20-11.40.42:255][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.02.20-11.40.42:255][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.02.20-11.40.42:255][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.02.20-11.40.42:255][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.02.20-11.40.42:255][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.02.20-11.40.42:255][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.02.20-11.40.42:255][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.02.20-11.40.42:255][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.02.20-11.40.42:255][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.02.20-11.40.42:255][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.02.20-11.40.42:255][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.02.20-11.40.42:255][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.02.20-11.40.42:255][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.02.20-11.40.42:255][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.02.20-11.40.42:255][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.02.20-11.40.42:255][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.02.20-11.40.42:255][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.02.20-11.40.42:255][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.02.20-11.40.42:255][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.02.20-11.40.42:255][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/git/ArenaBattle/ArenaBattle/Saved/Config/Windows/Scalability.ini]
+[2023.02.20-11.40.42:255][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.02.20-11.40.42:255][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.02.20-11.40.42:255][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.02.20-11.40.42:255][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.02.20-11.40.42:255][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.02.20-11.40.42:255][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.02.20-11.40.42:255][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.02.20-11.40.42:255][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.02.20-11.40.42:255][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/git/ArenaBattle/ArenaBattle/Saved/Config/Windows/Scalability.ini]
+[2023.02.20-11.40.42:255][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.02.20-11.40.42:255][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.02.20-11.40.42:255][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.02.20-11.40.42:255][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.02.20-11.40.42:255][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.02.20-11.40.42:255][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.02.20-11.40.42:255][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.02.20-11.40.42:255][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.02.20-11.40.42:255][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.02.20-11.40.42:255][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.02.20-11.40.42:255][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2023.02.20-11.40.42:255][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.02.20-11.40.42:255][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.02.20-11.40.42:255][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/git/ArenaBattle/ArenaBattle/Saved/Config/Windows/Scalability.ini]
+[2023.02.20-11.40.42:255][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.02.20-11.40.42:255][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.02.20-11.40.42:255][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.02.20-11.40.42:256][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2023.02.20-11.40.42:256][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2023.02.20-11.40.42:256][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/git/ArenaBattle/ArenaBattle/Saved/Config/Windows/Engine.ini]
+[2023.02.20-11.40.42:257][  0]LogInit: Computer: DESKTOP-MTCB6DM
+[2023.02.20-11.40.42:257][  0]LogInit: User: seo
+[2023.02.20-11.40.42:257][  0]LogInit: CPU Page size=4096, Cores=6
+[2023.02.20-11.40.42:257][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.02.20-11.40.42:257][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2023.02.20-11.40.42:257][  0]LogMemory: Platform Memory Stats for Windows
+[2023.02.20-11.40.42:257][  0]LogMemory: Process Physical Memory: 97.32 MB used, 97.32 MB peak
+[2023.02.20-11.40.42:257][  0]LogMemory: Process Virtual Memory: 90.63 MB used, 90.63 MB peak
+[2023.02.20-11.40.42:257][  0]LogMemory: Physical Memory: 6066.12 MB used,  10267.38 MB free, 16333.50 MB total
+[2023.02.20-11.40.42:257][  0]LogMemory: Virtual Memory: 4640.64 MB used,  134213088.00 MB free, 134217728.00 MB total
+[2023.02.20-11.40.42:493][  0]LogInit: Using OS detected language (ko-KR).
+[2023.02.20-11.40.42:493][  0]LogInit: Using OS detected locale (ko-KR).
+[2023.02.20-11.40.42:496][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
+[2023.02.20-11.40.42:633][  0]LogInit: Setting process to per monitor DPI aware
+[2023.02.20-11.40.42:726][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.02.20-11.40.42:726][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.02.20-11.40.44:511][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2023.02.20-11.40.44:512][  0]LogD3D11RHI: D3D11 adapters:
+[2023.02.20-11.40.44:661][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1660 SUPER' (Feature Level 11_0)
+[2023.02.20-11.40.44:661][  0]LogD3D11RHI:       5991/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2023.02.20-11.40.44:663][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2023.02.20-11.40.44:663][  0]LogD3D11RHI:       0/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2023.02.20-11.40.44:663][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2023.02.20-11.40.44:670][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2023.02.20-11.40.44:670][  0]LogD3D11RHI:     GPU DeviceId: 0x21c4 (for the marketing name, search the web for "GPU Device Id")
+[2023.02.20-11.40.44:670][  0]LogWindows: EnumDisplayDevices:
+[2023.02.20-11.40.44:671][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1660 SUPER' (P:1 D:1)
+[2023.02.20-11.40.44:671][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1660 SUPER' (P:0 D:1)
+[2023.02.20-11.40.44:672][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1660 SUPER' (P:0 D:0)
+[2023.02.20-11.40.44:673][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1660 SUPER' (P:0 D:0)
+[2023.02.20-11.40.44:673][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2023.02.20-11.40.44:673][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1660 SUPER
+[2023.02.20-11.40.44:673][  0]LogD3D11RHI:   Driver Version: 516.94 (internal:31.0.15.1694, unified:516.94)
+[2023.02.20-11.40.44:673][  0]LogD3D11RHI:      Driver Date: 7-21-2022
+[2023.02.20-11.40.44:673][  0]LogRHI: Texture pool is 4193 MB (70% of 5991 MB)
+[2023.02.20-11.40.44:734][  0]LogD3D11RHI: Async texture creation enabled
+[2023.02.20-11.40.44:751][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2023.02.20-11.40.44:751][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2023.02.20-11.40.44:751][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2023.02.20-11.40.44:760][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2023.02.20-11.40.45:380][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2023.02.20-11.40.45:394][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2023.02.20-11.40.45:408][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2023.02.20-11.40.45:422][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2023.02.20-11.40.45:436][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2023.02.20-11.40.45:451][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2023.02.20-11.40.45:465][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2023.02.20-11.40.45:479][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2023.02.20-11.40.45:486][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2023.02.20-11.40.45:563][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2023.02.20-11.40.45:563][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2023.02.20-11.40.45:563][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2023.02.20-11.40.45:563][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2023.02.20-11.40.45:563][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2023.02.20-11.40.45:563][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2023.02.20-11.40.45:563][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2023.02.20-11.40.45:563][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2023.02.20-11.40.45:563][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2023.02.20-11.40.45:563][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2023.02.20-11.40.45:563][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2023.02.20-11.40.45:563][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2023.02.20-11.40.45:563][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2023.02.20-11.40.45:563][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2023.02.20-11.40.45:563][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2023.02.20-11.40.45:563][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2023.02.20-11.40.45:563][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2023.02.20-11.40.45:563][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2023.02.20-11.40.45:566][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2023.02.20-11.40.45:619][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2023.02.20-11.40.45:619][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2023.02.20-11.40.45:643][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2023.02.20-11.40.45:643][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2023.02.20-11.40.45:656][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2023.02.20-11.40.45:670][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2023.02.20-11.40.45:682][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2023.02.20-11.40.45:697][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2023.02.20-11.40.45:743][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2023.02.20-11.40.45:744][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2023.02.20-11.40.45:744][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2023.02.20-11.40.45:787][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.02.20-11.40.45:887][  0]LogShaderCompilers: Guid format shader working directory is 14 characters bigger than the processId version (D:/git/ArenaBattle/ArenaBattle/Intermediate/Shaders/WorkingDirectory/1872/).
+[2023.02.20-11.40.45:887][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/seo/AppData/Local/Temp/UnrealShaderWorkingDir/425440E04940471C5B6DEA822C67BD31/'.
+[2023.02.20-11.40.45:890][  0]LogXGEController: Cleaning working directory: C:/Users/seo/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2023.02.20-11.40.45:890][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.02.20-11.40.45:890][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2023.02.20-11.40.45:890][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2023.02.20-11.40.47:550][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2023.02.20-11.40.47:620][  0]LogDerivedDataCache: Loaded boot cache 0.07s 82MB C:/Users/seo/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2023.02.20-11.40.47:620][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/seo/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2023.02.20-11.40.47:621][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/git/ArenaBattle/ArenaBattle/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.02.20-11.40.47:621][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2023.02.20-11.40.47:621][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/git/ArenaBattle/ArenaBattle/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.02.20-11.40.47:621][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2023.02.20-11.40.47:641][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2023.02.20-11.40.47:641][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.02.20-11.40.47:641][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2023.02.20-11.40.47:654][  0]LogDerivedDataCache: Using Local data cache path C:/Users/seo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.02.20-11.40.47:654][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.02.20-11.40.47:654][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2023.02.20-11.40.47:673][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2023.02.20-11.40.47:677][  0]LogSlate: Using FreeType 2.6.0
+[2023.02.20-11.40.47:686][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.02.20-11.40.47:829][  0]LogAssetRegistry: FAssetRegistry took 0.0356 seconds to start up
+[2023.02.20-11.40.48:186][  0]LogInit: Selected Device Profile: [Windows]
+[2023.02.20-11.40.48:415][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.02.20-11.40.48:415][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.02.20-11.40.48:415][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.02.20-11.40.48:415][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.02.20-11.40.48:415][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.02.20-11.40.48:453][  0]LogNetVersion: ArenaBattle 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 815535894)
+[2023.02.20-11.40.49:249][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.031699 seconds
+[2023.02.20-11.40.49:255][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2023.02.20-11.40.49:256][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2023.02.20-11.40.49:256][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.02.20-11.40.50:856][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.02.20-11.40.50:878][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.02.20-11.40.52:239][  0]SourceControl: 소스 컨트롤이 꺼져 있습니다.
+[2023.02.20-11.40.52:239][  0]SourceControl: 소스 컨트롤이 꺼져 있습니다.
+[2023.02.20-11.40.52:246][  0]SourceControl: 소스 컨트롤이 꺼져 있습니다.
+[2023.02.20-11.40.52:250][  0]SourceControl: 소스 컨트롤이 꺼져 있습니다.
+[2023.02.20-11.40.52:428][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.02.20-11.40.52:600][  0]LogOcInput: OculusInput pre-init called
+[2023.02.20-11.40.53:318][  0]LogEngine: Initializing Engine...
+[2023.02.20-11.40.53:319][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2023.02.20-11.40.53:321][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2023.02.20-11.40.53:471][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.02.20-11.40.53:496][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.02.20-11.40.53:549][  0]LogInit: XAudio2 using '스피커(USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2023.02.20-11.40.53:594][  0]LogInit: FAudioDevice initialized.
+[2023.02.20-11.40.53:594][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.02.20-11.40.53:639][  0]LogDerivedDataCache: Saved boot cache 0.05s 82MB C:/Users/seo/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2023.02.20-11.40.53:642][  0]LogInit: Texture streaming: Enabled
+[2023.02.20-11.40.53:662][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.02.20-11.40.53:686][  0]LogInit: Transaction tracking system initialized
+[2023.02.20-11.40.53:723][  0]BlueprintLog: New page: 에디터 로드
+[2023.02.20-11.40.53:858][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2023.02.20-11.40.54:190][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2023.02.20-11.40.54:190][  0]LogFileCache: Scanning file cache for directory 'D:/git/ArenaBattle/ArenaBattle/Content/' took 0.03s
+[2023.02.20-11.40.54:190][  0]LogCook: Display: Mobile HDR setting 1
+[2023.02.20-11.40.54:471][  0]SourceControl: 소스 컨트롤이 꺼져 있습니다.
+[2023.02.20-11.40.54:471][  0]Cmd: MAP LOAD FILE="D:/git/ArenaBattle/ArenaBattle/Content/Book/Maps/GamePlay.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.02.20-11.40.54:472][  0]LightingResults: New page: 라이팅 빌드
+[2023.02.20-11.40.54:477][  0]MapCheck: New page: 맵 체크
+[2023.02.20-11.40.54:477][  0]LightingResults: New page: 라이팅 빌드
+[2023.02.20-11.40.54:503][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2023.02.20-11.40.54:626][  0]LogAIModule: Creating AISystem for world GamePlay
+[2023.02.20-11.40.54:639][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.02.20-11.40.54:665][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2023.02.20-11.40.54:665][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.02.20-11.40.54:665][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.098ms.
+[2023.02.20-11.40.54:665][  0]LogFileHelpers: Loading map 'GamePlay' took 0.193
+[2023.02.20-11.40.54:930][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.20-11.40.54:936][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.20-11.40.54:942][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.20-11.40.54:947][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.20-11.40.54:961][  0]LogCollectionManager: Loaded 0 collections in 0.000854 seconds
+[2023.02.20-11.40.54:996][  0]LogFileCache: Scanning file cache for directory 'D:/git/ArenaBattle/ArenaBattle/Saved/Collections/' took 0.01s
+[2023.02.20-11.40.54:996][  0]LogFileCache: Scanning file cache for directory 'D:/git/ArenaBattle/ArenaBattle/Content/Developers/seo/Collections/' took 0.01s
+[2023.02.20-11.40.54:996][  0]LogFileCache: Scanning file cache for directory 'D:/git/ArenaBattle/ArenaBattle/Content/Collections/' took 0.00s
+[2023.02.20-11.40.54:996][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2023.02.20-11.40.55:006][  0]LogContentBrowser: Native class hierarchy populated in 0.0092 seconds. Added 2753 classes and 664 folders.
+[2023.02.20-11.40.55:014][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2023.02.20-11.40.55:018][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2023.02.20-11.40.55:025][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2023.02.20-11.40.55:040][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2023.02.20-11.40.55:044][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2023.02.20-11.40.55:048][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2023.02.20-11.40.55:052][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2023.02.20-11.40.55:056][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2023.02.20-11.40.55:060][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2023.02.20-11.40.55:064][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2023.02.20-11.40.55:068][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2023.02.20-11.40.55:072][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2023.02.20-11.40.55:076][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2023.02.20-11.40.55:081][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2023.02.20-11.40.55:085][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2023.02.20-11.40.55:088][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2023.02.20-11.40.55:092][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2023.02.20-11.40.55:115][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2023.02.20-11.40.55:120][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2023.02.20-11.40.55:124][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2023.02.20-11.40.55:128][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2023.02.20-11.40.55:132][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2023.02.20-11.40.55:136][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2023.02.20-11.40.55:140][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2023.02.20-11.40.55:144][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2023.02.20-11.40.55:148][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2023.02.20-11.40.55:152][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2023.02.20-11.40.55:260][  0]LogPackageName: Warning: Asset path "S_ClothTarps_03.SM.Mesh.S_ClothTarps_03" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2023.02.20-11.40.55:260][  0]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2023.02.20-11.40.55:260][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2023.02.20-11.40.55:270][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2023.02.20-11.40.55:316][  0]LogPackageName: SearchForPackageOnDisk took   0.091s, but failed to resolve S_ClothTarps_03.
+[2023.02.20-11.40.55:316][  0]LogPackageName: Warning: Asset path "S_ClothTarps_03.SM.Mesh.S_ClothTarps_03" could not be resolved.
+[2023.02.20-11.40.55:316][  0]LogSlate: Took 0.004447 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.02.20-11.40.55:328][  0]LogSlate: Took 0.010498 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2023.02.20-11.40.55:336][  0]LogSlate: Took 0.007441 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicBold.ttf' (4188K)
+[2023.02.20-11.40.55:339][  0]LogSlate: Took 0.003220 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.02.20-11.40.55:346][  0]LogSlate: Took 0.003307 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.02.20-11.40.55:471][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2023.02.20-11.40.55:559][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2023.02.20-11.40.55:580][  0]LogSlate: Window '튜토리얼' being destroyed
+[2023.02.20-11.40.55:618][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2023.02.20-11.40.55:618][  0]LogLoad: (Engine Initialization) Total time: 17.46 seconds
+[2023.02.20-11.40.55:618][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.02.20-11.40.55:687][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.02.20-11.40.55:704][  0]LogSlate: Took 0.004012 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.02.20-11.41.11:515][888]LogAssetRegistry: Asset discovery search completed in 23.7088 seconds
+[2023.02.20-11.41.11:517][888]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2023.02.20-11.41.11:517][888]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000056 seconds (updated 0 objects)
+[2023.02.20-11.48.29:693][902]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2023.02.20-11.49.07:950][312]LogSlate: Window '새 레벨' being destroyed
+[2023.02.20-11.49.07:958][312]LightingResults: New page: 라이팅 빌드
+[2023.02.20-11.49.07:959][312]MapCheck: New page: 맵 체크
+[2023.02.20-11.49.07:959][312]LightingResults: New page: 라이팅 빌드
+[2023.02.20-11.49.07:982][312]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2023.02.20-11.49.07:983][312]LogAIModule: Creating AISystem for world Untitled
+[2023.02.20-11.49.07:987][312]LoadErrors: New page: 새 맵
+[2023.02.20-11.49.37:808][599]LogSlate: Window '레벨 다른 이름으로 저장' being destroyed
+[2023.02.20-11.49.37:832][599]LogSlate: Took 0.003699 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.02.20-11.49.37:850][599]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Book/Maps/Title" FILE="D:/git/ArenaBattle/ArenaBattle/Content/Book/Maps/Title.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.02.20-11.49.37:872][599]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2023.02.20-11.49.37:877][599]LogSavePackage: Moving 'D:/git/ArenaBattle/ArenaBattle/Saved/Title1C913B264D014C62D0429DB7D3DC75C5.tmp' to 'D:/git/ArenaBattle/ArenaBattle/Content/Book/Maps/Title.umap'
+[2023.02.20-11.49.37:920][599]LogFileHelpers: Saving map 'Title' took 0.097
+[2023.02.20-11.49.52:126][266]LogSlate: Took 0.005137 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.02.20-11.50.16:016][ 94]Running C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -projectfiles -project="D:/git/ArenaBattle/ArenaBattle/ArenaBattle.uproject" -game -rocket -progress
+[2023.02.20-11.50.16:420][ 94]Discovering modules, targets and source code for project...
+[2023.02.20-11.50.19:633][ 94]Binding IntelliSense data...
+[2023.02.20-11.50.21:242][ 94]Binding IntelliSense data... 100%
+[2023.02.20-11.50.21:242][ 94]Writing project files...
+[2023.02.20-11.50.23:656][ 94]Writing project files... 100%
+[2023.02.20-11.50.23:766][ 94]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2023.02.20-11.50.23:770][ 94]Candidate modules for hot reload:
+[2023.02.20-11.50.23:770][ 94]  ArenaBattle
+[2023.02.20-11.50.23:770][ 94]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=ArenaBattle,5848 Win64 Development -TargetType=Editor -Project="D:/git/ArenaBattle/ArenaBattle/ArenaBattle.uproject" "D:/git/ArenaBattle/ArenaBattle/ArenaBattle.uproject"  -IgnoreJunk]
+[2023.02.20-11.51.31:309][ 94]CompilerResultsLog: New page: 컴파일 - 2023. 2. 21. 오전 5:51:31
+[2023.02.20-11.51.31:309][ 94]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\git\ArenaBattle).
+[2023.02.20-11.51.31:309][ 94]CompilerResultsLog: Creating makefile for ArenaBattleEditor (no existing makefile)
+[2023.02.20-11.51.31:309][ 94]CompilerResultsLog: Parsing headers for ArenaBattleEditor
+[2023.02.20-11.51.31:309][ 94]CompilerResultsLog:   Running UnrealHeaderTool "D:\git\ArenaBattle\ArenaBattle\ArenaBattle.uproject" "D:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\ArenaBattleEditor\Development\ArenaBattleEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2023.02.20-11.51.31:309][ 94]CompilerResultsLog: Reflection code generated for ArenaBattleEditor in 14.8006338 seconds
+[2023.02.20-11.51.31:309][ 94]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2023.02.20-11.51.31:309][ 94]CompilerResultsLog: Building 57 actions with 6 processes...
+[2023.02.20-11.51.31:309][ 94]CompilerResultsLog:   [1/57] SharedPCH.Engine.cpp
+[2023.02.20-11.51.31:309][ 94]CompilerResultsLog:   [2/57] ABCharacterSetting.gen.cpp
+[2023.02.20-11.51.31:309][ 94]CompilerResultsLog:   [3/57] ArenaBattleSetting.cpp
+[2023.02.20-11.51.31:309][ 94]CompilerResultsLog:   [4/57] ABCharacterSetting.cpp
+[2023.02.20-11.51.31:309][ 94]CompilerResultsLog:   [5/57] ABGameMode.cpp
+[2023.02.20-11.51.31:309][ 94]CompilerResultsLog:   [6/57] ABGameInstance.cpp
+[2023.02.20-11.51.31:309][ 94]CompilerResultsLog:   [7/57] ABGameState.cpp
+[2023.02.20-11.51.31:309][ 94]CompilerResultsLog:   [8/57] ABItemBox.cpp
+[2023.02.20-11.51.31:309][ 94]CompilerResultsLog:   [9/57] ABCharacterWidget.cpp
+[2023.02.20-11.51.31:309][ 94]CompilerResultsLog:   [10/57] ABCharacter.gen.cpp
+[2023.02.20-11.51.31:309][ 94]CompilerResultsLog:   [11/57] ABHUDWidget.cpp
+[2023.02.20-11.51.31:309][ 94]CompilerResultsLog:   [12/57] ABPawn.cpp
+[2023.02.20-11.51.31:309][ 94]CompilerResultsLog:   [13/57] ABUIPlayerController.cpp
+[2023.02.20-11.51.31:309][ 94]CompilerResultsLog:   [14/57] ABSaveGame.cpp
+[2023.02.20-11.51.31:309][ 94]CompilerResultsLog:   [15/57] ArenaBattle.cpp
+[2023.02.20-11.51.31:309][ 94]CompilerResultsLog:   [16/57] ABPlayerController.cpp
+[2023.02.20-11.51.31:309][ 94]CompilerResultsLog:   [17/57] ABWeapon.cpp
+[2023.02.20-11.51.31:309][ 94]CompilerResultsLog:   [18/57] ABCharacterStatComponent.cpp
+[2023.02.20-11.51.31:309][ 94]CompilerResultsLog:   [19/57] BTDecorator_IsInAttackRange.cpp
+[2023.02.20-11.51.31:310][ 94]CompilerResultsLog:   [20/57] BTService_Detect.cpp
+[2023.02.20-11.51.31:310][ 94]CompilerResultsLog:   [21/57] ABPlayerState.cpp
+[2023.02.20-11.51.31:310][ 94]CompilerResultsLog:   [22/57] BTTask_Attack.cpp
+[2023.02.20-11.51.31:310][ 94]CompilerResultsLog:   [23/57] BTTask_FindPatrolPos.cpp
+[2023.02.20-11.51.31:310][ 94]CompilerResultsLog:   [24/57] BTTask_TurnToTarget.cpp
+[2023.02.20-11.51.31:310][ 94]CompilerResultsLog:   [25/57] ABAIController.gen.cpp
+[2023.02.20-11.51.31:310][ 94]CompilerResultsLog:   [26/57] ABSection.cpp
+[2023.02.20-11.51.31:310][ 94]CompilerResultsLog:   [27/57] ABAnimInstance.cpp
+[2023.02.20-11.51.31:310][ 94]CompilerResultsLog:   [28/57] ABGameMode.gen.cpp
+[2023.02.20-11.51.31:310][ 94]CompilerResultsLog:   [29/57] ABGameState.gen.cpp
+[2023.02.20-11.51.31:310][ 94]CompilerResultsLog:   [30/57] ABAIController.cpp
+[2023.02.20-11.51.31:310][ 94]CompilerResultsLog:   [31/57] ABCharacter.cpp
+[2023.02.20-11.51.31:310][ 94]CompilerResultsLog:   D:\git\ArenaBattle\ArenaBattle\Source\ArenaBattle\Private\ABCharacter.cpp(348): warning C4458: 'ABPlayerController' ?????? Ŭ???? ?????? ?????ϴ?.
+[2023.02.20-11.51.31:310][ 94]CompilerResultsLog:   D:\git\ArenaBattle\ArenaBattle\Source\ArenaBattle\Public\ABCharacter.h(132): note: 'AABCharacter::ABPlayerController' ?????? ?????Ͻʽÿ?.
+[2023.02.20-11.51.31:310][ 94]CompilerResultsLog:   [32/57] ABItemBox.gen.cpp
+[2023.02.20-11.51.31:310][ 94]CompilerResultsLog:   [33/57] ABPawn.gen.cpp
+[2023.02.20-11.51.31:310][ 94]CompilerResultsLog:   [34/57] ABHUDWidget.gen.cpp
+[2023.02.20-11.51.31:310][ 94]CompilerResultsLog:   [35/57] ABPlayerController.gen.cpp
+[2023.02.20-11.51.31:310][ 94]CompilerResultsLog:   [36/57] ABPlayerState.gen.cpp
+[2023.02.20-11.51.31:310][ 94]CompilerResultsLog:   [37/57] ArenaBattle.init.gen.cpp
+[2023.02.20-11.51.31:310][ 94]CompilerResultsLog:   [38/57] ABSaveGame.gen.cpp
+[2023.02.20-11.51.31:310][ 94]CompilerResultsLog:   [39/57] ABSection.gen.cpp
+[2023.02.20-11.51.31:310][ 94]CompilerResultsLog:   [40/57] ABWeapon.gen.cpp
+[2023.02.20-11.51.31:310][ 94]CompilerResultsLog:   [41/57] BTTask_FindPatrolPos.gen.cpp
+[2023.02.20-11.51.31:310][ 94]CompilerResultsLog:   [42/57] ArenaBattle.gen.cpp
+[2023.02.20-11.51.31:310][ 94]CompilerResultsLog:   [43/57] ABUIPlayerController.gen.cpp
+[2023.02.20-11.51.31:310][ 94]CompilerResultsLog:   [44/57] BTDecorator_IsInAttackRange.gen.cpp
+[2023.02.20-11.51.31:310][ 94]CompilerResultsLog:   [45/57] BTService_Detect.gen.cpp
+[2023.02.20-11.51.31:310][ 94]CompilerResultsLog:   [46/57] BTTask_Attack.gen.cpp
+[2023.02.20-11.51.31:310][ 94]CompilerResultsLog:   [47/57] ArenaBattleSetting.init.gen.cpp
+[2023.02.20-11.51.31:310][ 94]CompilerResultsLog:   [48/57] BTTask_TurnToTarget.gen.cpp
+[2023.02.20-11.51.31:310][ 94]CompilerResultsLog:   [49/57] UE4Editor-ArenaBattleSetting-0001.lib
+[2023.02.20-11.51.31:310][ 94]CompilerResultsLog:      D:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattleSetting\UE4Editor-ArenaBattleSetting-0001.lib ???̺귯?? ?? D:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattleSetting\UE4Editor-ArenaBattleSetting-0001.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2023.02.20-11.51.31:310][ 94]CompilerResultsLog:   [50/57] ABCharacterStatComponent.gen.cpp
+[2023.02.20-11.51.31:310][ 94]CompilerResultsLog:   [51/57] UE4Editor-ArenaBattleSetting-0001.dll
+[2023.02.20-11.51.31:310][ 94]CompilerResultsLog:      D:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattleSetting\UE4Editor-ArenaBattleSetting-0001.suppressed.lib ???̺귯?? ?? D:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattleSetting\UE4Editor-ArenaBattleSetting-0001.suppressed.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2023.02.20-11.51.31:310][ 94]CompilerResultsLog:   [52/57] ABGameInstance.gen.cpp
+[2023.02.20-11.51.31:310][ 94]CompilerResultsLog:   [53/57] ABAnimInstance.gen.cpp
+[2023.02.20-11.51.31:310][ 94]CompilerResultsLog:   [54/57] ABCharacterWidget.gen.cpp
+[2023.02.20-11.51.31:310][ 94]CompilerResultsLog:   [55/57] UE4Editor-ArenaBattle-5848.lib
+[2023.02.20-11.51.31:310][ 94]CompilerResultsLog:      D:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\UE4Editor-ArenaBattle-5848.lib ???̺귯?? ?? D:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\UE4Editor-ArenaBattle-5848.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2023.02.20-11.51.31:310][ 94]CompilerResultsLog:   [56/57] UE4Editor-ArenaBattle-5848.dll
+[2023.02.20-11.51.31:310][ 94]CompilerResultsLog: Error:   LINK : fatal error LNK1181: 'D:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattleSetting\UE4Editor-ArenaBattleSetting.lib' ?Է? ?????? ?? ?? ?????ϴ?.
+[2023.02.20-11.51.31:310][ 94]LogMainFrame: MainFrame: Module compiling took 67.544 seconds
+[2023.02.20-11.51.31:310][ 94]Warning: HotReload failed, recompile failed
+[2023.02.20-11.51.31:315][ 94]Warning: RebindPackages failed because compilation failed.
+[2023.02.20-11.51.42:404][ 94]LogSlate: Window '메시지' being destroyed
+[2023.02.20-11.51.42:431][ 94]LogSlate: Window 'C++ 클래스 추가' being destroyed
+[2023.02.20-11.51.42:439][ 94]LogHotReload: New module detected: UE4Editor-ArenaBattle-5848.dll
+[2023.02.20-11.51.42:450][ 94]LogSlate: Took 0.005868 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.02.20-11.51.42:488][ 94]LogSlate: Took 0.007986 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicExtraBold.ttf' (4074K)
+[2023.02.20-11.51.42:507][ 94]LogSlate: Took 0.007122 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2023.02.20-11.51.42:507][ 94]LogSlate: Warning: Legacy localized fallback font '../../../Engine/Content/Slate/Fonts/../../Editor/Slate/Fonts/NanumGothic.ttf' was requested. Font: '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf', Character: 'ϴ (U+03f4)'
+Legacy localized fallback fonts were deprecated in 4.22 and will be removed in a future version!
+Please update your composite fonts to use localized sub-font families: https://docs.unrealengine.com/en-US/Engine/UMG/UserGuide/Fonts/Overview
+[2023.02.20-11.51.42:512][ 94]LogSlate: Took 0.004507 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/../../Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2023.02.20-11.51.42:512][ 94]LogSlate: Last resort fallback font was requested. Font: '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf', Character: 'ϴ (U+03f4)'
+[2023.02.20-11.51.42:520][ 94]LogSlate: Took 0.006428 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2023.02.20-11.51.44:438][273]LogSlate: Window '출력 로그' being destroyed
+[2023.02.20-11.51.44:446][273]LogSlate: Window '출력 로그' being destroyed
+[2023.02.20-11.51.55:881][470]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (13.333 sec). This should never happen. Something is wrong with the timer delegate!
+[2023.02.20-11.52.55:282][648]LogHotReload: New module detected: UE4Editor-ArenaBattle-0003.dll
+[2023.02.20-11.52.59:632][662]LogHotReload: Starting Hot-Reload from IDE
+[2023.02.20-11.52.59:663][662]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2023.02.20-11.52.59:707][662]LogClass: Could not find existing class ABPlayerState in package /Script/ArenaBattle for HotReload, assuming new class
+[2023.02.20-11.52.59:707][662]LogClass: Could not find existing class ABSaveGame in package /Script/ArenaBattle for HotReload, assuming new class
+[2023.02.20-11.52.59:708][662]LogClass: Could not find existing class ABUIPlayerController in package /Script/ArenaBattle for HotReload, assuming new class
+[2023.02.20-11.52.59:708][662]LogClass: Could not find existing class ABWeapon in package /Script/ArenaBattle for HotReload, assuming new class
+[2023.02.20-11.52.59:710][662]LogClass: ECharacterState HotReload.
+[2023.02.20-11.52.59:710][662]LogClass: ABCharacterData HotReload.
+[2023.02.20-11.52.59:715][662]LogHotReload: Re-instancing ABCharacter after hot-reload.
+[2023.02.20-11.52.59:800][662]LogHotReload: Re-instancing ABGameMode after hot-reload.
+[2023.02.20-11.52.59:867][662]LogHotReload: Re-instancing ABItemBox after hot-reload.
+[2023.02.20-11.52.59:945][662]LogHotReload: Re-instancing ABPlayerState after hot-reload.
+[2023.02.20-11.53.00:028][662]LogHotReload: Re-instancing ABWeapon after hot-reload.
+[2023.02.20-11.53.00:106][662]LogContentBrowser: Native class hierarchy updated for 'ArenaBattle' in 0.0004 seconds. Added 22 classes and 2 folders.
+[2023.02.20-11.53.00:109][662]Display: HotReload successful (8 functions remapped  1 scriptstructs remapped)
+[2023.02.20-11.53.00:212][662]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2023.02.20-11.53.00:220][662]LogContentBrowser: Native class hierarchy populated in 0.0080 seconds. Added 2756 classes and 666 folders.
+[2023.02.20-11.53.00:228][662]Display: HotReload took  0.6s.
+[2023.02.20-12.00.19:059][ 14]LogHotReload: New module detected: UE4Editor-ArenaBattle-0004.dll
+[2023.02.20-12.00.21:452][ 22]LogHotReload: Starting Hot-Reload from IDE
+[2023.02.20-12.00.21:485][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2023.02.20-12.00.21:533][ 22]LogClass: Could not find existing class ABUIPlayerController in package /Script/ArenaBattle for HotReload, assuming new class
+[2023.02.20-12.00.21:537][ 22]LogClass: ECharacterState HotReload.
+[2023.02.20-12.00.21:537][ 22]LogClass: ABCharacterData HotReload.
+[2023.02.20-12.00.21:553][ 22]LogHotReload: Re-instancing ABUIPlayerController after hot-reload.
+[2023.02.20-12.00.21:623][ 22]LogContentBrowser: Native class hierarchy updated for 'ArenaBattle' in 0.0005 seconds. Added 22 classes and 2 folders.
+[2023.02.20-12.00.21:627][ 22]Display: HotReload successful (8 functions remapped  1 scriptstructs remapped)
+[2023.02.20-12.00.21:675][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2023.02.20-12.00.21:684][ 22]LogContentBrowser: Native class hierarchy populated in 0.0083 seconds. Added 2756 classes and 666 folders.
+[2023.02.20-12.00.21:690][ 22]Display: HotReload took  0.2s.
+[2023.02.20-12.02.08:982][236]LogSlate: Window '부모 클래스 선택' being destroyed
+[2023.02.20-12.02.33:290][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2023.02.20-12.02.33:290][ 66]LogMetaData: Removing '/Game/Book/BluePrints/BP_TitleUIPlayerController.BP_TitleUIPlayerController:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Book/BluePrints/NewBlueprint.PackageMetaData'
+[2023.02.20-12.02.33:291][ 66]LogMetaData: Removing '/Game/Book/BluePrints/BP_TitleUIPlayerController.SKEL_BP_TitleUIPlayerController_C' ref from Metadata '/Game/Book/BluePrints/NewBlueprint.PackageMetaData'
+[2023.02.20-12.02.33:291][ 66]LogMetaData: Removing '/Game/Book/BluePrints/BP_TitleUIPlayerController.BP_TitleUIPlayerController_C' ref from Metadata '/Game/Book/BluePrints/NewBlueprint.PackageMetaData'
+[2023.02.20-12.02.33:291][ 66]LogMetaData: Removing '/Game/Book/BluePrints/BP_TitleUIPlayerController.BP_TitleUIPlayerController:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Book/BluePrints/NewBlueprint.PackageMetaData'
+[2023.02.20-12.02.33:291][ 66]LogMetaData: Removing '/Game/Book/BluePrints/BP_TitleUIPlayerController.BP_TitleUIPlayerController:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Book/BluePrints/NewBlueprint.PackageMetaData'
+[2023.02.20-12.02.33:310][ 66]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Book/BluePrints/BP_TitleUIPlayerController" FILE="D:/git/ArenaBattle/ArenaBattle/Content/Book/BluePrints/BP_TitleUIPlayerController.uasset" SILENT=true
+[2023.02.20-12.02.33:319][ 66]LogSavePackage: Moving 'D:/git/ArenaBattle/ArenaBattle/Saved/BP_TitleUIPlayerController18F00AA94904C8BD6A9DCC95CFE12939.tmp' to 'D:/git/ArenaBattle/ArenaBattle/Content/Book/BluePrints/BP_TitleUIPlayerController.uasset'
+[2023.02.20-12.02.33:414][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2023.02.20-12.02.33:440][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2023.02.20-12.02.33:462][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2023.02.20-12.02.43:955][319]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Book/BluePrints/BP_TitleUIPlayerController.BP_TitleUIPlayerController
+[2023.02.20-12.02.44:291][319]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 121 classes and 0 folders.
+[2023.02.20-12.02.47:009][537]LogRenderer: Reallocating scene render targets to support 1208x900 Format 10 NumSamples 1 (Frame:208).
+[2023.02.20-12.02.55:634][555]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (46.627 sec). This should never happen. Something is wrong with the timer delegate!
+[2023.02.20-12.02.56:624][668]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2023.02.20-12.02.59:233][972]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2023.02.20-12.03.10:614][313]BlueprintLog: New page: BP_TitleUIPlayerController 컴파일
+[2023.02.20-12.03.10:775][313]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2023.02.20-12.03.11:505][392]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Book/BluePrints/BP_TitleUIPlayerController" FILE="D:/git/ArenaBattle/ArenaBattle/Content/Book/BluePrints/BP_TitleUIPlayerController.uasset" SILENT=true
+[2023.02.20-12.03.11:512][392]LogSavePackage: Moving 'D:/git/ArenaBattle/ArenaBattle/Saved/BP_TitleUIPlayerController879F0C7146237E73EB1D40850CC8DA96.tmp' to 'D:/git/ArenaBattle/ArenaBattle/Content/Book/BluePrints/BP_TitleUIPlayerController.uasset'
+[2023.02.20-12.03.26:495][179]LogSlate: Window 'BP_TitleUIPlayerController' being destroyed
+[2023.02.20-12.03.26:503][179]LogSlate: Window 'BP_TitleUIPlayerController' being destroyed
+[2023.02.20-12.03.37:868][364]LogSlate: Window '부모 클래스 선택' being destroyed
+[2023.02.20-12.03.58:182][788]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Book/BluePrints/BP_TitleGameMode.BP_TitleGameMode
+[2023.02.20-12.04.08:705][992]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2023.02.20-12.04.39:375][633]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Book/BluePrints/BP_TitleGameMode" FILE="D:/git/ArenaBattle/ArenaBattle/Content/Book/BluePrints/BP_TitleGameMode.uasset" SILENT=true
+[2023.02.20-12.04.39:381][633]LogSavePackage: Moving 'D:/git/ArenaBattle/ArenaBattle/Saved/BP_TitleGameModeA1959F5C4F6F2BA15845BA87F8DCC7FE.tmp' to 'D:/git/ArenaBattle/ArenaBattle/Content/Book/BluePrints/BP_TitleGameMode.uasset'
+[2023.02.20-12.04.45:128][318]BlueprintLog: New page: BP_TitleGameMode 컴파일
+[2023.02.20-12.04.45:281][318]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2023.02.20-12.05.09:631][224]LogSlate: Window 'BP_TitleGameMode' being destroyed
+[2023.02.20-12.05.09:638][224]LogSlate: Window 'BP_TitleGameMode' being destroyed
+[2023.02.20-12.05.28:088][419]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2023.02.20-12.05.38:990][720]LogTemp: Repeating last play command: 선택된 뷰포트
+[2023.02.20-12.05.38:996][720]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Book/Maps/Title.Title:PersistentLevel' has LevelScriptBlueprint '/Game/Book/Maps/Title.Title:PersistentLevel.Title' with GeneratedClass '/Game/Book/Maps/Title.Title_C' with ClassGeneratedBy '/Game/Book/Maps/Title.Title:PersistentLevel.Title'
+[2023.02.20-12.05.38:997][720]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.20-12.05.38:997][720]PIE: New page: PIE 세션: Title (2023. 2. 21. 오전 6:05:38)
+[2023.02.20-12.05.39:013][720]LogPlayLevel: Creating play world package: /Game/Book/Maps/UEDPIE_0_Title
+[2023.02.20-12.05.39:014][720]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001081s)
+[2023.02.20-12.05.39:015][720]LogAIModule: Creating AISystem for world Title
+[2023.02.20-12.05.39:016][720]LogPlayLevel: PIE: World Init took: (0.001140s)
+[2023.02.20-12.05.39:016][720]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Book/Maps/Title.Title to /Game/Book/Maps/UEDPIE_0_Title.Title (0.002593s)
+[2023.02.20-12.05.39:040][720]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2023.02.20-12.05.39:086][720]LogInit: XAudio2 using '스피커(USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2023.02.20-12.05.39:105][720]LogInit: FAudioDevice initialized.
+[2023.02.20-12.05.39:145][720]LogLoad: Game class is 'BP_TitleGameMode_C'
+[2023.02.20-12.05.39:150][720]LogWorld: Bringing World /Game/Book/Maps/UEDPIE_0_Title.Title up for play (max tick rate 0) at 2023.02.20-21.05.39
+[2023.02.20-12.05.39:151][720]LogWorld: Bringing up level for play took: 0.000649
+[2023.02.20-12.05.39:172][720]LogBlueprintActionDatabase: Requesting refresh due to module change: Voice (loaded)
+[2023.02.20-12.05.39:175][720]LogBlueprintActionDatabase: Requesting refresh due to module change: MovieSceneCapture (loaded)
+[2023.02.20-12.05.39:175][720]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2023.02.20-12.05.39:188][720]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2023.02.20-12.05.39:189][720]PIE: /Game/Book/Maps/UEDPIE_0_Title 에 대한 에디터에서 플레이 시작 시간: 0.146
+[2023.02.20-12.05.39:189][720]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Book/Maps/Title.Title:PersistentLevel' has LevelScriptBlueprint '/Game/Book/Maps/Title.Title:PersistentLevel.Title' with GeneratedClass '/Game/Book/Maps/Title.Title_C' with ClassGeneratedBy '/Game/Book/Maps/Title.Title:PersistentLevel.Title'
+[2023.02.20-12.06.05:364][832]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.02.20-12.06.05:506][848]LogNet: Browse: /Game/Book/Maps/GamePlay
+[2023.02.20-12.06.05:506][848]LogLoad: LoadMap: /Game/Book/Maps/GamePlay
+[2023.02.20-12.06.05:575][848]LogUObjectHash: Compacting FUObjectHashTables data took   4.73ms
+[2023.02.20-12.06.05:598][848]LogAIModule: Creating AISystem for world GamePlay
+[2023.02.20-12.06.05:599][848]LogLoad: Game class is 'ABGameMode'
+[2023.02.20-12.06.05:600][848]LogWorld: Bringing World /Game/Book/Maps/UEDPIE_0_GamePlay.GamePlay up for play (max tick rate 0) at 2023.02.20-21.06.05
+[2023.02.20-12.06.05:601][848]LogWorld: Bringing up level for play took: 0.001759
+[2023.02.20-12.06.05:601][848]ArenaBattle: Warning: AABPlayerController::PostInitializeComponents(20)
+[2023.02.20-12.06.05:607][848]ArenaBattle: Warning: AABPlayerController::OnPossess(25)
+[2023.02.20-12.06.05:609][848]ArenaBattle: Warning: AABPlayerState::GetExpRatio(70) Ratio : 0.250000, Current : 20, Next : 80
+[2023.02.20-12.06.05:610][848]LogLoad: Took 0.104201 seconds to LoadMap(/Game/Book/Maps/GamePlay)
+[2023.02.20-12.06.08:282][156]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Book/Maps/Title.Title:PersistentLevel' has LevelScriptBlueprint '/Game/Book/Maps/Title.Title:PersistentLevel.Title' with GeneratedClass '/Game/Book/Maps/Title.Title_C' with ClassGeneratedBy '/Game/Book/Maps/Title.Title:PersistentLevel.Title'
+[2023.02.20-12.06.08:283][156]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.20-12.06.08:313][156]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.20-12.06.08:314][156]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Book/Maps/Title.Title:PersistentLevel' has LevelScriptBlueprint '/Game/Book/Maps/Title.Title:PersistentLevel.Title' with GeneratedClass '/Game/Book/Maps/Title.Title_C' with ClassGeneratedBy '/Game/Book/Maps/Title.Title:PersistentLevel.Title'
+[2023.02.20-12.06.08:340][156]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.20-12.06.08:366][156]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2023.02.20-12.06.08:394][158]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2023.02.20-12.06.18:722][393]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.02.20-12.06.22:459][836]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Book/UI/UI_Title.UI_Title
+[2023.02.20-12.06.22:754][836]LogBlueprintActionDatabase: Requesting refresh due to module change: SequencerWidgets (loaded)
+[2023.02.20-12.06.26:853][257]LogSlate: Took 0.004661 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.02.20-12.06.45:859][303]LogSlate: Window 'UI_Title' being destroyed
+[2023.02.20-12.06.45:866][303]LogSlate: Window 'UI_Title' being destroyed
+[2023.02.20-12.07.52:876][450]LogTemp: Repeating last play command: 선택된 뷰포트
+[2023.02.20-12.07.52:881][450]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Book/Maps/Title.Title:PersistentLevel' has LevelScriptBlueprint '/Game/Book/Maps/Title.Title:PersistentLevel.Title' with GeneratedClass '/Game/Book/Maps/Title.Title_C' with ClassGeneratedBy '/Game/Book/Maps/Title.Title:PersistentLevel.Title'
+[2023.02.20-12.07.52:881][450]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.20-12.07.52:881][450]PIE: New page: PIE 세션: Title (2023. 2. 21. 오전 6:07:52)
+[2023.02.20-12.07.52:881][450]LogPlayLevel: Creating play world package: /Game/Book/Maps/UEDPIE_0_Title
+[2023.02.20-12.07.52:882][450]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000820s)
+[2023.02.20-12.07.52:882][450]LogAIModule: Creating AISystem for world Title
+[2023.02.20-12.07.52:882][450]LogPlayLevel: PIE: World Init took: (0.000482s)
+[2023.02.20-12.07.52:882][450]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Book/Maps/Title.Title to /Game/Book/Maps/UEDPIE_0_Title.Title (0.001382s)
+[2023.02.20-12.07.52:947][450]LogUObjectHash: Compacting FUObjectHashTables data took   4.92ms
+[2023.02.20-12.07.52:990][450]LogInit: XAudio2 using '스피커(USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2023.02.20-12.07.53:010][450]LogInit: FAudioDevice initialized.
+[2023.02.20-12.07.53:042][450]LogLoad: Game class is 'BP_TitleGameMode_C'
+[2023.02.20-12.07.53:042][450]LogWorld: Bringing World /Game/Book/Maps/UEDPIE_0_Title.Title up for play (max tick rate 0) at 2023.02.20-21.07.53
+[2023.02.20-12.07.53:042][450]LogWorld: Bringing up level for play took: 0.000229
+[2023.02.20-12.07.53:056][450]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2023.02.20-12.07.53:056][450]PIE: /Game/Book/Maps/UEDPIE_0_Title 에 대한 에디터에서 플레이 시작 시간: 0.013
+[2023.02.20-12.07.53:056][450]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Book/Maps/Title.Title:PersistentLevel' has LevelScriptBlueprint '/Game/Book/Maps/Title.Title:PersistentLevel.Title' with GeneratedClass '/Game/Book/Maps/Title.Title_C' with ClassGeneratedBy '/Game/Book/Maps/Title.Title:PersistentLevel.Title'
+[2023.02.20-12.07.54:042][568]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.02.20-12.07.54:159][582]LogNet: Browse: /Game/Book/Maps/Select
+[2023.02.20-12.07.54:159][582]LogLoad: LoadMap: /Game/Book/Maps/Select
+[2023.02.20-12.07.54:201][582]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2023.02.20-12.07.54:339][582]LogAIModule: Creating AISystem for world Select
+[2023.02.20-12.07.54:725][582]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.02.20-12.07.54:726][582]LogWorld: Bringing World /Game/Book/Maps/UEDPIE_0_Select.Select up for play (max tick rate 0) at 2023.02.20-21.07.54
+[2023.02.20-12.07.54:726][582]LogWorld: Bringing up level for play took: 0.000687
+[2023.02.20-12.07.54:727][582]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.02.20-12.07.54:730][582]LogLoad: Took 0.571537 seconds to LoadMap(/Game/Book/Maps/Select)
+[2023.02.20-12.07.59:743][168]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Book/Maps/Title.Title:PersistentLevel' has LevelScriptBlueprint '/Game/Book/Maps/Title.Title:PersistentLevel.Title' with GeneratedClass '/Game/Book/Maps/Title.Title_C' with ClassGeneratedBy '/Game/Book/Maps/Title.Title:PersistentLevel.Title'
+[2023.02.20-12.07.59:743][168]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.20-12.07.59:771][168]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.20-12.07.59:772][168]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Book/Maps/Title.Title:PersistentLevel' has LevelScriptBlueprint '/Game/Book/Maps/Title.Title:PersistentLevel.Title' with GeneratedClass '/Game/Book/Maps/Title.Title_C' with ClassGeneratedBy '/Game/Book/Maps/Title.Title:PersistentLevel.Title'
+[2023.02.20-12.07.59:796][168]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.20-12.07.59:801][168]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2023.02.20-12.07.59:845][173]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2023.02.20-12.08.00:237][220]Cmd: SELECT NONE
+[2023.02.20-12.08.00:546][257]Cmd: SELECT NONE
+[2023.02.20-12.08.00:746][281]Cmd: SELECT NONE
+[2023.02.20-12.08.00:938][304]Cmd: SELECT NONE
+[2023.02.20-12.08.22:818][927]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.02.20-12.08.46:330][568]LogSlate: Window '부모 클래스 선택' being destroyed
+[2023.02.20-12.09.26:087][172]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Book/BluePrints/BP_SelectUIPlayerController.BP_SelectUIPlayerController
+[2023.02.20-12.09.27:299][256]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2023.02.20-12.09.30:003][539]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2023.02.20-12.09.31:417][682]BlueprintLog: New page: BP_SelectUIPlayerController 컴파일
+[2023.02.20-12.09.31:567][682]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2023.02.20-12.09.32:366][758]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Book/BluePrints/BP_SelectUIPlayerController" FILE="D:/git/ArenaBattle/ArenaBattle/Content/Book/BluePrints/BP_SelectUIPlayerController.uasset" SILENT=true
+[2023.02.20-12.09.32:372][758]LogSavePackage: Moving 'D:/git/ArenaBattle/ArenaBattle/Saved/BP_SelectUIPlayerController4F42572D41B9D290F5BC16A3BDCFAD35.tmp' to 'D:/git/ArenaBattle/ArenaBattle/Content/Book/BluePrints/BP_SelectUIPlayerController.uasset'
+[2023.02.20-12.09.33:204][846]LogSlate: Window 'BP_SelectUIPlayerController' being destroyed
+[2023.02.20-12.09.33:212][846]LogSlate: Window 'BP_SelectUIPlayerController' being destroyed
+[2023.02.20-12.10.01:702][  9]LogSlate: Window '부모 클래스 선택' being destroyed
+[2023.02.20-12.10.23:002][553]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Book/BluePrints/BP_SelectGameMode.BP_SelectGameMode
+[2023.02.20-12.10.33:097][688]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2023.02.20-12.10.57:635][543]BlueprintLog: New page: BP_SelectGameMode 컴파일
+[2023.02.20-12.10.57:784][543]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2023.02.20-12.10.58:156][580]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Book/BluePrints/BP_SelectGameMode" FILE="D:/git/ArenaBattle/ArenaBattle/Content/Book/BluePrints/BP_SelectGameMode.uasset" SILENT=true
+[2023.02.20-12.10.58:161][580]LogSavePackage: Moving 'D:/git/ArenaBattle/ArenaBattle/Saved/BP_SelectGameMode1581AA674FD0AA2494E2CCAAE61E2B59.tmp' to 'D:/git/ArenaBattle/ArenaBattle/Content/Book/BluePrints/BP_SelectGameMode.uasset'
+[2023.02.20-12.10.59:148][689]LogSlate: Window 'BP_SelectGameMode' being destroyed
+[2023.02.20-12.10.59:156][689]LogSlate: Window 'BP_SelectGameMode' being destroyed
+[2023.02.20-12.11.26:590][963]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2023.02.20-12.11.32:099][620]LogTemp: Repeating last play command: 선택된 뷰포트
+[2023.02.20-12.11.32:102][620]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Book/Maps/Title.Title:PersistentLevel' has LevelScriptBlueprint '/Game/Book/Maps/Title.Title:PersistentLevel.Title' with GeneratedClass '/Game/Book/Maps/Title.Title_C' with ClassGeneratedBy '/Game/Book/Maps/Title.Title:PersistentLevel.Title'
+[2023.02.20-12.11.32:102][620]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.20-12.11.32:102][620]PIE: New page: PIE 세션: Title (2023. 2. 21. 오전 6:11:32)
+[2023.02.20-12.11.32:102][620]LogPlayLevel: Creating play world package: /Game/Book/Maps/UEDPIE_0_Title
+[2023.02.20-12.11.32:103][620]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000817s)
+[2023.02.20-12.11.32:103][620]LogAIModule: Creating AISystem for world Title
+[2023.02.20-12.11.32:103][620]LogPlayLevel: PIE: World Init took: (0.000470s)
+[2023.02.20-12.11.32:103][620]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Book/Maps/Title.Title to /Game/Book/Maps/UEDPIE_0_Title.Title (0.001364s)
+[2023.02.20-12.11.32:129][620]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2023.02.20-12.11.32:176][620]LogInit: XAudio2 using '스피커(USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2023.02.20-12.11.32:196][620]LogInit: FAudioDevice initialized.
+[2023.02.20-12.11.32:225][620]LogLoad: Game class is 'BP_SelectGameMode_C'
+[2023.02.20-12.11.32:225][620]LogWorld: Bringing World /Game/Book/Maps/UEDPIE_0_Title.Title up for play (max tick rate 0) at 2023.02.20-21.11.32
+[2023.02.20-12.11.32:225][620]LogWorld: Bringing up level for play took: 0.000241
+[2023.02.20-12.11.32:239][620]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2023.02.20-12.11.32:239][620]PIE: /Game/Book/Maps/UEDPIE_0_Title 에 대한 에디터에서 플레이 시작 시간: -0.803
+[2023.02.20-12.11.32:239][620]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Book/Maps/Title.Title:PersistentLevel' has LevelScriptBlueprint '/Game/Book/Maps/Title.Title:PersistentLevel.Title' with GeneratedClass '/Game/Book/Maps/Title.Title_C' with ClassGeneratedBy '/Game/Book/Maps/Title.Title:PersistentLevel.Title'
+[2023.02.20-12.11.34:243][860]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.02.20-12.11.40:669][631]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.02.20-12.11.43:461][966]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.02.20-12.11.44:020][ 33]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Book/Maps/Title.Title:PersistentLevel' has LevelScriptBlueprint '/Game/Book/Maps/Title.Title:PersistentLevel.Title' with GeneratedClass '/Game/Book/Maps/Title.Title_C' with ClassGeneratedBy '/Game/Book/Maps/Title.Title:PersistentLevel.Title'
+[2023.02.20-12.11.44:021][ 33]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.20-12.11.44:049][ 33]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.20-12.11.44:049][ 33]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Book/Maps/Title.Title:PersistentLevel' has LevelScriptBlueprint '/Game/Book/Maps/Title.Title:PersistentLevel.Title' with GeneratedClass '/Game/Book/Maps/Title.Title_C' with ClassGeneratedBy '/Game/Book/Maps/Title.Title:PersistentLevel.Title'
+[2023.02.20-12.11.44:074][ 33]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.20-12.11.44:077][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2023.02.20-12.11.44:121][ 38]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2023.02.20-12.11.47:633][450]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Book/BluePrints/BP_SelectUIPlayerController.BP_SelectUIPlayerController
+[2023.02.20-12.11.52:603][  4]LogSlate: Window 'BP_SelectUIPlayerController' being destroyed
+[2023.02.20-12.11.52:610][  4]LogSlate: Window 'BP_SelectUIPlayerController' being destroyed
+[2023.02.20-12.12.26:655][ 58]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Book/BluePrints/BP_SelectUIPlayerController.BP_SelectUIPlayerController
+[2023.02.20-12.12.29:386][345]LogSlate: Window 'BP_SelectUIPlayerController' being destroyed
+[2023.02.20-12.12.29:393][345]LogSlate: Window 'BP_SelectUIPlayerController' being destroyed
+[2023.02.20-12.12.30:500][448]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Book/BluePrints/BP_WeaponAxe.BP_WeaponAxe
+[2023.02.20-12.12.31:912][567]LogSlate: Window 'BP_WeaponAxe' being destroyed
+[2023.02.20-12.12.31:919][567]LogSlate: Window 'BP_WeaponAxe' being destroyed
+[2023.02.20-12.12.32:720][651]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Book/BluePrints/BP_TitleUIPlayerController.BP_TitleUIPlayerController
+[2023.02.20-12.12.38:636][316]LogSlate: Window 'BP_TitleUIPlayerController' being destroyed
+[2023.02.20-12.12.38:643][316]LogSlate: Window 'BP_TitleUIPlayerController' being destroyed
+[2023.02.20-12.12.41:023][589]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Book/BluePrints/BP_TitleGameMode.BP_TitleGameMode
+[2023.02.20-12.12.45:064][ 42]LogSlate: Window 'BP_TitleGameMode' being destroyed
+[2023.02.20-12.12.45:071][ 42]LogSlate: Window 'BP_TitleGameMode' being destroyed
+[2023.02.20-12.12.45:942][132]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Book/BluePrints/BP_TitleGameMode.BP_TitleGameMode
+[2023.02.20-12.12.58:519][588]LogSlate: Window 'BP_TitleGameMode' being destroyed
+[2023.02.20-12.13.02:823][ 85]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Book/BluePrints/BP_SelectUIPlayerController.BP_SelectUIPlayerController
+[2023.02.20-12.13.05:505][376]LogSlate: Window 'BP_SelectUIPlayerController' being destroyed
+[2023.02.20-12.13.05:514][376]LogSlate: Window 'BP_SelectUIPlayerController' being destroyed
+[2023.02.20-12.13.06:769][518]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Book/BluePrints/BP_TitleUIPlayerController.BP_TitleUIPlayerController
+[2023.02.20-12.13.10:677][951]LogSlate: Window 'BP_TitleUIPlayerController' being destroyed
+[2023.02.20-12.13.10:751][951]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Book/BluePrints/BP_TitleUIPlayerController.BP_TitleUIPlayerController
+[2023.02.20-12.13.17:871][725]LogSlate: Window 'BP_TitleUIPlayerController' being destroyed
+[2023.02.20-12.13.17:879][725]LogSlate: Window 'BP_TitleUIPlayerController' being destroyed
+[2023.02.20-12.13.20:869][ 72]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Book/BluePrints/BP_SelectUIPlayerController.BP_SelectUIPlayerController
+[2023.02.20-12.13.22:531][240]LogSlate: Window 'BP_SelectUIPlayerController' being destroyed
+[2023.02.20-12.13.22:598][240]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Book/BluePrints/BP_SelectUIPlayerController.BP_SelectUIPlayerController
+[2023.02.20-12.13.24:338][402]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2023.02.20-12.13.27:808][804]LogSlate: Window 'BP_SelectUIPlayerController' being destroyed
+[2023.02.20-12.13.27:815][804]LogSlate: Window 'BP_SelectUIPlayerController' being destroyed
+[2023.02.20-12.13.33:136][435]LogTemp: Repeating last play command: 선택된 뷰포트
+[2023.02.20-12.13.33:140][435]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Book/Maps/Title.Title:PersistentLevel' has LevelScriptBlueprint '/Game/Book/Maps/Title.Title:PersistentLevel.Title' with GeneratedClass '/Game/Book/Maps/Title.Title_C' with ClassGeneratedBy '/Game/Book/Maps/Title.Title:PersistentLevel.Title'
+[2023.02.20-12.13.33:140][435]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.20-12.13.33:140][435]PIE: New page: PIE 세션: Title (2023. 2. 21. 오전 6:13:33)
+[2023.02.20-12.13.33:141][435]LogPlayLevel: Creating play world package: /Game/Book/Maps/UEDPIE_0_Title
+[2023.02.20-12.13.33:141][435]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000879s)
+[2023.02.20-12.13.33:142][435]LogAIModule: Creating AISystem for world Title
+[2023.02.20-12.13.33:142][435]LogPlayLevel: PIE: World Init took: (0.000471s)
+[2023.02.20-12.13.33:142][435]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Book/Maps/Title.Title to /Game/Book/Maps/UEDPIE_0_Title.Title (0.001426s)
+[2023.02.20-12.13.33:173][435]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2023.02.20-12.13.33:217][435]LogInit: XAudio2 using '스피커(USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2023.02.20-12.13.33:235][435]LogInit: FAudioDevice initialized.
+[2023.02.20-12.13.33:264][435]LogLoad: Game class is 'BP_SelectGameMode_C'
+[2023.02.20-12.13.33:264][435]LogWorld: Bringing World /Game/Book/Maps/UEDPIE_0_Title.Title up for play (max tick rate 0) at 2023.02.20-21.13.33
+[2023.02.20-12.13.33:265][435]LogWorld: Bringing up level for play took: 0.000362
+[2023.02.20-12.13.33:277][435]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2023.02.20-12.13.33:277][435]PIE: /Game/Book/Maps/UEDPIE_0_Title 에 대한 에디터에서 플레이 시작 시간: 0.235
+[2023.02.20-12.13.33:278][435]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Book/Maps/Title.Title:PersistentLevel' has LevelScriptBlueprint '/Game/Book/Maps/Title.Title:PersistentLevel.Title' with GeneratedClass '/Game/Book/Maps/Title.Title_C' with ClassGeneratedBy '/Game/Book/Maps/Title.Title:PersistentLevel.Title'
+[2023.02.20-12.13.40:217][267]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Book/Maps/Title.Title:PersistentLevel' has LevelScriptBlueprint '/Game/Book/Maps/Title.Title:PersistentLevel.Title' with GeneratedClass '/Game/Book/Maps/Title.Title_C' with ClassGeneratedBy '/Game/Book/Maps/Title.Title:PersistentLevel.Title'
+[2023.02.20-12.13.40:217][267]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.20-12.13.40:242][267]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.20-12.13.40:243][267]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Book/Maps/Title.Title:PersistentLevel' has LevelScriptBlueprint '/Game/Book/Maps/Title.Title:PersistentLevel.Title' with GeneratedClass '/Game/Book/Maps/Title.Title_C' with ClassGeneratedBy '/Game/Book/Maps/Title.Title:PersistentLevel.Title'
+[2023.02.20-12.13.40:269][267]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.20-12.13.40:272][267]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2023.02.20-12.13.40:324][273]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2023.02.20-12.13.41:066][362]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.02.20-12.13.41:528][416]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Book/Maps/Title" FILE="D:/git/ArenaBattle/ArenaBattle/Content/Book/Maps/Title.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.02.20-12.13.41:551][416]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2023.02.20-12.13.41:571][416]LogSavePackage: Moving 'D:/git/ArenaBattle/ArenaBattle/Saved/Title44485FFA4CAA6E73ADFB7696AD81B2E8.tmp' to 'D:/git/ArenaBattle/ArenaBattle/Content/Book/Maps/Title.umap'
+[2023.02.20-12.15.08:245][787]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Book/UI/UI_Select.UI_Select
+[2023.02.20-12.15.11:769][156]LogSlate: Window 'UI_Select' being destroyed
+[2023.02.20-12.15.11:778][156]LogSlate: Window 'UI_Select' being destroyed
+[2023.02.20-12.15.59:042][817]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Book/UI/UI_Select.UI_Select
+[2023.02.20-12.16.02:823][223]LogSlate: Window 'UI_Select' being destroyed
+[2023.02.20-12.16.02:831][223]LogSlate: Window 'UI_Select' being destroyed
+[2023.02.20-12.16.24:532][779]LogAIModule: Creating AISystem for world Select
+[2023.02.20-12.16.24:534][779]LogAssetEditorManager: Opening Asset editor for World /Game/Book/Maps/Select.Select
+[2023.02.20-12.16.24:561][779]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2023.02.20-12.16.24:571][779]Cmd: MAP LOAD FILE="D:/git/ArenaBattle/ArenaBattle/Content/Book/Maps/Select.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.02.20-12.16.24:571][779]LightingResults: New page: 라이팅 빌드
+[2023.02.20-12.16.24:571][779]LoadErrors: New page: 맵 로드중: Select.umap
+[2023.02.20-12.16.24:572][779]MapCheck: New page: 맵 체크
+[2023.02.20-12.16.24:572][779]LightingResults: New page: 라이팅 빌드
+[2023.02.20-12.16.24:597][779]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2023.02.20-12.16.24:650][779]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.02.20-12.16.24:673][779]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2023.02.20-12.16.24:677][779]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.02.20-12.16.24:677][779]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.091ms.
+[2023.02.20-12.16.24:677][779]LogFileHelpers: Loading map 'Select' took 0.115
+[2023.02.20-12.16.27:286][ 78]LogTemp: Repeating last play command: 선택된 뷰포트
+[2023.02.20-12.16.27:290][ 78]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Book/Maps/Select.Select:PersistentLevel' has LevelScriptBlueprint '/Game/Book/Maps/Select.Select:PersistentLevel.Select' with GeneratedClass '/Game/Book/Maps/Select.Select_C' with ClassGeneratedBy '/Game/Book/Maps/Select.Select:PersistentLevel.Select'
+[2023.02.20-12.16.27:290][ 78]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.20-12.16.27:290][ 78]PIE: New page: PIE 세션: Select (2023. 2. 21. 오전 6:16:27)
+[2023.02.20-12.16.27:290][ 78]LogPlayLevel: Creating play world package: /Game/Book/Maps/UEDPIE_0_Select
+[2023.02.20-12.16.27:291][ 78]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001179s)
+[2023.02.20-12.16.27:291][ 78]LogAIModule: Creating AISystem for world Select
+[2023.02.20-12.16.27:292][ 78]LogPlayLevel: PIE: World Init took: (0.000440s)
+[2023.02.20-12.16.27:292][ 78]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Book/Maps/Select.Select to /Game/Book/Maps/UEDPIE_0_Select.Select (0.001767s)
+[2023.02.20-12.16.27:313][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2023.02.20-12.16.27:360][ 78]LogInit: XAudio2 using '스피커(USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2023.02.20-12.16.27:377][ 78]LogInit: FAudioDevice initialized.
+[2023.02.20-12.16.27:406][ 78]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.02.20-12.16.27:407][ 78]LogWorld: Bringing World /Game/Book/Maps/UEDPIE_0_Select.Select up for play (max tick rate 0) at 2023.02.20-21.16.27
+[2023.02.20-12.16.27:407][ 78]LogWorld: Bringing up level for play took: 0.000503
+[2023.02.20-12.16.27:421][ 78]PIE: /Game/Book/Maps/UEDPIE_0_Select 에 대한 에디터에서 플레이 시작 시간: 0.379
+[2023.02.20-12.16.27:421][ 78]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Book/Maps/Select.Select:PersistentLevel' has LevelScriptBlueprint '/Game/Book/Maps/Select.Select:PersistentLevel.Select' with GeneratedClass '/Game/Book/Maps/Select.Select_C' with ClassGeneratedBy '/Game/Book/Maps/Select.Select:PersistentLevel.Select'
+[2023.02.20-12.16.34:352][907]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.02.20-12.17.08:708][992]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Book/Maps/Select.Select:PersistentLevel' has LevelScriptBlueprint '/Game/Book/Maps/Select.Select:PersistentLevel.Select' with GeneratedClass '/Game/Book/Maps/Select.Select_C' with ClassGeneratedBy '/Game/Book/Maps/Select.Select:PersistentLevel.Select'
+[2023.02.20-12.17.08:708][992]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.20-12.17.08:738][992]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.20-12.17.08:738][992]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Book/Maps/Select.Select:PersistentLevel' has LevelScriptBlueprint '/Game/Book/Maps/Select.Select:PersistentLevel.Select' with GeneratedClass '/Game/Book/Maps/Select.Select_C' with ClassGeneratedBy '/Game/Book/Maps/Select.Select:PersistentLevel.Select'
+[2023.02.20-12.17.08:764][992]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.20-12.17.08:768][992]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2023.02.20-12.17.08:812][997]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2023.02.20-12.17.10:451][193]LogTemp: Repeating last play command: 선택된 뷰포트
+[2023.02.20-12.17.10:454][193]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Book/Maps/Select.Select:PersistentLevel' has LevelScriptBlueprint '/Game/Book/Maps/Select.Select:PersistentLevel.Select' with GeneratedClass '/Game/Book/Maps/Select.Select_C' with ClassGeneratedBy '/Game/Book/Maps/Select.Select:PersistentLevel.Select'
+[2023.02.20-12.17.10:454][193]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.20-12.17.10:455][193]PIE: New page: PIE 세션: Select (2023. 2. 21. 오전 6:17:10)
+[2023.02.20-12.17.10:455][193]LogPlayLevel: Creating play world package: /Game/Book/Maps/UEDPIE_0_Select
+[2023.02.20-12.17.10:456][193]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001222s)
+[2023.02.20-12.17.10:456][193]LogAIModule: Creating AISystem for world Select
+[2023.02.20-12.17.10:456][193]LogPlayLevel: PIE: World Init took: (0.000469s)
+[2023.02.20-12.17.10:456][193]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Book/Maps/Select.Select to /Game/Book/Maps/UEDPIE_0_Select.Select (0.001772s)
+[2023.02.20-12.17.10:481][193]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2023.02.20-12.17.10:523][193]LogInit: XAudio2 using '스피커(USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2023.02.20-12.17.10:540][193]LogInit: FAudioDevice initialized.
+[2023.02.20-12.17.10:571][193]LogLoad: Game class is 'BP_SelectGameMode_C'
+[2023.02.20-12.17.10:571][193]LogWorld: Bringing World /Game/Book/Maps/UEDPIE_0_Select.Select up for play (max tick rate 0) at 2023.02.20-21.17.10
+[2023.02.20-12.17.10:572][193]LogWorld: Bringing up level for play took: 0.000515
+[2023.02.20-12.17.10:585][193]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2023.02.20-12.17.10:585][193]PIE: /Game/Book/Maps/UEDPIE_0_Select 에 대한 에디터에서 플레이 시작 시간: -0.457
+[2023.02.20-12.17.10:585][193]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Book/Maps/Select.Select:PersistentLevel' has LevelScriptBlueprint '/Game/Book/Maps/Select.Select:PersistentLevel.Select' with GeneratedClass '/Game/Book/Maps/Select.Select_C' with ClassGeneratedBy '/Game/Book/Maps/Select.Select:PersistentLevel.Select'
+[2023.02.20-12.17.16:267][874]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.02.20-12.17.16:359][885]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Book/Maps/Select.Select:PersistentLevel' has LevelScriptBlueprint '/Game/Book/Maps/Select.Select:PersistentLevel.Select' with GeneratedClass '/Game/Book/Maps/Select.Select_C' with ClassGeneratedBy '/Game/Book/Maps/Select.Select:PersistentLevel.Select'
+[2023.02.20-12.17.16:359][885]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.20-12.17.16:389][885]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.20-12.17.16:389][885]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Book/Maps/Select.Select:PersistentLevel' has LevelScriptBlueprint '/Game/Book/Maps/Select.Select:PersistentLevel.Select' with GeneratedClass '/Game/Book/Maps/Select.Select_C' with ClassGeneratedBy '/Game/Book/Maps/Select.Select:PersistentLevel.Select'
+[2023.02.20-12.17.16:414][885]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.20-12.17.16:418][885]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2023.02.20-12.17.16:463][890]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2023.02.20-12.18.26:841][131]Candidate modules for hot reload:
+[2023.02.20-12.18.26:841][131]  ArenaBattle
+[2023.02.20-12.18.26:841][131]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=ArenaBattle,1743 Win64 Development -TargetType=Editor -Project="D:/git/ArenaBattle/ArenaBattle/ArenaBattle.uproject" "D:/git/ArenaBattle/ArenaBattle/ArenaBattle.uproject"  -IgnoreJunk]
+[2023.02.20-12.18.39:372][131]CompilerResultsLog: New page: 컴파일 - 2023. 2. 21. 오전 6:18:39
+[2023.02.20-12.18.39:372][131]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\git\ArenaBattle).
+[2023.02.20-12.18.39:372][131]CompilerResultsLog: Creating makefile for ArenaBattleEditor (ini files are newer than makefile)
+[2023.02.20-12.18.39:372][131]CompilerResultsLog: Parsing headers for ArenaBattleEditor
+[2023.02.20-12.18.39:372][131]CompilerResultsLog:   Running UnrealHeaderTool "D:\git\ArenaBattle\ArenaBattle\ArenaBattle.uproject" "D:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\ArenaBattleEditor\Development\ArenaBattleEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2023.02.20-12.18.39:372][131]CompilerResultsLog: Reflection code generated for ArenaBattleEditor in 4.8166023 seconds
+[2023.02.20-12.18.39:372][131]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2023.02.20-12.18.39:372][131]CompilerResultsLog: Building 6 actions with 6 processes...
+[2023.02.20-12.18.39:372][131]CompilerResultsLog:   [1/6] ArenaBattle.init.gen.cpp
+[2023.02.20-12.18.39:372][131]CompilerResultsLog:   [2/6] ABCharacterSelectWidget.cpp
+[2023.02.20-12.18.39:372][131]CompilerResultsLog:   [3/6] ABCharacterSelectWidget.gen.cpp
+[2023.02.20-12.18.39:372][131]CompilerResultsLog:   [4/6] UE4Editor-ArenaBattle-1743.lib
+[2023.02.20-12.18.39:372][131]CompilerResultsLog:      D:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\UE4Editor-ArenaBattle-1743.lib ???̺귯?? ?? D:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\UE4Editor-ArenaBattle-1743.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2023.02.20-12.18.39:372][131]CompilerResultsLog:   [5/6] UE4Editor-ArenaBattle-1743.dll
+[2023.02.20-12.18.39:372][131]CompilerResultsLog:      D:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\UE4Editor-ArenaBattle-1743.suppressed.lib ???̺귯?? ?? D:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\UE4Editor-ArenaBattle-1743.suppressed.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2023.02.20-12.18.39:372][131]CompilerResultsLog:   [6/6] ArenaBattleEditor.target
+[2023.02.20-12.18.39:372][131]CompilerResultsLog: Total time in Parallel executor: 5.64 seconds
+[2023.02.20-12.18.39:372][131]CompilerResultsLog: Total execution time: 12.42 seconds
+[2023.02.20-12.18.39:372][131]LogMainFrame: MainFrame: Module compiling took 12.535 seconds
+[2023.02.20-12.18.39:393][131]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2023.02.20-12.18.39:393][131]LogBlueprintActionDatabase: Requesting refresh due to module change: ArenaBattle (unloaded)
+[2023.02.20-12.18.39:432][131]LogClass: Could not find existing class ABCharacterSelectWidget in package /Script/ArenaBattle for HotReload, assuming new class
+[2023.02.20-12.18.39:465][131]LogClass: ECharacterState HotReload.
+[2023.02.20-12.18.39:465][131]LogClass: ABCharacterData HotReload.
+[2023.02.20-12.18.39:472][131]LogHotReload: Re-instancing ABCharacter after hot-reload.
+[2023.02.20-12.18.39:607][131]LogBlueprintActionDatabase: Requesting refresh due to module change: ArenaBattle (loaded)
+[2023.02.20-12.18.39:607][131]LogContentBrowser: Native class hierarchy updated for 'ArenaBattle' in 0.0005 seconds. Added 23 classes and 2 folders.
+[2023.02.20-12.18.39:612][131]Display: HotReload successful (8 functions remapped  1 scriptstructs remapped)
+[2023.02.20-12.18.39:676][131]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2023.02.20-12.18.39:676][131]LogBlueprintActionDatabase: Requesting refresh due to hot reload
+[2023.02.20-12.18.39:684][131]LogContentBrowser: Native class hierarchy populated in 0.0083 seconds. Added 2757 classes and 666 folders.
+[2023.02.20-12.18.39:690][131]Display: HotReload took 13.5s.
+[2023.02.20-12.18.39:691][131]Warning: HotReload operation took 13.6s.
+[2023.02.20-12.18.39:860][131]LogVSAccessor: Warning: Couldn't goto line number '1' in 'D:/git/ArenaBattle/ArenaBattle/Source/ArenaBattle/Public/ABCharacterSelectWidget.h'
+[2023.02.20-12.18.39:958][131]LogVSAccessor: Warning: Couldn't goto line number '1' in 'D:/git/ArenaBattle/ArenaBattle/Source/ArenaBattle/Private/ABCharacterSelectWidget.cpp'
+[2023.02.20-12.18.39:975][131]LogSlate: Window 'C++ 클래스 추가' being destroyed
+[2023.02.20-12.18.40:264][132]LogHotReload: New module detected: UE4Editor-ArenaBattle-1743.dll
+[2023.02.20-12.18.40:283][133]LogHotReload: Starting Hot-Reload from IDE
+[2023.02.20-12.18.40:352][133]LogUObjectHash: Compacting FUObjectHashTables data took   3.78ms
+[2023.02.20-12.18.40:352][133]LogBlueprintActionDatabase: Requesting refresh due to module change: ArenaBattle (unloaded)
+[2023.02.20-12.18.40:357][133]LogBlueprintActionDatabase: Requesting refresh due to module change: ArenaBattle (loaded)
+[2023.02.20-12.18.40:358][133]LogContentBrowser: Native class hierarchy updated for 'ArenaBattle' in 0.0004 seconds. Added 23 classes and 2 folders.
+[2023.02.20-12.18.40:362][133]Display: HotReload successful (0 functions remapped  1 scriptstructs remapped)
+[2023.02.20-12.18.40:402][133]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2023.02.20-12.18.40:402][133]LogBlueprintActionDatabase: Requesting refresh due to hot reload
+[2023.02.20-12.18.40:411][133]LogContentBrowser: Native class hierarchy populated in 0.0084 seconds. Added 2757 classes and 666 folders.
+[2023.02.20-12.18.40:419][133]Display: HotReload took  0.1s.
+[2023.02.20-12.18.41:271][135]ArenaBattle: Warning: AABPawn::PostInitializeComponents(63)
+[2023.02.20-12.18.41:605][136]ArenaBattle: Error: UABCharacterStatComponent::SetNewLevel(34) ASSERTION : 'nullptr != ABGameInstance'
+[2023.02.20-12.23.11:343][941]LogHotReload: New module detected: UE4Editor-ArenaBattle-0006.dll
+[2023.02.20-12.23.13:703][949]LogHotReload: Starting Hot-Reload from IDE
+[2023.02.20-12.23.13:767][949]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2023.02.20-12.23.13:767][949]LogBlueprintActionDatabase: Requesting refresh due to module change: ArenaBattle (unloaded)
+[2023.02.20-12.23.13:820][949]LogClass: Could not find existing class ABCharacterSelectWidget in package /Script/ArenaBattle for HotReload, assuming new class
+[2023.02.20-12.23.13:820][949]LogClass: Function NextCharacter is new.
+[2023.02.20-12.23.13:843][949]LogClass: ECharacterState HotReload.
+[2023.02.20-12.23.13:843][949]LogClass: ABCharacterData HotReload.
+[2023.02.20-12.23.13:855][949]LogHotReload: Re-instancing ABCharacterSelectWidget after hot-reload.
+[2023.02.20-12.23.13:978][949]LogBlueprintActionDatabase: Requesting refresh due to module change: ArenaBattle (loaded)
+[2023.02.20-12.23.13:979][949]LogContentBrowser: Native class hierarchy updated for 'ArenaBattle' in 0.0004 seconds. Added 23 classes and 2 folders.
+[2023.02.20-12.23.13:982][949]Display: HotReload successful (8 functions remapped  1 scriptstructs remapped)
+[2023.02.20-12.23.14:045][949]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2023.02.20-12.23.14:045][949]LogBlueprintActionDatabase: Requesting refresh due to hot reload
+[2023.02.20-12.23.14:054][949]LogContentBrowser: Native class hierarchy populated in 0.0082 seconds. Added 2757 classes and 666 folders.
+[2023.02.20-12.23.14:062][949]Display: HotReload took  0.4s.
+[2023.02.20-12.25.12:109][411]LogTemp: Repeating last play command: 선택된 뷰포트
+[2023.02.20-12.25.12:114][411]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Book/Maps/Select.Select:PersistentLevel' has LevelScriptBlueprint '/Game/Book/Maps/Select.Select:PersistentLevel.Select' with GeneratedClass '/Game/Book/Maps/Select.Select_C' with ClassGeneratedBy '/Game/Book/Maps/Select.Select:PersistentLevel.Select'
+[2023.02.20-12.25.12:114][411]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.20-12.25.12:114][411]PIE: New page: PIE 세션: Select (2023. 2. 21. 오전 6:25:12)
+[2023.02.20-12.25.12:114][411]LogPlayLevel: Creating play world package: /Game/Book/Maps/UEDPIE_0_Select
+[2023.02.20-12.25.12:116][411]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001232s)
+[2023.02.20-12.25.12:116][411]LogAIModule: Creating AISystem for world Select
+[2023.02.20-12.25.12:116][411]LogPlayLevel: PIE: World Init took: (0.000493s)
+[2023.02.20-12.25.12:116][411]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Book/Maps/Select.Select to /Game/Book/Maps/UEDPIE_0_Select.Select (0.001802s)
+[2023.02.20-12.25.12:171][411]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2023.02.20-12.25.12:215][411]LogInit: XAudio2 using '스피커(USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2023.02.20-12.25.12:234][411]LogInit: FAudioDevice initialized.
+[2023.02.20-12.25.12:263][411]LogLoad: Game class is 'BP_SelectGameMode_C'
+[2023.02.20-12.25.12:264][411]LogWorld: Bringing World /Game/Book/Maps/UEDPIE_0_Select.Select up for play (max tick rate 0) at 2023.02.20-21.25.12
+[2023.02.20-12.25.12:264][411]LogWorld: Bringing up level for play took: 0.000590
+[2023.02.20-12.25.12:278][411]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2023.02.20-12.25.12:278][411]PIE: /Game/Book/Maps/UEDPIE_0_Select 에 대한 에디터에서 플레이 시작 시간: -0.765
+[2023.02.20-12.25.12:278][411]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Book/Maps/Select.Select:PersistentLevel' has LevelScriptBlueprint '/Game/Book/Maps/Select.Select:PersistentLevel.Select' with GeneratedClass '/Game/Book/Maps/Select.Select_C' with ClassGeneratedBy '/Game/Book/Maps/Select.Select:PersistentLevel.Select'
+[2023.02.20-12.25.14:053][622]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.02.20-12.25.16:129][871]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Book/Maps/Select.Select:PersistentLevel' has LevelScriptBlueprint '/Game/Book/Maps/Select.Select:PersistentLevel.Select' with GeneratedClass '/Game/Book/Maps/Select.Select_C' with ClassGeneratedBy '/Game/Book/Maps/Select.Select:PersistentLevel.Select'
+[2023.02.20-12.25.16:130][871]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.20-12.25.16:155][871]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.20-12.25.16:155][871]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Book/Maps/Select.Select:PersistentLevel' has LevelScriptBlueprint '/Game/Book/Maps/Select.Select:PersistentLevel.Select' with GeneratedClass '/Game/Book/Maps/Select.Select_C' with ClassGeneratedBy '/Game/Book/Maps/Select.Select:PersistentLevel.Select'
+[2023.02.20-12.25.16:185][871]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.20-12.25.16:200][871]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2023.02.20-12.25.16:233][874]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2023.02.20-12.27.17:039][298]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2023.02.20-12.27.17:040][298]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Book/Maps/Select" FILE="D:/git/ArenaBattle/ArenaBattle/Saved/Autosaves/Game/Book/Maps/Select_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2023.02.20-12.27.17:174][298]LogSavePackage: Moving 'D:/git/ArenaBattle/ArenaBattle/Saved/Select_Auto147E536AB48358D4D86ADF6A111E4CF42.tmp' to 'D:/git/ArenaBattle/ArenaBattle/Saved/Autosaves/Game/Book/Maps/Select_Auto1.umap'
+[2023.02.20-12.27.17:176][298]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Book/Maps/Select' took 0.166
+[2023.02.20-12.27.17:176][298]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.166
+[2023.02.20-12.29.36:158][714]LogHotReload: New module detected: UE4Editor-ArenaBattle-0007.dll
+[2023.02.20-12.29.38:848][723]LogHotReload: Starting Hot-Reload from IDE
+[2023.02.20-12.29.38:883][723]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2023.02.20-12.29.38:883][723]LogBlueprintActionDatabase: Requesting refresh due to module change: ArenaBattle (unloaded)
+[2023.02.20-12.29.38:928][723]LogClass: Could not find existing class ABCharacterSelectWidget in package /Script/ArenaBattle for HotReload, assuming new class
+[2023.02.20-12.29.38:928][723]LogClass: Function NextCharacter is new.
+[2023.02.20-12.29.38:928][723]LogClass: Function OnConfirmClicked is new.
+[2023.02.20-12.29.38:928][723]LogClass: Function OnNextClicked is new.
+[2023.02.20-12.29.38:928][723]LogClass: Function OnPrevClicked is new.
+[2023.02.20-12.29.38:957][723]LogClass: ECharacterState HotReload.
+[2023.02.20-12.29.38:957][723]LogClass: ABCharacterData HotReload.
+[2023.02.20-12.29.38:969][723]LogHotReload: Re-instancing ABCharacterSelectWidget after hot-reload.
+[2023.02.20-12.29.39:097][723]LogBlueprintActionDatabase: Requesting refresh due to module change: ArenaBattle (loaded)
+[2023.02.20-12.29.39:098][723]LogContentBrowser: Native class hierarchy updated for 'ArenaBattle' in 0.0004 seconds. Added 23 classes and 2 folders.
+[2023.02.20-12.29.39:102][723]Display: HotReload successful (8 functions remapped  1 scriptstructs remapped)
+[2023.02.20-12.29.39:158][723]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2023.02.20-12.29.39:159][723]LogBlueprintActionDatabase: Requesting refresh due to hot reload
+[2023.02.20-12.29.39:167][723]LogContentBrowser: Native class hierarchy populated in 0.0083 seconds. Added 2757 classes and 666 folders.
+[2023.02.20-12.29.39:175][723]Display: HotReload took  0.3s.
+[2023.02.20-12.31.08:767][269]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Book/UI/UI_Select.UI_Select
+[2023.02.20-12.31.23:783][931]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2023.02.20-12.31.25:342][109]LogBlueprint: Warning: Reparenting blueprint WidgetBlueprint /Game/Book/UI/UI_Select.UI_Select from UserWidget to ABCharacterSelectWidget...
+[2023.02.20-12.31.25:357][109]BlueprintLog: New page: UI_Select 컴파일
+[2023.02.20-12.31.25:421][109]LogUObjectHash: Compacting FUObjectHashTables data took   4.00ms
+[2023.02.20-12.31.30:382][670]BlueprintLog: New page: UI_Select 컴파일
+[2023.02.20-12.31.30:427][670]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2023.02.20-12.31.31:015][730]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Book/UI/UI_Select" FILE="D:/git/ArenaBattle/ArenaBattle/Content/Book/UI/UI_Select.uasset" SILENT=true
+[2023.02.20-12.31.31:038][730]LogSavePackage: Moving 'D:/git/ArenaBattle/ArenaBattle/Saved/UI_Select91446960445347D0AAC7E4A06ED638ED.tmp' to 'D:/git/ArenaBattle/ArenaBattle/Content/Book/UI/UI_Select.uasset'
+[2023.02.20-12.31.32:851][937]LogSlate: Window 'UI_Select' being destroyed
+[2023.02.20-12.31.32:859][937]LogSlate: Window 'UI_Select' being destroyed
+[2023.02.20-12.31.47:661][701]LogTemp: Repeating last play command: 선택된 뷰포트
+[2023.02.20-12.31.47:666][701]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Book/Maps/Select.Select:PersistentLevel' has LevelScriptBlueprint '/Game/Book/Maps/Select.Select:PersistentLevel.Select' with GeneratedClass '/Game/Book/Maps/Select.Select_C' with ClassGeneratedBy '/Game/Book/Maps/Select.Select:PersistentLevel.Select'
+[2023.02.20-12.31.47:666][701]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.20-12.31.47:666][701]PIE: New page: PIE 세션: Select (2023. 2. 21. 오전 6:31:47)
+[2023.02.20-12.31.47:667][701]LogPlayLevel: Creating play world package: /Game/Book/Maps/UEDPIE_0_Select
+[2023.02.20-12.31.47:668][701]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001373s)
+[2023.02.20-12.31.47:668][701]LogAIModule: Creating AISystem for world Select
+[2023.02.20-12.31.47:668][701]LogPlayLevel: PIE: World Init took: (0.000474s)
+[2023.02.20-12.31.47:668][701]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Book/Maps/Select.Select to /Game/Book/Maps/UEDPIE_0_Select.Select (0.001925s)
+[2023.02.20-12.31.47:696][701]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2023.02.20-12.31.47:741][701]LogInit: XAudio2 using '스피커(USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2023.02.20-12.31.47:760][701]LogInit: FAudioDevice initialized.
+[2023.02.20-12.31.47:786][701]LogLoad: Game class is 'BP_SelectGameMode_C'
+[2023.02.20-12.31.47:787][701]LogWorld: Bringing World /Game/Book/Maps/UEDPIE_0_Select.Select up for play (max tick rate 0) at 2023.02.20-21.31.47
+[2023.02.20-12.31.47:787][701]LogWorld: Bringing up level for play took: 0.000510
+[2023.02.20-12.31.47:800][701]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2023.02.20-12.31.47:801][701]PIE: /Game/Book/Maps/UEDPIE_0_Select 에 대한 에디터에서 플레이 시작 시간: 0.758
+[2023.02.20-12.31.47:801][701]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Book/Maps/Select.Select:PersistentLevel' has LevelScriptBlueprint '/Game/Book/Maps/Select.Select:PersistentLevel.Select' with GeneratedClass '/Game/Book/Maps/Select.Select_C' with ClassGeneratedBy '/Game/Book/Maps/Select.Select:PersistentLevel.Select'
+[2023.02.20-12.31.49:481][902]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.02.20-12.32.02:332][327]LogNet: Browse: /Game/Book/Maps/GamePlay
+[2023.02.20-12.32.02:332][327]LogLoad: LoadMap: /Game/Book/Maps/GamePlay
+[2023.02.20-12.32.02:357][327]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2023.02.20-12.32.02:365][327]LogAIModule: Creating AISystem for world GamePlay
+[2023.02.20-12.32.02:366][327]LogLoad: Game class is 'ABGameMode'
+[2023.02.20-12.32.02:367][327]LogWorld: Bringing World /Game/Book/Maps/UEDPIE_0_GamePlay.GamePlay up for play (max tick rate 0) at 2023.02.20-21.32.02
+[2023.02.20-12.32.02:368][327]LogWorld: Bringing up level for play took: 0.001512
+[2023.02.20-12.32.02:368][327]ArenaBattle: Warning: AABPlayerController::PostInitializeComponents(20)
+[2023.02.20-12.32.02:369][327]ArenaBattle: Warning: AABPlayerController::OnPossess(25)
+[2023.02.20-12.32.02:370][327]ArenaBattle: Warning: AABPlayerState::GetExpRatio(70) Ratio : 0.000000, Current : 0, Next : 30
+[2023.02.20-12.32.02:370][327]LogLoad: Took 0.038261 seconds to LoadMap(/Game/Book/Maps/GamePlay)
+[2023.02.20-12.32.05:123][656]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Book/Maps/Select.Select:PersistentLevel' has LevelScriptBlueprint '/Game/Book/Maps/Select.Select:PersistentLevel.Select' with GeneratedClass '/Game/Book/Maps/Select.Select_C' with ClassGeneratedBy '/Game/Book/Maps/Select.Select:PersistentLevel.Select'
+[2023.02.20-12.32.05:124][656]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.20-12.32.05:150][656]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.20-12.32.05:151][656]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Book/Maps/Select.Select:PersistentLevel' has LevelScriptBlueprint '/Game/Book/Maps/Select.Select:PersistentLevel.Select' with GeneratedClass '/Game/Book/Maps/Select.Select_C' with ClassGeneratedBy '/Game/Book/Maps/Select.Select:PersistentLevel.Select'
+[2023.02.20-12.32.05:182][656]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.20-12.32.05:186][656]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2023.02.20-12.32.05:225][659]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2023.02.20-12.40.28:001][408]LogHotReload: New module detected: UE4Editor-ArenaBattle-0008.dll
+[2023.02.20-12.40.30:707][417]LogHotReload: Starting Hot-Reload from IDE
+[2023.02.20-12.40.30:748][417]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2023.02.20-12.40.30:748][417]LogBlueprintActionDatabase: Requesting refresh due to module change: ArenaBattle (unloaded)
+[2023.02.20-12.40.30:838][417]LogClass: Could not find existing class ABPlayerState in package /Script/ArenaBattle for HotReload, assuming new class
+[2023.02.20-12.40.30:838][417]LogClass: Could not find existing class ABSaveGame in package /Script/ArenaBattle for HotReload, assuming new class
+[2023.02.20-12.40.30:855][417]LogClass: ECharacterState HotReload.
+[2023.02.20-12.40.30:855][417]LogClass: ABCharacterData HotReload.
+[2023.02.20-12.40.30:862][417]LogHotReload: Re-instancing ABCharacter after hot-reload.
+[2023.02.20-12.40.30:996][417]LogHotReload: Re-instancing ABGameMode after hot-reload.
+[2023.02.20-12.40.31:138][417]LogHotReload: Re-instancing ABPlayerState after hot-reload.
+[2023.02.20-12.40.31:271][417]LogHotReload: Re-instancing ABSaveGame after hot-reload.
+[2023.02.20-12.40.31:405][417]LogBlueprintActionDatabase: Requesting refresh due to module change: ArenaBattle (loaded)
+[2023.02.20-12.40.31:405][417]LogContentBrowser: Native class hierarchy updated for 'ArenaBattle' in 0.0005 seconds. Added 23 classes and 2 folders.
+[2023.02.20-12.40.31:410][417]Display: HotReload successful (12 functions remapped  1 scriptstructs remapped)
+[2023.02.20-12.40.31:472][417]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2023.02.20-12.40.31:472][417]LogBlueprintActionDatabase: Requesting refresh due to hot reload
+[2023.02.20-12.40.31:482][417]LogContentBrowser: Native class hierarchy populated in 0.0092 seconds. Added 2757 classes and 666 folders.
+[2023.02.20-12.40.31:490][417]Display: HotReload took  0.8s.
+[2023.02.20-12.40.34:178][425]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2023.02.20-12.40.37:332][750]LogBlueprintActionDatabase: Requesting refresh due to module change: ExternalImagePicker (loaded)
+[2023.02.20-12.40.38:261][750]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2023.02.20-12.40.53:272][301]LogSlate: Window '프로젝트 세팅' being destroyed
+[2023.02.20-12.40.53:281][301]LogSlate: Window '프로젝트 세팅' being destroyed
+[2023.02.20-12.41.39:300][785]LogAIModule: Creating AISystem for world GamePlay
+[2023.02.20-12.41.39:303][785]LogAssetEditorManager: Opening Asset editor for World /Game/Book/Maps/GamePlay.GamePlay
+[2023.02.20-12.41.39:393][785]LogUObjectHash: Compacting FUObjectHashTables data took   4.04ms
+[2023.02.20-12.41.41:454][785]LogSlate: Window '콘텐츠 저장' being destroyed
+[2023.02.20-12.41.41:464][785]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Book/Maps/Select" FILE="D:/git/ArenaBattle/ArenaBattle/Content/Book/Maps/Select.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.02.20-12.41.41:515][785]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2023.02.20-12.41.41:661][785]LogSavePackage: Moving 'D:/git/ArenaBattle/ArenaBattle/Saved/Select36D0E1684150FD81CC6E1B995A11B6A2.tmp' to 'D:/git/ArenaBattle/ArenaBattle/Content/Book/Maps/Select.umap'
+[2023.02.20-12.41.41:669][785]LogFileHelpers: Saving map 'Select' took 0.204
+[2023.02.20-12.41.41:670][785]Cmd: MAP LOAD FILE="D:/git/ArenaBattle/ArenaBattle/Content/Book/Maps/GamePlay.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.02.20-12.41.41:670][785]LightingResults: New page: 라이팅 빌드
+[2023.02.20-12.41.41:670][785]LoadErrors: New page: 맵 로드중: GamePlay.umap
+[2023.02.20-12.41.41:671][785]MapCheck: New page: 맵 체크
+[2023.02.20-12.41.41:671][785]LightingResults: New page: 라이팅 빌드
+[2023.02.20-12.41.41:697][785]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2023.02.20-12.41.41:760][785]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.02.20-12.41.41:783][785]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2023.02.20-12.41.41:788][785]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.02.20-12.41.41:788][785]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.087ms.
+[2023.02.20-12.41.41:788][785]LogFileHelpers: Loading map 'GamePlay' took 0.120
+[2023.02.20-12.41.41:862][785]LogAIModule: Creating AISystem for world Select
+[2023.02.20-12.42.33:703][824]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2023.02.20-12.44.03:402][127]LogSlate: Window '프로젝트 세팅' being destroyed
+[2023.02.20-12.44.03:409][127]LogSlate: Window '프로젝트 세팅' being destroyed
+[2023.02.20-12.49.26:972][524]Candidate modules for hot reload:
+[2023.02.20-12.49.26:972][524]  ArenaBattle
+[2023.02.20-12.49.26:972][524]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=ArenaBattle,6050 Win64 Development -TargetType=Editor -Project="D:/git/ArenaBattle/ArenaBattle/ArenaBattle.uproject" "D:/git/ArenaBattle/ArenaBattle/ArenaBattle.uproject"  -IgnoreJunk]
+[2023.02.20-12.49.50:397][524]CompilerResultsLog: New page: 컴파일 - 2023. 2. 21. 오전 6:49:50
+[2023.02.20-12.49.50:397][524]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\git\ArenaBattle).
+[2023.02.20-12.49.50:397][524]CompilerResultsLog: Creating makefile for ArenaBattleEditor (ini files are newer than makefile)
+[2023.02.20-12.49.50:397][524]CompilerResultsLog: Parsing headers for ArenaBattleEditor
+[2023.02.20-12.49.50:397][524]CompilerResultsLog:   Running UnrealHeaderTool "D:\git\ArenaBattle\ArenaBattle\ArenaBattle.uproject" "D:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\ArenaBattleEditor\Development\ArenaBattleEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2023.02.20-12.49.50:397][524]CompilerResultsLog: Reflection code generated for ArenaBattleEditor in 4.8796671 seconds
+[2023.02.20-12.49.50:397][524]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2023.02.20-12.49.50:397][524]CompilerResultsLog: Building 11 actions with 6 processes...
+[2023.02.20-12.49.50:397][524]CompilerResultsLog:   [1/11] ArenaBattle.init.gen.cpp
+[2023.02.20-12.49.50:397][524]CompilerResultsLog:   [2/11] ABPlayerController.gen.cpp
+[2023.02.20-12.49.50:397][524]CompilerResultsLog:   [3/11] ABGameMode.cpp
+[2023.02.20-12.49.50:397][524]CompilerResultsLog:   [4/11] ABSection.cpp
+[2023.02.20-12.49.50:397][524]CompilerResultsLog:   [5/11] ABGamePlayWidget.gen.cpp
+[2023.02.20-12.49.50:397][524]CompilerResultsLog:   [6/11] ABGamePlayWidget.cpp
+[2023.02.20-12.49.50:397][524]CompilerResultsLog:   [7/11] ABCharacter.cpp
+[2023.02.20-12.49.50:397][524]CompilerResultsLog:   D:\git\ArenaBattle\ArenaBattle\Source\ArenaBattle\Private\ABCharacter.cpp(352): warning C4458: 'ABPlayerController' ?????? Ŭ???? ?????? ?????ϴ?.
+[2023.02.20-12.49.50:397][524]CompilerResultsLog:   D:\git\ArenaBattle\ArenaBattle\Source\ArenaBattle\Public\ABCharacter.h(132): note: 'AABCharacter::ABPlayerController' ?????? ?????Ͻʽÿ?.
+[2023.02.20-12.49.50:397][524]CompilerResultsLog:   [8/11] ABPlayerController.cpp
+[2023.02.20-12.49.50:397][524]CompilerResultsLog:   [9/11] UE4Editor-ArenaBattle-6050.lib
+[2023.02.20-12.49.50:397][524]CompilerResultsLog:      D:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\UE4Editor-ArenaBattle-6050.lib ???̺귯?? ?? D:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\UE4Editor-ArenaBattle-6050.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2023.02.20-12.49.50:397][524]CompilerResultsLog:   [10/11] UE4Editor-ArenaBattle-6050.dll
+[2023.02.20-12.49.50:397][524]CompilerResultsLog:      D:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\UE4Editor-ArenaBattle-6050.suppressed.lib ???̺귯?? ?? D:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\UE4Editor-ArenaBattle-6050.suppressed.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2023.02.20-12.49.50:397][524]CompilerResultsLog:   [11/11] ArenaBattleEditor.target
+[2023.02.20-12.49.50:397][524]CompilerResultsLog: Total time in Parallel executor: 16.62 seconds
+[2023.02.20-12.49.50:397][524]CompilerResultsLog: Total execution time: 23.33 seconds
+[2023.02.20-12.49.50:397][524]LogMainFrame: MainFrame: Module compiling took 23.429 seconds
+[2023.02.20-12.49.50:439][524]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2023.02.20-12.49.50:439][524]LogBlueprintActionDatabase: Requesting refresh due to module change: ArenaBattle (unloaded)
+[2023.02.20-12.49.50:495][524]LogClass: Could not find existing class ABGamePlayWidget in package /Script/ArenaBattle for HotReload, assuming new class
+[2023.02.20-12.49.50:528][524]LogClass: ECharacterState HotReload.
+[2023.02.20-12.49.50:528][524]LogClass: ABCharacterData HotReload.
+[2023.02.20-12.49.50:568][524]LogBlueprintActionDatabase: Requesting refresh due to module change: ArenaBattle (loaded)
+[2023.02.20-12.49.50:569][524]LogContentBrowser: Native class hierarchy updated for 'ArenaBattle' in 0.0008 seconds. Added 24 classes and 2 folders.
+[2023.02.20-12.49.50:574][524]Display: HotReload successful (12 functions remapped  1 scriptstructs remapped)
+[2023.02.20-12.49.50:644][524]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2023.02.20-12.49.50:644][524]LogBlueprintActionDatabase: Requesting refresh due to hot reload
+[2023.02.20-12.49.50:656][524]LogContentBrowser: Native class hierarchy populated in 0.0111 seconds. Added 2758 classes and 666 folders.
+[2023.02.20-12.49.50:664][524]Display: HotReload took 23.7s.
+[2023.02.20-12.49.50:665][524]Warning: HotReload operation took 23.7s.
+[2023.02.20-12.49.50:792][524]LogVSAccessor: Warning: Couldn't goto line number '1' in 'D:/git/ArenaBattle/ArenaBattle/Source/ArenaBattle/Public/ABGamePlayWidget.h'
+[2023.02.20-12.49.50:898][524]LogVSAccessor: Warning: Couldn't goto line number '1' in 'D:/git/ArenaBattle/ArenaBattle/Source/ArenaBattle/Private/ABGamePlayWidget.cpp'
+[2023.02.20-12.49.50:911][524]LogSlate: Window 'C++ 클래스 추가' being destroyed
+[2023.02.20-12.49.51:158][524]LogHotReload: New module detected: UE4Editor-ArenaBattle-6050.dll
+[2023.02.20-12.49.51:207][525]LogHotReload: Starting Hot-Reload from IDE
+[2023.02.20-12.49.51:276][525]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2023.02.20-12.49.51:276][525]LogBlueprintActionDatabase: Requesting refresh due to module change: ArenaBattle (unloaded)
+[2023.02.20-12.49.51:281][525]LogBlueprintActionDatabase: Requesting refresh due to module change: ArenaBattle (loaded)
+[2023.02.20-12.49.51:281][525]LogContentBrowser: Native class hierarchy updated for 'ArenaBattle' in 0.0005 seconds. Added 24 classes and 2 folders.
+[2023.02.20-12.49.51:286][525]Display: HotReload successful (0 functions remapped  1 scriptstructs remapped)
+[2023.02.20-12.49.51:323][525]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2023.02.20-12.49.51:323][525]LogBlueprintActionDatabase: Requesting refresh due to hot reload
+[2023.02.20-12.49.51:332][525]LogContentBrowser: Native class hierarchy populated in 0.0085 seconds. Added 2758 classes and 666 folders.
+[2023.02.20-12.49.51:340][525]Display: HotReload took  0.1s.
+[2023.02.20-12.49.51:353][525]ArenaBattle: Error: UABCharacterStatComponent::SetNewLevel(34) ASSERTION : 'nullptr != ABGameInstance'
+[2023.02.20-12.50.41:029][775]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Book/UI/UI_Menu.UI_Menu
+[2023.02.20-12.50.49:546][638]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2023.02.20-12.50.52:425][953]LogBlueprint: Warning: Reparenting blueprint WidgetBlueprint /Game/Book/UI/UI_Menu.UI_Menu from UserWidget to ABGamePlayWidget...
+[2023.02.20-12.50.52:430][953]BlueprintLog: New page: UI_Menu 컴파일
+[2023.02.20-12.50.52:491][953]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2023.02.20-12.51.00:093][791]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Book/UI/UI_Menu" FILE="D:/git/ArenaBattle/ArenaBattle/Content/Book/UI/UI_Menu.uasset" SILENT=true
+[2023.02.20-12.51.00:105][791]LogSavePackage: Moving 'D:/git/ArenaBattle/ArenaBattle/Saved/UI_MenuC03A839A4777219F7FBD7CA631038ECC.tmp' to 'D:/git/ArenaBattle/ArenaBattle/Content/Book/UI/UI_Menu.uasset'
+[2023.02.20-12.51.00:499][827]BlueprintLog: New page: UI_Menu 컴파일
+[2023.02.20-12.51.00:524][827]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2023.02.20-12.51.01:563][936]LogSlate: Window 'UI_Menu' being destroyed
+[2023.02.20-12.51.01:572][936]LogSlate: Window 'UI_Menu' being destroyed
+[2023.02.20-12.55.04:010][884]LogHotReload: New module detected: UE4Editor-ArenaBattle-0010.dll
+[2023.02.20-12.55.06:703][893]LogHotReload: Starting Hot-Reload from IDE
+[2023.02.20-12.55.06:744][893]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2023.02.20-12.55.06:744][893]LogBlueprintActionDatabase: Requesting refresh due to module change: ArenaBattle (unloaded)
+[2023.02.20-12.55.06:800][893]LogClass: Could not find existing class ABGamePlayWidget in package /Script/ArenaBattle for HotReload, assuming new class
+[2023.02.20-12.55.06:800][893]LogClass: Function OnResumeClicked is new.
+[2023.02.20-12.55.06:800][893]LogClass: Function OnRetryGameClicked is new.
+[2023.02.20-12.55.06:800][893]LogClass: Function OnReturnToTitleClicked is new.
+[2023.02.20-12.55.06:825][893]LogClass: ECharacterState HotReload.
+[2023.02.20-12.55.06:825][893]LogClass: ABCharacterData HotReload.
+[2023.02.20-12.55.06:837][893]LogHotReload: Re-instancing ABGamePlayWidget after hot-reload.
+[2023.02.20-12.55.06:977][893]LogBlueprintActionDatabase: Requesting refresh due to module change: ArenaBattle (loaded)
+[2023.02.20-12.55.06:977][893]LogContentBrowser: Native class hierarchy updated for 'ArenaBattle' in 0.0004 seconds. Added 24 classes and 2 folders.
+[2023.02.20-12.55.06:982][893]Display: HotReload successful (12 functions remapped  1 scriptstructs remapped)
+[2023.02.20-12.55.07:045][893]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2023.02.20-12.55.07:045][893]LogBlueprintActionDatabase: Requesting refresh due to hot reload
+[2023.02.20-12.55.07:054][893]LogContentBrowser: Native class hierarchy populated in 0.0083 seconds. Added 2758 classes and 666 folders.
+[2023.02.20-12.55.07:063][893]Display: HotReload took  0.4s.
+[2023.02.20-12.55.09:500][ 14]LogTemp: Repeating last play command: 선택된 뷰포트
+[2023.02.20-12.55.09:506][ 14]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Book/Maps/GamePlay.GamePlay:PersistentLevel' has LevelScriptBlueprint '/Game/Book/Maps/GamePlay.GamePlay:PersistentLevel.GamePlay' with GeneratedClass '/Game/Book/Maps/GamePlay.GamePlay_C' with ClassGeneratedBy '/Game/Book/Maps/GamePlay.GamePlay:PersistentLevel.GamePlay'
+[2023.02.20-12.55.09:506][ 14]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.20-12.55.09:507][ 14]PIE: New page: PIE 세션: GamePlay (2023. 2. 21. 오전 6:55:09)
+[2023.02.20-12.55.09:507][ 14]LogPlayLevel: Creating play world package: /Game/Book/Maps/UEDPIE_0_GamePlay
+[2023.02.20-12.55.09:510][ 14]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003221s)
+[2023.02.20-12.55.09:510][ 14]LogAIModule: Creating AISystem for world GamePlay
+[2023.02.20-12.55.09:511][ 14]LogPlayLevel: PIE: World Init took: (0.000603s)
+[2023.02.20-12.55.09:511][ 14]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Book/Maps/GamePlay.GamePlay to /Game/Book/Maps/UEDPIE_0_GamePlay.GamePlay (0.004021s)
+[2023.02.20-12.55.09:565][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2023.02.20-12.55.09:615][ 14]LogInit: XAudio2 using '스피커(USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2023.02.20-12.55.09:639][ 14]LogInit: FAudioDevice initialized.
+[2023.02.20-12.55.09:671][ 14]LogLoad: Game class is 'ABGameMode'
+[2023.02.20-12.55.09:672][ 14]LogWorld: Bringing World /Game/Book/Maps/UEDPIE_0_GamePlay.GamePlay up for play (max tick rate 0) at 2023.02.20-21.55.09
+[2023.02.20-12.55.09:672][ 14]LogWorld: Bringing up level for play took: 0.000925
+[2023.02.20-12.55.09:684][ 14]ArenaBattle: Warning: AABPlayerController::PostInitializeComponents(20)
+[2023.02.20-12.55.09:685][ 14]ArenaBattle: Warning: AABPlayerController::OnPossess(25)
+[2023.02.20-12.55.09:687][ 14]ArenaBattle: Warning: AABPlayerState::GetExpRatio(78) Ratio : 0.000000, Current : 0, Next : 30
+[2023.02.20-12.55.09:687][ 14]PIE: /Game/Book/Maps/UEDPIE_0_GamePlay 에 대한 에디터에서 플레이 시작 시간: 0.644
+[2023.02.20-12.55.09:687][ 14]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Book/Maps/GamePlay.GamePlay:PersistentLevel' has LevelScriptBlueprint '/Game/Book/Maps/GamePlay.GamePlay:PersistentLevel.GamePlay' with GeneratedClass '/Game/Book/Maps/GamePlay.GamePlay_C' with ClassGeneratedBy '/Game/Book/Maps/GamePlay.GamePlay:PersistentLevel.GamePlay'
+[2023.02.20-12.55.20:485][303]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Book/Maps/GamePlay.GamePlay:PersistentLevel' has LevelScriptBlueprint '/Game/Book/Maps/GamePlay.GamePlay:PersistentLevel.GamePlay' with GeneratedClass '/Game/Book/Maps/GamePlay.GamePlay_C' with ClassGeneratedBy '/Game/Book/Maps/GamePlay.GamePlay:PersistentLevel.GamePlay'
+[2023.02.20-12.55.20:485][303]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.20-12.55.20:514][303]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.20-12.55.20:514][303]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Book/Maps/GamePlay.GamePlay:PersistentLevel' has LevelScriptBlueprint '/Game/Book/Maps/GamePlay.GamePlay:PersistentLevel.GamePlay' with GeneratedClass '/Game/Book/Maps/GamePlay.GamePlay_C' with ClassGeneratedBy '/Game/Book/Maps/GamePlay.GamePlay:PersistentLevel.GamePlay'
+[2023.02.20-12.55.20:541][303]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.20-12.55.20:564][303]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2023.02.20-12.55.20:587][304]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2023.02.20-12.55.21:756][440]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2023.02.20-12.55.23:399][624]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2023.02.20-12.55.24:215][624]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2023.02.20-12.55.31:224][422]LogSlate: Window '프로젝트 세팅' being destroyed
+[2023.02.20-12.55.31:232][422]LogSlate: Window '프로젝트 세팅' being destroyed
+[2023.02.20-13.02.19:465][785]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.02.20-13.08.36:431][285]LogHotReload: New module detected: UE4Editor-ArenaBattle-0011.dll
+[2023.02.20-13.08.39:129][294]LogHotReload: Starting Hot-Reload from IDE
+[2023.02.20-13.08.39:162][294]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2023.02.20-13.08.39:162][294]LogBlueprintActionDatabase: Requesting refresh due to module change: ArenaBattle (unloaded)
+[2023.02.20-13.08.39:223][294]LogClass: Could not find existing class ABPlayerController in package /Script/ArenaBattle for HotReload, assuming new class
+[2023.02.20-13.08.39:243][294]LogClass: ECharacterState HotReload.
+[2023.02.20-13.08.39:243][294]LogClass: ABCharacterData HotReload.
+[2023.02.20-13.08.39:250][294]LogHotReload: Re-instancing ABCharacter after hot-reload.
+[2023.02.20-13.08.39:382][294]LogHotReload: Re-instancing ABGameMode after hot-reload.
+[2023.02.20-13.08.39:521][294]LogHotReload: Re-instancing ABPlayerController after hot-reload.
+[2023.02.20-13.08.39:657][294]LogBlueprintActionDatabase: Requesting refresh due to module change: ArenaBattle (loaded)
+[2023.02.20-13.08.39:657][294]LogContentBrowser: Native class hierarchy updated for 'ArenaBattle' in 0.0007 seconds. Added 24 classes and 2 folders.
+[2023.02.20-13.08.39:663][294]Display: HotReload successful (15 functions remapped  1 scriptstructs remapped)
+[2023.02.20-13.08.39:738][294]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2023.02.20-13.08.39:738][294]LogBlueprintActionDatabase: Requesting refresh due to hot reload
+[2023.02.20-13.08.39:747][294]LogContentBrowser: Native class hierarchy populated in 0.0092 seconds. Added 2758 classes and 666 folders.
+[2023.02.20-13.08.39:758][294]Display: HotReload took  0.6s.
+[2023.02.20-13.08.54:104][617]LogTemp: Repeating last play command: 선택된 뷰포트
+[2023.02.20-13.08.54:110][617]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Book/Maps/GamePlay.GamePlay:PersistentLevel' has LevelScriptBlueprint '/Game/Book/Maps/GamePlay.GamePlay:PersistentLevel.GamePlay' with GeneratedClass '/Game/Book/Maps/GamePlay.GamePlay_C' with ClassGeneratedBy '/Game/Book/Maps/GamePlay.GamePlay:PersistentLevel.GamePlay'
+[2023.02.20-13.08.54:110][617]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.20-13.08.54:110][617]PIE: New page: PIE 세션: GamePlay (2023. 2. 21. 오전 7:08:54)
+[2023.02.20-13.08.54:110][617]LogPlayLevel: Creating play world package: /Game/Book/Maps/UEDPIE_0_GamePlay
+[2023.02.20-13.08.54:113][617]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003206s)
+[2023.02.20-13.08.54:114][617]LogAIModule: Creating AISystem for world GamePlay
+[2023.02.20-13.08.54:114][617]LogPlayLevel: PIE: World Init took: (0.000616s)
+[2023.02.20-13.08.54:114][617]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Book/Maps/GamePlay.GamePlay to /Game/Book/Maps/UEDPIE_0_GamePlay.GamePlay (0.003938s)
+[2023.02.20-13.08.54:173][617]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2023.02.20-13.08.54:219][617]LogInit: XAudio2 using '스피커(USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2023.02.20-13.08.54:237][617]LogInit: FAudioDevice initialized.
+[2023.02.20-13.08.54:263][617]LogLoad: Game class is 'ABGameMode'
+[2023.02.20-13.08.54:264][617]LogWorld: Bringing World /Game/Book/Maps/UEDPIE_0_GamePlay.GamePlay up for play (max tick rate 0) at 2023.02.20-22.08.54
+[2023.02.20-13.08.54:264][617]LogWorld: Bringing up level for play took: 0.000981
+[2023.02.20-13.08.54:276][617]ArenaBattle: Warning: AABPlayerController::PostInitializeComponents(27)
+[2023.02.20-13.08.54:277][617]ArenaBattle: Warning: AABPlayerController::OnPossess(32)
+[2023.02.20-13.08.54:278][617]ArenaBattle: Warning: AABPlayerState::GetExpRatio(78) Ratio : 0.000000, Current : 0, Next : 30
+[2023.02.20-13.08.54:279][617]PIE: /Game/Book/Maps/UEDPIE_0_GamePlay 에 대한 에디터에서 플레이 시작 시간: -0.764
+[2023.02.20-13.08.54:279][617]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Book/Maps/GamePlay.GamePlay:PersistentLevel' has LevelScriptBlueprint '/Game/Book/Maps/GamePlay.GamePlay:PersistentLevel.GamePlay' with GeneratedClass '/Game/Book/Maps/GamePlay.GamePlay_C' with ClassGeneratedBy '/Game/Book/Maps/GamePlay.GamePlay:PersistentLevel.GamePlay'
+[2023.02.20-13.08.57:000][940]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.02.20-13.08.58:982][173]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Book/Maps/GamePlay.GamePlay:PersistentLevel' has LevelScriptBlueprint '/Game/Book/Maps/GamePlay.GamePlay:PersistentLevel.GamePlay' with GeneratedClass '/Game/Book/Maps/GamePlay.GamePlay_C' with ClassGeneratedBy '/Game/Book/Maps/GamePlay.GamePlay:PersistentLevel.GamePlay'
+[2023.02.20-13.08.58:982][173]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.20-13.08.59:008][173]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.20-13.08.59:008][173]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Book/Maps/GamePlay.GamePlay:PersistentLevel' has LevelScriptBlueprint '/Game/Book/Maps/GamePlay.GamePlay:PersistentLevel.GamePlay' with GeneratedClass '/Game/Book/Maps/GamePlay.GamePlay_C' with ClassGeneratedBy '/Game/Book/Maps/GamePlay.GamePlay:PersistentLevel.GamePlay'
+[2023.02.20-13.08.59:035][173]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.20-13.08.59:039][173]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2023.02.20-13.08.59:082][177]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2023.02.20-13.08.59:374][212]Cmd: SELECT NONE
+[2023.02.20-13.08.59:602][239]Cmd: SELECT NONE
+[2023.02.20-13.08.59:823][265]Cmd: SELECT NONE
+[2023.02.20-13.09.00:311][323]Cmd: SELECT NONE
+[2023.02.20-13.12.33:051][180]LogHotReload: New module detected: UE4Editor-ArenaBattle-0012.dll
+[2023.02.20-13.12.35:753][189]LogHotReload: Starting Hot-Reload from IDE
+[2023.02.20-13.12.35:783][189]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2023.02.20-13.12.35:783][189]LogBlueprintActionDatabase: Requesting refresh due to module change: ArenaBattle (unloaded)
+[2023.02.20-13.12.35:861][189]LogClass: ECharacterState HotReload.
+[2023.02.20-13.12.35:861][189]LogClass: ABCharacterData HotReload.
+[2023.02.20-13.12.35:867][189]LogHotReload: Re-instancing ABCharacter after hot-reload.
+[2023.02.20-13.12.36:003][189]LogBlueprintActionDatabase: Requesting refresh due to module change: ArenaBattle (loaded)
+[2023.02.20-13.12.36:003][189]LogContentBrowser: Native class hierarchy updated for 'ArenaBattle' in 0.0004 seconds. Added 24 classes and 2 folders.
+[2023.02.20-13.12.36:008][189]Display: HotReload successful (15 functions remapped  1 scriptstructs remapped)
+[2023.02.20-13.12.36:066][189]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2023.02.20-13.12.36:066][189]LogBlueprintActionDatabase: Requesting refresh due to hot reload
+[2023.02.20-13.12.36:075][189]LogContentBrowser: Native class hierarchy populated in 0.0083 seconds. Added 2758 classes and 666 folders.
+[2023.02.20-13.12.36:083][189]Display: HotReload took  0.3s.
+[2023.02.20-13.12.36:905][192]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2023.02.20-13.12.38:058][283]LogTemp: Repeating last play command: 선택된 뷰포트
+[2023.02.20-13.12.38:064][283]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Book/Maps/GamePlay.GamePlay:PersistentLevel' has LevelScriptBlueprint '/Game/Book/Maps/GamePlay.GamePlay:PersistentLevel.GamePlay' with GeneratedClass '/Game/Book/Maps/GamePlay.GamePlay_C' with ClassGeneratedBy '/Game/Book/Maps/GamePlay.GamePlay:PersistentLevel.GamePlay'
+[2023.02.20-13.12.38:064][283]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.20-13.12.38:064][283]PIE: New page: PIE 세션: GamePlay (2023. 2. 21. 오전 7:12:38)
+[2023.02.20-13.12.38:064][283]LogPlayLevel: Creating play world package: /Game/Book/Maps/UEDPIE_0_GamePlay
+[2023.02.20-13.12.38:068][283]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003362s)
+[2023.02.20-13.12.38:068][283]LogAIModule: Creating AISystem for world GamePlay
+[2023.02.20-13.12.38:069][283]LogPlayLevel: PIE: World Init took: (0.000831s)
+[2023.02.20-13.12.38:069][283]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Book/Maps/GamePlay.GamePlay to /Game/Book/Maps/UEDPIE_0_GamePlay.GamePlay (0.004325s)
+[2023.02.20-13.12.38:122][283]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2023.02.20-13.12.38:164][283]LogInit: XAudio2 using '스피커(USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2023.02.20-13.12.38:182][283]LogInit: FAudioDevice initialized.
+[2023.02.20-13.12.38:211][283]LogLoad: Game class is 'ABGameMode'
+[2023.02.20-13.12.38:212][283]LogWorld: Bringing World /Game/Book/Maps/UEDPIE_0_GamePlay.GamePlay up for play (max tick rate 0) at 2023.02.20-22.12.38
+[2023.02.20-13.12.38:212][283]LogWorld: Bringing up level for play took: 0.000895
+[2023.02.20-13.12.38:224][283]ArenaBattle: Warning: AABPlayerController::PostInitializeComponents(27)
+[2023.02.20-13.12.38:225][283]ArenaBattle: Warning: AABPlayerController::OnPossess(32)
+[2023.02.20-13.12.38:226][283]ArenaBattle: Warning: AABPlayerState::GetExpRatio(78) Ratio : 0.000000, Current : 0, Next : 30
+[2023.02.20-13.12.38:227][283]PIE: /Game/Book/Maps/UEDPIE_0_GamePlay 에 대한 에디터에서 플레이 시작 시간: -0.816
+[2023.02.20-13.12.38:227][283]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Book/Maps/GamePlay.GamePlay:PersistentLevel' has LevelScriptBlueprint '/Game/Book/Maps/GamePlay.GamePlay:PersistentLevel.GamePlay' with GeneratedClass '/Game/Book/Maps/GamePlay.GamePlay_C' with ClassGeneratedBy '/Game/Book/Maps/GamePlay.GamePlay:PersistentLevel.GamePlay'
+[2023.02.20-13.12.40:721][580]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.02.20-13.12.41:930][725]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.02.20-13.12.42:048][739]LogNet: Browse: /Game/Book/Maps/Title
+[2023.02.20-13.12.42:048][739]LogLoad: LoadMap: /Game/Book/Maps/Title
+[2023.02.20-13.12.42:090][739]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2023.02.20-13.12.42:097][739]LogAIModule: Creating AISystem for world Title
+[2023.02.20-13.12.42:098][739]LogLoad: Game class is 'BP_SelectGameMode_C'
+[2023.02.20-13.12.42:098][739]LogWorld: Bringing World /Game/Book/Maps/UEDPIE_0_Title.Title up for play (max tick rate 0) at 2023.02.20-22.12.42
+[2023.02.20-13.12.42:099][739]LogWorld: Bringing up level for play took: 0.000459
+[2023.02.20-13.12.42:099][739]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.02.20-13.12.42:100][739]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2023.02.20-13.12.42:100][739]LogLoad: Took 0.052086 seconds to LoadMap(/Game/Book/Maps/Title)
+[2023.02.20-13.12.44:518][ 28]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Book/Maps/GamePlay.GamePlay:PersistentLevel' has LevelScriptBlueprint '/Game/Book/Maps/GamePlay.GamePlay:PersistentLevel.GamePlay' with GeneratedClass '/Game/Book/Maps/GamePlay.GamePlay_C' with ClassGeneratedBy '/Game/Book/Maps/GamePlay.GamePlay:PersistentLevel.GamePlay'
+[2023.02.20-13.12.44:518][ 28]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.20-13.12.44:544][ 28]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.20-13.12.44:544][ 28]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Book/Maps/GamePlay.GamePlay:PersistentLevel' has LevelScriptBlueprint '/Game/Book/Maps/GamePlay.GamePlay:PersistentLevel.GamePlay' with GeneratedClass '/Game/Book/Maps/GamePlay.GamePlay_C' with ClassGeneratedBy '/Game/Book/Maps/GamePlay.GamePlay:PersistentLevel.GamePlay'
+[2023.02.20-13.12.44:568][ 28]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.20-13.12.44:571][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2023.02.20-13.12.44:617][ 33]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2023.02.20-13.12.44:693][ 42]Cmd: SELECT NONE
+[2023.02.20-13.12.45:145][ 95]Cmd: SELECT NONE
+[2023.02.20-13.12.57:148][527]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2023.02.20-13.12.58:640][675]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2023.02.20-13.13.00:114][828]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2023.02.20-13.13.24:182][686]Candidate modules for hot reload:
+[2023.02.20-13.13.24:182][686]  ArenaBattle
+[2023.02.20-13.13.24:182][686]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=ArenaBattle,344 Win64 Development -TargetType=Editor -Project="D:/git/ArenaBattle/ArenaBattle/ArenaBattle.uproject" "D:/git/ArenaBattle/ArenaBattle/ArenaBattle.uproject"  -IgnoreJunk]
+[2023.02.20-13.13.43:976][686]CompilerResultsLog: New page: 컴파일 - 2023. 2. 21. 오전 7:13:43
+[2023.02.20-13.13.43:976][686]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\git\ArenaBattle).
+[2023.02.20-13.13.43:976][686]CompilerResultsLog: Creating makefile for ArenaBattleEditor (ini files are newer than makefile)
+[2023.02.20-13.13.43:976][686]CompilerResultsLog: Parsing headers for ArenaBattleEditor
+[2023.02.20-13.13.43:976][686]CompilerResultsLog:   Running UnrealHeaderTool "D:\git\ArenaBattle\ArenaBattle\ArenaBattle.uproject" "D:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\ArenaBattleEditor\Development\ArenaBattleEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2023.02.20-13.13.43:976][686]CompilerResultsLog: Reflection code generated for ArenaBattleEditor in 4.7508108 seconds
+[2023.02.20-13.13.43:976][686]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2023.02.20-13.13.43:976][686]CompilerResultsLog: Building 6 actions with 6 processes...
+[2023.02.20-13.13.43:976][686]CompilerResultsLog:   [1/6] ArenaBattle.init.gen.cpp
+[2023.02.20-13.13.43:976][686]CompilerResultsLog:   [2/6] ABGamePlayResultWidget.cpp
+[2023.02.20-13.13.43:976][686]CompilerResultsLog:   [3/6] ABGamePlayResultWidget.gen.cpp
+[2023.02.20-13.13.43:976][686]CompilerResultsLog:   [4/6] UE4Editor-ArenaBattle-0344.lib
+[2023.02.20-13.13.43:976][686]CompilerResultsLog:      D:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\UE4Editor-ArenaBattle-0344.lib ???̺귯?? ?? D:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\UE4Editor-ArenaBattle-0344.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2023.02.20-13.13.43:976][686]CompilerResultsLog:   [5/6] UE4Editor-ArenaBattle-0344.dll
+[2023.02.20-13.13.43:976][686]CompilerResultsLog:      D:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\UE4Editor-ArenaBattle-0344.suppressed.lib ???̺귯?? ?? D:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\UE4Editor-ArenaBattle-0344.suppressed.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2023.02.20-13.13.43:976][686]CompilerResultsLog:   [6/6] ArenaBattleEditor.target
+[2023.02.20-13.13.43:976][686]CompilerResultsLog: Total time in Parallel executor: 13.08 seconds
+[2023.02.20-13.13.43:976][686]CompilerResultsLog: Total execution time: 19.70 seconds
+[2023.02.20-13.13.43:976][686]LogMainFrame: MainFrame: Module compiling took 19.798 seconds
+[2023.02.20-13.13.44:001][686]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2023.02.20-13.13.44:001][686]LogBlueprintActionDatabase: Requesting refresh due to hot reload
+[2023.02.20-13.13.44:010][686]LogContentBrowser: Native class hierarchy populated in 0.0088 seconds. Added 2758 classes and 666 folders.
+[2023.02.20-13.13.44:016][686]Display: HotReload took 19.8s.
+[2023.02.20-13.13.44:017][686]Warning: HotReload operation took 19.8s.
+[2023.02.20-13.13.44:042][686]LogVSAccessor: Couldn't get item operations. Visual Studio may still be initializing.
+[2023.02.20-13.13.44:043][686]LogSlate: Window 'C++ 클래스 추가' being destroyed
+[2023.02.20-13.13.44:413][686]LogVSAccessor: Warning: Couldn't goto line number '1' in 'D:/git/ArenaBattle/ArenaBattle/Source/ArenaBattle/Public/ABGamePlayResultWidget.h'
+[2023.02.20-13.13.44:587][686]LogHotReload: New module detected: UE4Editor-ArenaBattle-0344.dll
+[2023.02.20-13.13.44:619][687]LogHotReload: Starting Hot-Reload from IDE
+[2023.02.20-13.13.44:624][687]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2023.02.20-13.13.44:697][687]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2023.02.20-13.13.44:697][687]LogBlueprintActionDatabase: Requesting refresh due to module change: ArenaBattle (unloaded)
+[2023.02.20-13.13.44:738][687]LogClass: Could not find existing class ABGamePlayResultWidget in package /Script/ArenaBattle for HotReload, assuming new class
+[2023.02.20-13.13.44:771][687]LogClass: ECharacterState HotReload.
+[2023.02.20-13.13.44:771][687]LogClass: ABCharacterData HotReload.
+[2023.02.20-13.13.44:778][687]LogHotReload: Re-instancing ABCharacter after hot-reload.
+[2023.02.20-13.13.44:914][687]LogBlueprintActionDatabase: Requesting refresh due to module change: ArenaBattle (loaded)
+[2023.02.20-13.13.44:915][687]LogContentBrowser: Native class hierarchy updated for 'ArenaBattle' in 0.0007 seconds. Added 25 classes and 2 folders.
+[2023.02.20-13.13.44:919][687]Display: HotReload successful (15 functions remapped  1 scriptstructs remapped)
+[2023.02.20-13.13.45:014][687]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2023.02.20-13.13.45:014][687]LogBlueprintActionDatabase: Requesting refresh due to hot reload
+[2023.02.20-13.13.45:023][687]LogContentBrowser: Native class hierarchy populated in 0.0094 seconds. Added 2759 classes and 666 folders.
+[2023.02.20-13.13.45:033][687]Display: HotReload took  0.4s.
+[2023.02.20-13.17.55:843][758]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.02.20-13.17.56:011][775]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Book/UI/UI_Result.UI_Result
+[2023.02.20-13.17.59:592][108]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2023.02.20-13.18.03:733][541]LogBlueprint: Warning: Reparenting blueprint WidgetBlueprint /Game/Book/UI/UI_Result.UI_Result from UserWidget to ABGamePlayResultWidget...
+[2023.02.20-13.18.03:737][541]BlueprintLog: New page: UI_Result 컴파일
+[2023.02.20-13.18.03:795][541]LogUObjectHash: Compacting FUObjectHashTables data took   4.25ms
+[2023.02.20-13.18.06:835][877]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Book/UI/UI_Result" FILE="D:/git/ArenaBattle/ArenaBattle/Content/Book/UI/UI_Result.uasset" SILENT=true
+[2023.02.20-13.18.06:849][877]LogSavePackage: Moving 'D:/git/ArenaBattle/ArenaBattle/Saved/UI_Result1DA26B4B4BDF9BAF4EA2678502C5E0FF.tmp' to 'D:/git/ArenaBattle/ArenaBattle/Content/Book/UI/UI_Result.uasset'
+[2023.02.20-13.18.07:189][907]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.02.20-13.18.07:265][916]BlueprintLog: New page: UI_Result 컴파일
+[2023.02.20-13.18.07:290][916]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2023.02.20-13.18.09:353][124]LogSlate: Window 'UI_Result' being destroyed
+[2023.02.20-13.18.09:362][124]LogSlate: Window 'UI_Result' being destroyed
+[2023.02.20-13.21.02:829][624]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.02.20-13.52.16:570][655]LogHotReload: New module detected: UE4Editor-ArenaBattle-0014.dll
+[2023.02.20-13.52.19:252][664]LogHotReload: Starting Hot-Reload from IDE
+[2023.02.20-13.52.19:345][664]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2023.02.20-13.52.19:345][664]LogBlueprintActionDatabase: Requesting refresh due to module change: ArenaBattle (unloaded)
+[2023.02.20-13.52.19:399][664]LogClass: Could not find existing class ABGameMode in package /Script/ArenaBattle for HotReload, assuming new class
+[2023.02.20-13.52.19:399][664]LogClass: Could not find existing class ABGamePlayResultWidget in package /Script/ArenaBattle for HotReload, assuming new class
+[2023.02.20-13.52.19:401][664]LogClass: Could not find existing class ABGameState in package /Script/ArenaBattle for HotReload, assuming new class
+[2023.02.20-13.52.19:406][664]LogClass: Could not find existing class ABPlayerController in package /Script/ArenaBattle for HotReload, assuming new class
+[2023.02.20-13.52.19:426][664]LogClass: ECharacterState HotReload.
+[2023.02.20-13.52.19:426][664]LogClass: ABCharacterData HotReload.
+[2023.02.20-13.52.19:426][664]LogUObjectGlobals: Warning: WidgetBlueprintGeneratedClass /Game/Book/UI/UI_Result.UI_Result_C 클래스는 Class /Script/ArenaBattle.ABGamePlayResultWidget 의 자손 클래스가 아닙니다.
+[2023.02.20-13.52.19:426][664]Error: CDO Constructor (ABPlayerController): Failed to find /Game/Book/UI/UI_Result.UI_Result_C
+
+[2023.02.20-13.52.19:426][664]LogUObjectBase: Warning: -------------- Default Property warnings and errors:
+[2023.02.20-13.52.19:426][664]LogUObjectBase: Warning: Error: CDO Constructor (ABPlayerController): Failed to find /Game/Book/UI/UI_Result.UI_Result_C
+
+[2023.02.20-13.53.04:312][664]LogSlate: Window '메시지' being destroyed
+[2023.02.20-13.53.04:334][664]LogHotReload: Re-instancing ABGameMode after hot-reload.
+[2023.02.20-13.53.04:471][664]LogHotReload: Re-instancing ABGamePlayResultWidget after hot-reload.
+[2023.02.20-13.53.04:616][664]LogHotReload: Re-instancing ABGameState after hot-reload.
+[2023.02.20-13.53.04:759][664]LogHotReload: Re-instancing ABPlayerController after hot-reload.
+[2023.02.20-13.53.04:893][664]LogBlueprintActionDatabase: Requesting refresh due to module change: ArenaBattle (loaded)
+[2023.02.20-13.53.04:894][664]LogContentBrowser: Native class hierarchy updated for 'ArenaBattle' in 0.0006 seconds. Added 25 classes and 2 folders.
+[2023.02.20-13.53.04:898][664]Display: HotReload successful (15 functions remapped  1 scriptstructs remapped)
+[2023.02.20-13.53.04:960][664]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2023.02.20-13.53.04:961][664]LogBlueprintActionDatabase: Requesting refresh due to hot reload
+[2023.02.20-13.53.04:969][664]LogContentBrowser: Native class hierarchy populated in 0.0086 seconds. Added 2759 classes and 666 folders.
+[2023.02.20-13.53.04:979][664]Display: HotReload took 45.7s.
+[2023.02.20-13.53.55:997][383]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (51.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2023.02.20-13.54.06:982][416]LogHotReload: New module detected: UE4Editor-ArenaBattle-0015.dll
+[2023.02.20-13.54.09:666][425]LogHotReload: Starting Hot-Reload from IDE
+[2023.02.20-13.54.09:759][425]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2023.02.20-13.54.09:759][425]LogBlueprintActionDatabase: Requesting refresh due to module change: ArenaBattle (unloaded)
+[2023.02.20-13.54.09:857][425]LogClass: ECharacterState HotReload.
+[2023.02.20-13.54.09:857][425]LogClass: ABCharacterData HotReload.
+[2023.02.20-13.54.09:869][425]LogHotReload: Re-instancing ABPlayerController after hot-reload.
+[2023.02.20-13.54.10:032][425]LogBlueprintActionDatabase: Requesting refresh due to module change: ArenaBattle (loaded)
+[2023.02.20-13.54.10:033][425]LogContentBrowser: Native class hierarchy updated for 'ArenaBattle' in 0.0005 seconds. Added 25 classes and 2 folders.
+[2023.02.20-13.54.10:037][425]Display: HotReload successful (15 functions remapped  1 scriptstructs remapped)
+[2023.02.20-13.54.10:127][425]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2023.02.20-13.54.10:127][425]LogBlueprintActionDatabase: Requesting refresh due to hot reload
+[2023.02.20-13.54.10:135][425]LogContentBrowser: Native class hierarchy populated in 0.0085 seconds. Added 2759 classes and 666 folders.
+[2023.02.20-13.54.10:146][425]Display: HotReload took  0.5s.
+[2023.02.20-13.54.12:925][659]LogTemp: Repeating last play command: 선택된 뷰포트
+[2023.02.20-13.54.12:933][659]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Book/Maps/GamePlay.GamePlay:PersistentLevel' has LevelScriptBlueprint '/Game/Book/Maps/GamePlay.GamePlay:PersistentLevel.GamePlay' with GeneratedClass '/Game/Book/Maps/GamePlay.GamePlay_C' with ClassGeneratedBy '/Game/Book/Maps/GamePlay.GamePlay:PersistentLevel.GamePlay'
+[2023.02.20-13.54.12:933][659]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.20-13.54.12:933][659]PIE: New page: PIE 세션: GamePlay (2023. 2. 21. 오전 7:54:12)
+[2023.02.20-13.54.12:933][659]LogPlayLevel: Creating play world package: /Game/Book/Maps/UEDPIE_0_GamePlay
+[2023.02.20-13.54.12:938][659]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005314s)
+[2023.02.20-13.54.12:939][659]LogAIModule: Creating AISystem for world GamePlay
+[2023.02.20-13.54.12:939][659]LogPlayLevel: PIE: World Init took: (0.000645s)
+[2023.02.20-13.54.12:939][659]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Book/Maps/GamePlay.GamePlay to /Game/Book/Maps/UEDPIE_0_GamePlay.GamePlay (0.006083s)
+[2023.02.20-13.54.12:994][659]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2023.02.20-13.54.13:039][659]LogInit: XAudio2 using '스피커(USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2023.02.20-13.54.13:057][659]LogInit: FAudioDevice initialized.
+[2023.02.20-13.54.13:083][659]LogLoad: Game class is 'ABGameMode'
+[2023.02.20-13.54.13:085][659]LogWorld: Bringing World /Game/Book/Maps/UEDPIE_0_GamePlay.GamePlay up for play (max tick rate 0) at 2023.02.20-22.54.13
+[2023.02.20-13.54.13:085][659]LogWorld: Bringing up level for play took: 0.001022
+[2023.02.20-13.54.13:097][659]ArenaBattle: Warning: AABPlayerController::PostInitializeComponents(35)
+[2023.02.20-13.54.13:098][659]ArenaBattle: Warning: AABPlayerController::OnPossess(40)
+[2023.02.20-13.54.13:116][659]ArenaBattle: Warning: AABPlayerState::GetExpRatio(78) Ratio : 0.000000, Current : 0, Next : 30
+[2023.02.20-13.54.13:116][659]PIE: /Game/Book/Maps/UEDPIE_0_GamePlay 에 대한 에디터에서 플레이 시작 시간: 0.073
+[2023.02.20-13.54.13:116][659]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Book/Maps/GamePlay.GamePlay:PersistentLevel' has LevelScriptBlueprint '/Game/Book/Maps/GamePlay.GamePlay:PersistentLevel.GamePlay' with GeneratedClass '/Game/Book/Maps/GamePlay.GamePlay_C' with ClassGeneratedBy '/Game/Book/Maps/GamePlay.GamePlay:PersistentLevel.GamePlay'
+[2023.02.20-13.54.20:164][501]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.02.20-13.54.22:230][749]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.02.20-13.54.22:342][762]LogNet: Browse: /Game/Book/Maps/Title
+[2023.02.20-13.54.22:342][762]LogLoad: LoadMap: /Game/Book/Maps/Title
+[2023.02.20-13.54.22:387][762]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2023.02.20-13.54.22:413][762]LogAIModule: Creating AISystem for world Title
+[2023.02.20-13.54.22:413][762]LogLoad: Game class is 'BP_SelectGameMode_C'
+[2023.02.20-13.54.22:414][762]LogWorld: Bringing World /Game/Book/Maps/UEDPIE_0_Title.Title up for play (max tick rate 0) at 2023.02.20-22.54.22
+[2023.02.20-13.54.22:414][762]LogWorld: Bringing up level for play took: 0.000454
+[2023.02.20-13.54.22:414][762]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.02.20-13.54.22:415][762]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2023.02.20-13.54.22:415][762]LogLoad: Took 0.073439 seconds to LoadMap(/Game/Book/Maps/Title)

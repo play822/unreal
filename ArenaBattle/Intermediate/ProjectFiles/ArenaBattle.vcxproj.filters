@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\ArenaBattle.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{31CDCD31-264E-4ED1-837D-99EF3D36E47F}</UniqueIdentifier>
+      <UniqueIdentifier>{F12877F8-2935-4286-89E3-4AE0D903B404}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\ArenaBattle.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{03E043A2-7CAB-4B7E-8A8D-8A56AC2D9245}</UniqueIdentifier>
+      <UniqueIdentifier>{AF61A6BA-13D6-46B4-87C4-2CA260B9D2CA}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultArenaBattle.ini">
       <Filter>Config</Filter>
@@ -33,13 +33,13 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\ArenaBattle">
-      <UniqueIdentifier>{555CD175-D3F5-411F-A14C-D30582A42DC9}</UniqueIdentifier>
+      <UniqueIdentifier>{0AAA8F5D-D677-40DB-9958-AC4060602C98}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\ArenaBattle\ArenaBattle.Build.cs">
       <Filter>Source\ArenaBattle</Filter>
     </None>
     <Filter Include="Source\ArenaBattle\Private">
-      <UniqueIdentifier>{D38981A9-3394-499C-A79F-58C9D844F888}</UniqueIdentifier>
+      <UniqueIdentifier>{0B9FB014-6F0B-4EF2-8000-A5568E92DCA8}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\ArenaBattle\Private\ABAIController.cpp">
       <Filter>Source\ArenaBattle\Private</Filter>
@@ -62,6 +62,9 @@
     <ClCompile Include="..\..\Source\ArenaBattle\Private\ABGameMode.cpp">
       <Filter>Source\ArenaBattle\Private</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\Source\ArenaBattle\Private\ABGameState.cpp">
+      <Filter>Source\ArenaBattle\Private</Filter>
+    </ClCompile>
     <ClCompile Include="..\..\Source\ArenaBattle\Private\ABHUDWidget.cpp">
       <Filter>Source\ArenaBattle\Private</Filter>
     </ClCompile>
@@ -77,7 +80,13 @@
     <ClCompile Include="..\..\Source\ArenaBattle\Private\ABPlayerState.cpp">
       <Filter>Source\ArenaBattle\Private</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\Source\ArenaBattle\Private\ABSaveGame.cpp">
+      <Filter>Source\ArenaBattle\Private</Filter>
+    </ClCompile>
     <ClCompile Include="..\..\Source\ArenaBattle\Private\ABSection.cpp">
+      <Filter>Source\ArenaBattle\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ArenaBattle\Private\ABUIPlayerController.cpp">
       <Filter>Source\ArenaBattle\Private</Filter>
     </ClCompile>
     <ClCompile Include="..\..\Source\ArenaBattle\Private\ABWeapon.cpp">
@@ -102,7 +111,7 @@
       <Filter>Source\ArenaBattle\Private</Filter>
     </ClCompile>
     <Filter Include="Source\ArenaBattle\Public">
-      <UniqueIdentifier>{C3C73E6A-1B34-48D4-8615-E4B96DC2F1E0}</UniqueIdentifier>
+      <UniqueIdentifier>{3D34B0FD-82A5-48D1-8F79-A2B39C70FA32}</UniqueIdentifier>
     </Filter>
     <ClInclude Include="..\..\Source\ArenaBattle\Public\ABAIController.h">
       <Filter>Source\ArenaBattle\Public</Filter>
@@ -125,6 +134,9 @@
     <ClInclude Include="..\..\Source\ArenaBattle\Public\ABGameMode.h">
       <Filter>Source\ArenaBattle\Public</Filter>
     </ClInclude>
+    <ClInclude Include="..\..\Source\ArenaBattle\Public\ABGameState.h">
+      <Filter>Source\ArenaBattle\Public</Filter>
+    </ClInclude>
     <ClInclude Include="..\..\Source\ArenaBattle\Public\ABHUDWidget.h">
       <Filter>Source\ArenaBattle\Public</Filter>
     </ClInclude>
@@ -140,7 +152,13 @@
     <ClInclude Include="..\..\Source\ArenaBattle\Public\ABPlayerState.h">
       <Filter>Source\ArenaBattle\Public</Filter>
     </ClInclude>
+    <ClInclude Include="..\..\Source\ArenaBattle\Public\ABSaveGame.h">
+      <Filter>Source\ArenaBattle\Public</Filter>
+    </ClInclude>
     <ClInclude Include="..\..\Source\ArenaBattle\Public\ABSection.h">
+      <Filter>Source\ArenaBattle\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\ArenaBattle\Public\ABUIPlayerController.h">
       <Filter>Source\ArenaBattle\Public</Filter>
     </ClInclude>
     <ClInclude Include="..\..\Source\ArenaBattle\Public\ABWeapon.h">
@@ -165,13 +183,13 @@
       <Filter>Source\ArenaBattle\Public</Filter>
     </ClInclude>
     <Filter Include="Source\ArenaBattleSetting">
-      <UniqueIdentifier>{2FF97B76-7884-499E-9B54-77676C1947AD}</UniqueIdentifier>
+      <UniqueIdentifier>{FB1B3F90-6667-4CA9-A94B-13C1B19B4B6C}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\ArenaBattleSetting\ArenaBattleSetting.Build.cs">
       <Filter>Source\ArenaBattleSetting</Filter>
     </None>
     <Filter Include="Source\ArenaBattleSetting\Private">
-      <UniqueIdentifier>{7F8DE14E-36DD-4073-99EB-0A32E9C94AD2}</UniqueIdentifier>
+      <UniqueIdentifier>{613BD0FD-CB20-45D4-983D-0EE3CCDCA15A}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\ArenaBattleSetting\Private\ABCharacterSetting.cpp">
       <Filter>Source\ArenaBattleSetting\Private</Filter>
@@ -180,7 +198,7 @@
       <Filter>Source\ArenaBattleSetting\Private</Filter>
     </ClCompile>
     <Filter Include="Source\ArenaBattleSetting\Public">
-      <UniqueIdentifier>{25BDFEF9-4C71-4D5E-8F30-3ABC4C276F36}</UniqueIdentifier>
+      <UniqueIdentifier>{04AC9485-526B-46CB-8E62-05232671B01C}</UniqueIdentifier>
     </Filter>
     <ClInclude Include="..\..\Source\ArenaBattleSetting\Public\ABCharacterSetting.h">
       <Filter>Source\ArenaBattleSetting\Public</Filter>
@@ -190,18 +208,24 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\Source\ArenaBattle\Public\ABGameState.h">
+    <ClInclude Include="..\..\Source\ArenaBattle\Public\ABCharacterSelectWidget.h">
       <Filter>Source\ArenaBattle\Public</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\Source\ArenaBattle\Public\ABSaveGame.h">
+    <ClInclude Include="..\..\Source\ArenaBattle\Public\ABGamePlayWidget.h">
+      <Filter>Source\ArenaBattle\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\ArenaBattle\Public\ABGamePlayResultWidget.h">
       <Filter>Source\ArenaBattle\Public</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\Source\ArenaBattle\Private\ABGameState.cpp">
+    <ClCompile Include="..\..\Source\ArenaBattle\Private\ABCharacterSelectWidget.cpp">
       <Filter>Source\ArenaBattle\Private</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\Source\ArenaBattle\Private\ABSaveGame.cpp">
+    <ClCompile Include="..\..\Source\ArenaBattle\Private\ABGamePlayWidget.cpp">
+      <Filter>Source\ArenaBattle\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ArenaBattle\Private\ABGamePlayResultWidget.cpp">
       <Filter>Source\ArenaBattle\Private</Filter>
     </ClCompile>
   </ItemGroup>

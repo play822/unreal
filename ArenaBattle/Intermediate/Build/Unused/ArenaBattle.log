@@ -1,22 +1,64 @@
-﻿  Using 'git status' to determine working set for adaptive non-unity build (E:\git\ArenaBattle).
+﻿  Using 'git status' to determine working set for adaptive non-unity build (D:\git\ArenaBattle).
   Creating makefile for ArenaBattleEditor (ini files are newer than makefile)
   Parsing headers for ArenaBattleEditor
-    Running UnrealHeaderTool "E:\git\ArenaBattle\ArenaBattle\ArenaBattle.uproject" "E:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\ArenaBattleEditor\Development\ArenaBattleEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
-  Reflection code generated for ArenaBattleEditor in 4.1054722 seconds
-  Deleted hot-reload file: E:\git\ArenaBattle\ArenaBattle\Binaries\Win64\UE4Editor-ArenaBattle-0001.dll
-  Deleted hot-reload file: E:\git\ArenaBattle\ArenaBattle\Binaries\Win64\UE4Editor-ArenaBattleSetting-0001.dll
-  Deleted hot-reload file: E:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattleSetting\UE4Editor-ArenaBattleSetting-0001.lib
-  Deleted hot-reload file: E:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\UE4Editor-ArenaBattle-0001.lib
+    Running UnrealHeaderTool "D:\git\ArenaBattle\ArenaBattle\ArenaBattle.uproject" "D:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\ArenaBattleEditor\Development\ArenaBattleEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+  Reflection code generated for ArenaBattleEditor in 4.6261613 seconds
+  Deleted hot-reload file: D:\git\ArenaBattle\ArenaBattle\Binaries\Win64\UE4Editor-ArenaBattle-0002.dll
+  Deleted hot-reload file: D:\git\ArenaBattle\ArenaBattle\Binaries\Win64\UE4Editor-ArenaBattle-0003.dll
+  Deleted hot-reload file: D:\git\ArenaBattle\ArenaBattle\Binaries\Win64\UE4Editor-ArenaBattle-0004.dll
+  Deleted hot-reload file: D:\git\ArenaBattle\ArenaBattle\Binaries\Win64\UE4Editor-ArenaBattle-0006.dll
+  Deleted hot-reload file: D:\git\ArenaBattle\ArenaBattle\Binaries\Win64\UE4Editor-ArenaBattle-0007.dll
+  Deleted hot-reload file: D:\git\ArenaBattle\ArenaBattle\Binaries\Win64\UE4Editor-ArenaBattle-0008.dll
+  Deleted hot-reload file: D:\git\ArenaBattle\ArenaBattle\Binaries\Win64\UE4Editor-ArenaBattle-0010.dll
+  Deleted hot-reload file: D:\git\ArenaBattle\ArenaBattle\Binaries\Win64\UE4Editor-ArenaBattle-0011.dll
+  Deleted hot-reload file: D:\git\ArenaBattle\ArenaBattle\Binaries\Win64\UE4Editor-ArenaBattle-0012.dll
+  Deleted hot-reload file: D:\git\ArenaBattle\ArenaBattle\Binaries\Win64\UE4Editor-ArenaBattle-0014.dll
+  Deleted hot-reload file: D:\git\ArenaBattle\ArenaBattle\Binaries\Win64\UE4Editor-ArenaBattle-0015.dll
+  Deleted hot-reload file: D:\git\ArenaBattle\ArenaBattle\Binaries\Win64\UE4Editor-ArenaBattleSetting-0001.dll
+  Deleted hot-reload file: D:\git\ArenaBattle\ArenaBattle\Binaries\Win64\UE4Editor-ArenaBattleSetting-0002.dll
+  Deleted hot-reload file: D:\git\ArenaBattle\ArenaBattle\Binaries\Win64\UE4Editor-ArenaBattleSetting-0003.dll
+  Deleted hot-reload file: D:\git\ArenaBattle\ArenaBattle\Binaries\Win64\UE4Editor-ArenaBattleSetting-0004.dll
+  Deleted hot-reload file: D:\git\ArenaBattle\ArenaBattle\Binaries\Win64\UE4Editor-ArenaBattleSetting-0006.dll
+  Deleted hot-reload file: D:\git\ArenaBattle\ArenaBattle\Binaries\Win64\UE4Editor-ArenaBattleSetting-0007.dll
+  Deleted hot-reload file: D:\git\ArenaBattle\ArenaBattle\Binaries\Win64\UE4Editor-ArenaBattleSetting-0008.dll
+  Deleted hot-reload file: D:\git\ArenaBattle\ArenaBattle\Binaries\Win64\UE4Editor-ArenaBattleSetting-0010.dll
+  Deleted hot-reload file: D:\git\ArenaBattle\ArenaBattle\Binaries\Win64\UE4Editor-ArenaBattleSetting-0011.dll
+  Deleted hot-reload file: D:\git\ArenaBattle\ArenaBattle\Binaries\Win64\UE4Editor-ArenaBattleSetting-0012.dll
+  Deleted hot-reload file: D:\git\ArenaBattle\ArenaBattle\Binaries\Win64\UE4Editor-ArenaBattleSetting-0014.dll
+  Deleted hot-reload file: D:\git\ArenaBattle\ArenaBattle\Binaries\Win64\UE4Editor-ArenaBattleSetting-0015.dll
+  Deleted hot-reload file: D:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattleSetting\UE4Editor-ArenaBattleSetting-0001.lib
+  Deleted hot-reload file: D:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattleSetting\UE4Editor-ArenaBattleSetting-0002.lib
+  Deleted hot-reload file: D:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattleSetting\UE4Editor-ArenaBattleSetting-0003.lib
+  Deleted hot-reload file: D:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattleSetting\UE4Editor-ArenaBattleSetting-0004.lib
+  Deleted hot-reload file: D:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattleSetting\UE4Editor-ArenaBattleSetting-0006.lib
+  Deleted hot-reload file: D:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattleSetting\UE4Editor-ArenaBattleSetting-0007.lib
+  Deleted hot-reload file: D:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattleSetting\UE4Editor-ArenaBattleSetting-0008.lib
+  Deleted hot-reload file: D:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattleSetting\UE4Editor-ArenaBattleSetting-0010.lib
+  Deleted hot-reload file: D:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattleSetting\UE4Editor-ArenaBattleSetting-0011.lib
+  Deleted hot-reload file: D:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattleSetting\UE4Editor-ArenaBattleSetting-0012.lib
+  Deleted hot-reload file: D:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattleSetting\UE4Editor-ArenaBattleSetting-0014.lib
+  Deleted hot-reload file: D:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattleSetting\UE4Editor-ArenaBattleSetting-0015.lib
+  Deleted hot-reload file: D:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\UE4Editor-ArenaBattle-0002.lib
+  Deleted hot-reload file: D:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\UE4Editor-ArenaBattle-0003.lib
+  Deleted hot-reload file: D:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\UE4Editor-ArenaBattle-0004.lib
+  Deleted hot-reload file: D:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\UE4Editor-ArenaBattle-0006.lib
+  Deleted hot-reload file: D:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\UE4Editor-ArenaBattle-0007.lib
+  Deleted hot-reload file: D:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\UE4Editor-ArenaBattle-0008.lib
+  Deleted hot-reload file: D:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\UE4Editor-ArenaBattle-0010.lib
+  Deleted hot-reload file: D:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\UE4Editor-ArenaBattle-0011.lib
+  Deleted hot-reload file: D:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\UE4Editor-ArenaBattle-0012.lib
+  Deleted hot-reload file: D:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\UE4Editor-ArenaBattle-0014.lib
+  Deleted hot-reload file: D:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\UE4Editor-ArenaBattle-0015.lib
   Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
-  Building 5 actions with 12 processes...
+  Building 5 actions with 6 processes...
     [1/5] UE4Editor-ArenaBattleSetting.lib
-       E:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattleSetting\UE4Editor-ArenaBattleSetting.lib 라이브러리 및 E:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattleSetting\UE4Editor-ArenaBattleSetting.exp 개체를 생성하고 있습니다.
+       D:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattleSetting\UE4Editor-ArenaBattleSetting.lib 라이브러리 및 D:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattleSetting\UE4Editor-ArenaBattleSetting.exp 개체를 생성하고 있습니다.
     [2/5] UE4Editor-ArenaBattle.lib
-       E:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\UE4Editor-ArenaBattle.lib 라이브러리 및 E:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\UE4Editor-ArenaBattle.exp 개체를 생성하고 있습니다.
+       D:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\UE4Editor-ArenaBattle.lib 라이브러리 및 D:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\UE4Editor-ArenaBattle.exp 개체를 생성하고 있습니다.
     [3/5] UE4Editor-ArenaBattleSetting.dll
-       E:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattleSetting\UE4Editor-ArenaBattleSetting.suppressed.lib 라이브러리 및 E:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattleSetting\UE4Editor-ArenaBattleSetting.suppressed.exp 개체를 생성하고 있습니다.
+       D:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattleSetting\UE4Editor-ArenaBattleSetting.suppressed.lib 라이브러리 및 D:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattleSetting\UE4Editor-ArenaBattleSetting.suppressed.exp 개체를 생성하고 있습니다.
     [4/5] UE4Editor-ArenaBattle.dll
-       E:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\UE4Editor-ArenaBattle.suppressed.lib 라이브러리 및 E:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\UE4Editor-ArenaBattle.suppressed.exp 개체를 생성하고 있습니다.
+       D:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\UE4Editor-ArenaBattle.suppressed.lib 라이브러리 및 D:\git\ArenaBattle\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\UE4Editor-ArenaBattle.suppressed.exp 개체를 생성하고 있습니다.
     [5/5] ArenaBattleEditor.target
-  Total time in Parallel executor: 2.05 seconds
-  Total execution time: 7.40 seconds
+  Total time in Parallel executor: 2.75 seconds
+  Total execution time: 8.92 seconds
